@@ -1,0 +1,367 @@
+Strana 700 VOJNOSANITETSKI PREGLED Vojnosanit Pregl 2012; 69(8): 700–706.
+G E N E R A L R E V I E W UDC: 575::618.19-006
+DOI: 10.2298/VSP110421014B
+Genetics of breast cancer: contribution of BRCA1/2 genes alterations
+to hereditary predisposition
+Genetika karcinoma dojke: alteracije BRCA1/2 gena i njihov doprinos
+naslednoj predispoziciji
+Mirjana Brankovi(cid:252)-Magi(cid:252), Jelena Dobri(cid:254)i(cid:252), Ana Krivoku(cid:252)a
+Department of Experimental Oncology, Institute for Oncology and Radiology of Serbia,
+Belgrade, Serbia
+Key words: Klju(cid:255)ne re(cid:255)i:
+breast neoplasms; genetic predisposition to disease; dojka, neoplazme; bolest, genetska predispozicija;
+genes, brca1; genes, brca2; mutation. geni, brca1; geni, brca2; mutacija.
+Introduction cer cases in extended family. In hereditary form of disease
+one of the two alleles of the gene responsible for the disease
+The term “hereditary cancer” refers to cancers associ- is altered by germ-line mutation. The off-spring of the muta-
+ated with specific germ-line mutations in highly penetrant tion carriers has 50% chance of inheriting a mutant allele
+genes which are inherited as a Mendelian trait, whether from either parent. The most common variant of hereditary
+through an oncogene, a tumor suppressor gene, or a DNA re- breast cancer (HBC) is the appearance of breast as well as
+pair gene. Since the first association between germ-line mu- ovarian cancer cases in the same family (HBOC). The disease
+tations and hereditary predisposition for particular cancer can also occur as site-specific breast or ovarian cancer. Other
+types has been found in the mid of 90-ties, investigations tumor types such as pancreatic cancer, Fallopian tube carci-
+pointed out a variety of tumor types with inherited predispo- noma, melanoma or prostate cancer in men can be commonly
+sition to a high or moderate/low risk for development of dis- present in families with hereditary breast cancer 7–9.
+ease (melanoma, gastric cancer, MEN I, MEN II, hereditary
+nonpolyposis colon cancer, etc) 1–4. Data that hereditary pre- Characteristics and functions of BRCA 1/2 genes
+disposition, recognized by family clustering, has been found
+for the arising number of cancer types, together with intro- Discovery of the association between breast and ovarian
+ducing of screening for the mutations in responsible genes, cancer and BRCA1 (in 1994) and BRCA2 (in 1995) genes
+makes different insight into cancer prevention and manage- have made it possible to screen women for genetic predispo-
+ment of patients with malignant disease. sition to develop either one or both of these diseases 7.
+Breast cancer is the most frequent malignant tumor in BRCA1 and BRCA2 genes are highly, but not completely
+females in Serbia. The incidence can be described with more penetrant genes (about 80%). So far, more than 20 genes of
+than 4,000 newly diagnosed cases per year 5, 6. Unfortu- low to medium penetrance that can modify the pentrance of
+nately, incidence and mortality trends show permanent in- BRCA1/2 genes in carriers of mutations (modifier genes), in
+crement in the few last years. Breast cancer can occur as spo- that way modifying risk for hereditary disease, have been
+radic, familial and hereditary. The majority of breast cancers identified 10, 11.
+are recognized as sporadic in patients with no cancer history BRCA1 and BRCA2 genes are classified as tumor sup-
+in the family. The incidence of sporadic breast cancer rises in pressor genes. Both genes are large – BRCA1 has 22 and
+women over 50 years old. Minorities of breast and/or ovarian BRCA2 26 coding exons. For both genes exon 1 is noncod-
+cancer patients (up to 5% to 10%) have a striking family ing, and both have unusually large exon 11. BRCA1 gene is
+history, suggestive of Mendelian autosomal dominant in- located on chromosome 17q21 while BRCA2 is located on
+heritance. An additional 20% of breast cancer cases are con- chromosome 13q12. BRCA1 encodes for 1863, while
+sidered as familial describing situation with at least two can- BRCA2 encodes for 3418 amino acid protein product 7. Mu-
+Correspondence to: Mirjana Brankovi(cid:253)-Magi(cid:253), Institute for Oncology and Radiology of Serbia, Pasterova 14, 11 000 Belgrade, Serbia.
+Phone: +, Fax: +. E-mail: brankovicm@ncrc.ac.rs
+Volumen 69, Broj 8 VOJNOSANITETSKI PREGLED Strana 701
+tations are scattered throughout coding regions of both genes fect” – some of rare mutations in small and isolated ethnic
+without clustering or “hot spots” resulting in a huge number groups may become more frequent in the next generations
+of mutations detected in each gene – more than 1,600 in due to reproductive isolation (founder mutations). All popu-
+BRCA1 and 1,900 in BRCA2 mutations have been reported lations have their own founder mutations, but they can not be
+7, 8. The majority of them, but not all of them, are capable of easily recognized due to the presence of additional BRCA
+disrupting the function of BRCA protein product in that way variants that rose in reproductively mixed populations 15.
+affecting the risk for malignant disease. So far, we identified But, large proportion of BRCA mutations are detected only
+15 persons affected with BRCA1 (7 types in 11 persons) and once – it can be said that the most of families at risk tend to
+BRCA2 (3 types in 4 persons) deleterious mutations in Ser- have their own mutation. Besides common, population spe-
+bian population. Other BRCA1/2 sequence variants (unclas- cific and family specific mutations are detected 16. It is ques-
+sified and polymorphic) were also found 12–16. Among them, tionable if all deleterious mutations have the same pene-
+4765del20 in exon 15 of BRCA1 and 4366insTT in exon 11 trance 7. Age-dependent penetrance of different germ-line
+of BRCA2 gene are new deleterious mutations, firstly re- mutations in BRCA1 genes was recently reported – the
+ported in our population 16. authors concluded that different BRCA1 mutations have dis-
+Concerning mutation type, about 70% of detected mu- tinct effects that influence age of onset of breast and ovarian
+tations are frameshift mutations, while nonsense, as well as cancer 22.
+missense mutations contribute with about 10% each. Besides BRCA1/2 protein products are implicated in a variety
+small changes in DNK structure such as frameshift or point of important cellular processes acting through interaction
+mutations, in BRCA genes are also reported large genomic with other molecules in signalling pathways – DNA repair,
+rearrangements. Somatic BRCA1/2 mutations are rare in transcriptional regulation, cell-cycle regulation and chroma-
+sporadic breast cancer, but other mechanisms such as epige- tin remodelling (reviewed in Figure 1). BRCA1 and BRCA2
+Fig. 1 – Schematic representation of BRCA1 and BRCA2 cellular pathways
+in interaction with other signalling molecules
+netic inactivation by hypermethilation of BRCA1 promotor protein products are included in repair of doublestrad DNA
+sequence were reported. BRCA1/2 somatic mutations are not breaks by homologous recombination mechanism. For ex-
+so rare events in sporadic ovarian cancer 17. ample, ionizing radiation, as well as cytotoxic agents cause
+BRCA1 and BRCA2 mutational spectra are population DNA doublestrand breaks.
+- specific and different founder mutations are reported in dif- Mutations in BRCA1/2 genes, especially frameshift
+ferent populations 7, 18. Data about ethnicity is also important mutations, cause the syntheses of proteins truncated at
+since it has been shown that some ethnically isolated popu- various extent. Such protein product, usually lack some
+lations such as Ashkenazi Jews or Islanders, due to inbreed- domain crucial for its proper function (such as BRCT or
+ing, have limited number of BRCA1/2 mutations – more than BRC domains in BRCA1 or BRCA2), respectively, leading
+90% of BRCA mutation carriers of Ashkenazi Jewish to genome instability and elevated cancer risk 7. BRCT
+women can be described with two BRCA1 (185delAG and domains are crucial for BRCA1 interaction with a variety
+5382insC) and one BRCA2 (6174delT) mutations 19, 20. In of proteins, forming complexes and enabling proper func-
+Iceland, which is geographically isolated, there is only one tion of various important cellular processes. The fact that
+founder mutation 21. This is the consequence of “founder ef- about 80% of BRCA1 germline mutations result in C ter-
+Brankovi(cid:253)-Magi(cid:253) M, et al. Vojnosanit Pregl 2012; 69(8): 700–706.
+Strana 702 VOJNOSANITETSKI PREGLED Volumen 69, Broj 8
+minus truncation that include BRCT region and lead to in- (from 11 to 27%) 29. The risk for the development of ovarian
+creased predisposition for breast and/or ovarian cancer, cancer is elevated about 20 times in BRCA1/2 mutation car-
+point out the importance of BRCT domains for BRCA1 riers 29. Characteristic of BRCA-related cancer is that he-
+protein function. BRCA1 protein has a highly conserved reditary breast cancer occurs at an earlier age than the spo-
+RING domain at its amino terminus and two BRCT do- radic form of disease. Women with BRCA1/BRCA2 muta-
+mains at the end of its carboxyl terminus. The fact that tion have a 33% to 50% chance to develop breast cancer be-
+many clinically important mutations are located in parts of fore the age of 50 in comparison with general population
+BRCA1 gene that encode these highly conserved domains with the chance of 2% only 30.
+indicates that they are very important for BRCA1 function. The presence of BRCA1/2 mutation elevates the risk
+The RING domain of BRCA1 mediates its association with for bilateral breast cancer. BRCA1 mutation elevates the risk
+BRCA1-associated RING domain protein 1 (BARD1) 23. for contralateral breast cancer up to 64% by the age of 70,
+BRCA1–BARD1 dimer has been implicated in the mainte- while BRCA2 mutations elevates this risk to about 50% 31.
+nance of genomic stability and tumor suppression through Besides this, elevated lifetime risk (up to 7%) for male
+its involvement in DNA damage signalling, DNA repair breast and prostate cancer (up to 20%) is mostly related to
+and transcriptional regulation. BRCT domains interact with BRCA2 mutation 32.
+Rb tumor suppressor gene, as well as with other proteins
+associated with Rb, that are thought to be included in
+Hereditary predisposition identifying
+chromatin remodelling processes 24 that is required before
+and after DNA repair processes. Now it is clear that with BRCA1/2 alterations all he-
+The main function of BRCA2 protein is DNA repair. reditary predisposition for breast/ovarian cancer can not be
+BRCA2 protein in its structure has eight BRC repeats that covered. It was shown that BRCA mutations caused heredi-
+represent conserved sequence motifs of about 30 amino acids tary form of the disease in families with both tumor types
+each. BRC repeats are crucial for BRCA2 interaction with clustering (breast/ovarian) (75%). In site-specific breast can-
+RAD51. BRCA2, by interacting with RAD51, plays a key cer the percent is lower – about 60% of female breast cancer
+role in DNA repair by homologous recombination. Lack of families are caused by BRCA1/BRCA2 mutations 8. This
+any of those domains disrupts BRCA2-RAD51 interaction, data depends on population studied. It is clear that besides
+leading to DNA repair malfunction, elevating cancer risk 7. contribution of alterations of some other genes such as p53
+(Li-Fraumeni syndrome), PTEN (Cowden syndrome), ATM
+ataxia–telangiectasia i (mutated protein) etc., which rarely
+Lifetime risk for the development of cancer in
+influence hereditary predisposition to breast/ovarian cancer,
+BRCA1/2 mutation carriers
+some now undefined genes will be discovered.
+It must be pointed out that the risk of BRCA-associated As major clinical benefits may occur through identify-
+breast and ovarian cancer is related only to epithelial malig- ing clinical risk indicators of the hereditary cancer pheno-
+nancies of both organs. As the consequence of limited pena- type, it is necessary that attention be paid to 33: positive fam-
+trance of BRCA genes is the fact that all of BRCA1/2 muta- ily history of breast cancer, especially with early age of onset
+tion carriers will not develop malignant disease. So far, it is (at least two cases of breast cancer before the age of 50 from
+not possible to predict which of BRCA mutation carriers will the same side (of family tree - about 50% of BRCA1-
+develop disease, although genetic or environmental factors associated breast cancer cases are diagnosed by age of 41);
+affecting penetrability of BRCA genes are intensively inves- breast cancer before the age of 35, without positive family
+tigated 25–27. Identification of BRCA1 and BRCA2 mutation history; bilateral breast cancer; ovarian cancer at any age as-
+can be used only for the risk estimation. But, it is obvious sociated with positive family history of breast and/or ovarian
+that the majority of women with inherited mutation in cancer; multiple cancers in the same person; male breast
+BRCA1 or BRCA2 gene will develop breast and/or ovarian cancer at any age; relatives of a BRCA mutation carrier;
+cancer. Earlier estimates of lifetime risk were higher, espe- Ashkenazi Jewish ancestry.
+cially if they were derived from families with a strong posi-
+tive family history. Estimates of lifetime risk vary considera- Genetic susceptibility testing
+bly depending on the group studied (for instance, if cases are
+selected for family history or not), type of mutations in- Hereditary breast and/or ovarian cancer belong to the
+cluded in study, age selected etc. For instance, for Ashkenazi group of hereditary syndromes with a high probability of link-
+Jewish BRCA1 mutation 5382insC, which is also present in age to known cancer susceptibility genes (BRCA1/BRCA2). It
+Serbian population, lifetime risk by the age of 70 is 67% and is accepted that identification of mutation carriers carry medical
+for ovarian cancer is 33% 28. Generally, reported BRCA1 - benefit, although due to limited penetrance of BRCA genes it
+and BRCA2 - related risk estimates by the age of 70 for can be only used for the risk estimation for malignant disease.
+breast cancer range from 45% to up to 87% – it can be said BRCA1/2 genetic tests were among the first genetic tests
+that the risk is elevated about 5 to 8 times in comparison to to become widely available, due to high incidence and
+the risk for sporadic breast cancer. The risk of ovarian cancer high mortality of breast cancer in Western countries. Ge-
+by the age of 70 in BRCA1 mutation carriers range from netic testing is performed in order to determine the mo-
+28% to 44%, while for BRCA2 carriers estimates are lower lecular basis of the disease.
+Brankovi(cid:253)-Magi(cid:253) M, et al. Vojnosanit Pregl 2012; 69(8): 700–706.
+Volumen 69, Broj 8 VOJNOSANITETSKI PREGLED Strana 703
+BRCA testing is performed on a peripheral blood sample state that they fully understand the terms and have had ade-
+due to the fact that we are searching for germ-line mutation quate opportunity to ask questions 37 – our informed consent
+present in all cells in organism. The most appropriate test for has been approved by the Ethics Committee of the Institute. It
+identification of BRCA1/BRCA2 mutations is a complete se- is imperative that counseling must be nondirective, allowing a
+quence analysis of the entire coding sequence and this remains patient full autonomy in deciding whether to be tested. Pre-test
+the “gold standard” for mutation screening 34. An ideal situa- education should include the following information 36: de-
+tion is the possibility to test a patient with breast/ovarian can- scription of the patient’s risk status; explanation of what it
+cer as the first in the family with clustering of disease. In ad- means to have inherited susceptibility to cancer; information
+dition to the whole BRCA genes sequencing, other options about testing outcomes – results may be positive, negative or
+are possible in certain situations 34: for BRCA testing of uninformative; appraisal of the risks, benefits and limitations
+relatives, when a specific type of mutation is confirmed in of genetic testing; discussion on cancer surveillance and
+family member; for limited number of founder mutations in limitations of anticancer therapies; information about the risk
+some populations such as Ashkenazi Jewish women; in 2%– of passing a mutation to children; review of psychological is-
+12% of high-risk patients BRCA alterations are consisted of sues related to genetic testing; explanation of alternative to
+large genomic rearrangements and specific techniques such genetic testing.
+as multiplex ligation-dependent probe amplification (MLPA) In post-test counseling the counselor have to help pa-
+are indicated. tients to understand the results. A patient has also the right to
+BRCA1 and BRCA2 testing can result in the finding of decide not to be told about test results. Post-test counseling
+deleterious mutation, with known clinical impact. The pres- for mutation carriers must include a full explanation of a
+ence of benign polymorphisms, but also of unclassified vari- positive result accompanied by a description of surveillance
+ants in both genes was reported. Special problem in deter- and options for clinical management. It must be performed
+mining genetic susceptibility to breast and/or ovarian cancer by a genetic counseling team, composed at least of a physi-
+are unclassified variants in BRCA genes 35. These variants cian, genetic counselor, psychologist and registered nurse.
+are missense mutations with uncertain influence on structure Moral problem lies mostly in concerns how to make mean-
+and function of BRCA1/2 protein products that result in their ingful use of the available genetic information and it is nec-
+unknown clinical impact. essary to weigh the risks against the harms in concrete cases.
+Bioethical principles of BRCA testing Pathobiology of hereditary breast cancer
+Awareness of one’s susceptibility to disease without an Breast cancer is heterogeneous disease in regard to
+actual possibility of intervention can lead to an unacceptable pathobiological characteristics, prognosis of disease and pre-
+use of such information (discrimination or social instrumen- dicting response to specific anticancer treatment. Growing
+talization), or might have psychological impact on the person data about different pathobiological characteristics among
+involved. The question that must be first asked is: Are the BRCA1- and BRCA2-related hereditary breast cancers, as
+risks connected with the knowledge of susceptibility to ge- well as especially BRCA1-related cancer compared to spo-
+netic disease proportional to the benefits that such knowl- radic breast cancer with a consequent influence on the course
+edge may provide? This problem is vast and involves medi- of the disease, enforce the need for hereditary breast cancer
+cal, psychological, social and ethical dilemmas. These di- characterization. Gene expression profiles of breast cancer
+lemmas are common to all predictive medicine, but the most have defined specific molecular sub-types with clinical, bio-
+evident in predictive DNA testing in hereditary breast cancer logical and therapeutic implications 38, 39. According to
+due to high risk for breast/ovarian cancer in healthy BRCA pathobiological characteristics, the majority of BRCA1-related
+mutation carriers. All available preventive measures (follow- cancers can be classified in the group of „triple-negative breast
+up, chemoprevention, bilateral prophylactic mastectomy or cancer” (TNBC) since they are characterized with the lack of
+oophorectomy) are important but not definitive 36. The expression of steroid receptors (estrogen and progesterone)
+choice of whether to pursue DNA testing belongs to the indi- and lack of Her-2 receptor overexpression 40–42. BRCA1-
+vidual. Respect for the individual’s autonomy is ensured by associated breast cancers are mostly pure differentiated carci-
+obtaining informed consent from that person. It is essential to nomas with ductal histology. About 10% of BRCA1-
+offer pre-test counseling to evaluate individual capacity for associated tumors show atypical medular histology. These
+autonomous decision-making 37. Pre-test counseling also cancers show also high mitotic index, pushing margins and
+provides view of the risks and benefits, potential treatment as the presence of necrosis. p53 mutations are more frequent in
+well as social and ethical implications involved. Genetic in- BRCA1-related than in sporadic breast cancer 42. Although
+formation has implications not only for the patients but also TNBC represents almost the exclusive phenotype in
+for their biological kin. Another big problem is to confront BRCA1-related breast cancer, it was recently reported that
+confidential setting between a patient and the physician and approximately 10 to 36% of BRCA1-associated breast can-
+the importance of forwarding that information to biological cers can be ER- positive 43. It seems that TNBC BRCA1-
+kin who can easily be carrier of the same gene alteration. related cancer is associated with younger age of onset ((cid:148)50),
+Appropriate pre-test counseling is finished with a person’s while ER+ BRCA1-related cancer occurs in elder mutation
+signing the consent form, where the persons are asked to carriers 43. It is suggested that ER+ BRCA- related cancer is
+Brankovi(cid:253)-Magi(cid:253) M, et al. Vojnosanit Pregl 2012; 69(8): 700–706.
+Strana 704 VOJNOSANITETSKI PREGLED Volumen 69, Broj 8
+pathologically intermediate between BRCA1-related ER- mediated homologous recombination, new targeted therapy
+breast cancer and ER+ sporadic breast cancer with the possi- for BRCA1/2 deficient tumors is constructed 46. According to
+bility that some of ER+ breast cancers in BRCA mutation car- the results of phase II clinical trials with PARP inhibitor
+riers may be incidental 43. Our previous investigation in Ser- Olaparib (Astra-Zeneca), this approach is very promising for
+bian population showed the presence of new BRCA1 muta- the treatment of BRCA1/2 mutated breast and ovarian cancer
+tion, previously not reported, in a patient with ER+ breast can- – complete or partial response was shown in more than 40%
+cer 16. It was found in older BRCA mutation carrier with of BRCA1/2 deficient patients 47, 48.
+strong family predisposition supporting an idea about ER+ What can be now recommended for healthy BRCA1/2
+BRCA1-related cancer as distinct entity of hereditary cancer mutation carriers? Two main approaches are, so far rec-
+rather than possibility that ER+ breast cancer in BRCA1 mu- ommended: clinical surveillance and prophylactic surgery.
+tation carriers is not the consequence of BRCA1 dysfunction Chemoprevention, as the method also recommended for
+and can be considered as sporadic one. BRCA2- associated medical management of BRCA1/2 mutation carriers, was
+breast tumors are more similar to sporadic breast cancer, with shown to be mostly effective for the prevention of contra-
+predominant ductal histology, frequent carcinoma in situ and leteral breast cancer in affected BRCA mutation carriers 49.
+expression of ER (about 75%) 41. BRCA1/2 mutations are In surveillance for breast cancer, breast self-exam, clinical
+common in high-grade serous papillary ovarian carcinomas 7. breast exam as well as radiological exams including mag-
+The main question related to pathobiological character- netic resonance imaging in certain time-periods is recom-
+istics of BRCA- associated cancer is if hereditary form of mended for healthy BRCA1/2 mutation carriers under the
+disease may have different course of disease in comparison age of 18 50, 51. In surveillance for ovarian cancer pelvic ex-
+to sporadic cancer, i.e. be more aggressive. Due to its char- ams, transvaginal ultrasound and CA-125 detection are in-
+acteristics, BRCA1- associated breast cancer has more ag- cluded 50, 52. However, prophylactic surgery is so far, the
+gressive phenotype and women with BRCA1-associated only approach with benefit in risk reduction for hereditary
+breast cancer seem to have worse prognosis of disease than disease. Bilateral prophlactic mastectomy with breast can-
+women with sporadic cancer, while BRCA2-associated cer risk reduction greater than 90%, as well as bilateral sal-
+breast cancer is more similar to sporadic one. pingo-oophorectomy at the age of 35 or after childbearing
+is complete with nearly 100% risk reduction for ovarian
+Treatment options for hereditary breast/ovarian cancer, but also up to 68% risk reduction for breast cancer
+cancer is recommended for healthy female BRCA1/2 mutation car-
+riers 53, 54.
+So far, BRCA-related cancer has been treated as spo-
+radic cancer – in accordance to classic prognostic parameters
+Conclusion
+(TNM, grade, histology etc) and breast cancer biomarkers
+(steroid and Her-2 receptors, Ki67 etc). BRCA1/2 status as Genetic testing for BRCA1/2 mutations is not a
+predictor of various chemotherapy regimens was discussed screening procedure for general population and is addressed
+in the literature 44, 45. BRCA deficient tumors was shown to to a selected part of population eligible according to includ-
+be more sensitive on platinum derivates regimens 45. But, it ing criteria. BRCA testing, since the presence of BRCA1/2
+seems that real revolution will be made with targeted therapy mutation is one of the best characterized genetic risk factor
+(PARP inhibitors) for patients with BRCA mutations. for disease, can give reliable result that help in risk estima-
+Poly(ADP-ribose) polymerase is nuclear enzyme family in- tion for development of breast/ovarian cancer in healthy in-
+volved in base excision repair of single-stranded DNA dividuals. Unfortunately, interpretation of BRCA testing re-
+breaks. When activity of PARP is disrupted, DNA replica- sults may be complex, especially due to posible presence of
+tion can be stopped causing double-strand DNA breaks. unclassified varients in both genes. Furthemore, only inva-
+Tumor cells with BRCA1/2 mutations are very sensitive to sive prevention strategies such as profilactic surgery demon-
+the lack of single-stranded breaks repair by PARP inhibition. strate risk reduction in healthy BRCA1/2 mutation carriers.
+By mechanisms of synthetic lethality which confers situation Recent data that BRCA deficient tumors are target for treat-
+when there is lethal synergy between two originally non- ment with PARP inhibitor rise possibility of targeted therapy
+lethal cellular events such as inhibition of PARP mediated in the treatment of BRCA-related cancers, but it is posible
+repair of single-strand breaks, inducing double-strand breaks that this approach would be in future exploited for cancer
+as well, in combination of loss-off-function of BRCA1/2 prevention in healthy BRCA carriers.
+R E F E R E N C E S
+1. Sifri R, Gangadharappa S, Acheson LS. Identifying and testing for 3. Thodi G, Fostira F, Sandaltzopoulos R, Nasioulas G, Grivas A,
+hereditary susceptibility to common cancers. CA Cancer J Clin Boukovinas I, et al. Screening of the DNA mismatch repair
+2004; 54(6): 309(cid:238)26. genes MLH1, MSH2 and MSH6 in a Greek cohort of Lynch
+2. Lindor NM, McMaster ML, Lindor CJ, Greene MH. Concise syndrome suspected families. BMC Cancer 2010; 10: 544.
+Handbook of Familial Cancer Susceptibility Syndromes, 2nd 4. Eng C. Mendelian genetics of rare--and not so rare--cancers.
+ed. J Natl Cancer Inst Monogr 2008; 38: 1–93. Ann N Y Acad Sci 2010; 1214: 70(cid:238)82.
+Brankovi(cid:253)-Magi(cid:253) M, et al. Vojnosanit Pregl 2012; 69(8): 700–706.
+Volumen 69, Broj 8 VOJNOSANITETSKI PREGLED Strana 705
+5. Jovi(cid:253)evi(cid:253) Beki(cid:253) A. Epidemiology and prevention of breast can- mains of BRCA1 and BARD1. J Biol Chem1999; 274(9):
+cer. In: Neškovi(cid:253)-Konstantinovi(cid:253) Z, Borojevi(cid:253) N, Vu(cid:255)kovi(cid:253)-Deki(cid:253) Lj, 5659(cid:238)65.
+editors. 2nd ed. Updates in epidemiology and prevention of 24. Huen MS, Sy SM, Chen J. BRCA1 and its toolbox for the
+breast cancer. Belgrade: Akademija medicinskih nauka Srpskog maintenance of genome integrity. Nat Rev Mol Cell Biol 2010;
+lekarskog društva;2008. p. 11(cid:238)24.(Serbian) 11(2): 138(cid:238)48.
+6. Ferlay J, Parkin DM, Steliarova-Foucher E. Estimates of cancer 25. Osorio A, Milne RL, Pita G, Peterlongo P, Heikkinen T, Simard J, et
+incidence and mortality in Europe in 2008. Eur J Cancer 2010; al Evaluation of a candidate breast cancer associated SNP in
+46(4): 765(cid:238)81. ERCC4 as a risk modifier in BRCA1 and BRCA2 mutation
+7. Narod SA, Foulkes WD. BRCA1 and BRCA2: 1994 and be- carriers. Results from the Consortium of Investigators of
+yond. Nat Rev Cancer 2004; 4(9): 665(cid:238)76. Modifiers of BRCA1/BRCA2 (CIMBA). Br J Cancer 2009;
+8. Lindor NM, McMaster M, Lindor CJ, Greene MH. 6. 101(12): 2048(cid:238)54.
+Breast/Ovarian Cancer, Hereditary (BRCA1). In: Lindor NM, 26. Antoniou AC, Beesley J, MCGuffog L, Sinilnikova OM, Healey S,
+McMaster LM, Lindor CJ, Greene MH, editors. 2nd ed. Concise Neuhausen SL, et al. Common breast cancer susceptibility allels
+handbook of familial cancer susceptibility syndromes. J Natl and the risk of breast cancer for BRCA1 and BRCA2 mutation
+Cancer Inst Monogr 2008. p. 22(cid:238)7. carriers: implication for risk prediction. Cancer Res 2010;
+9. Lindor NM, McMaster M, Lindor CJ, Greene MH. 7. 70(23): 9742(cid:238)54.
+Breast/Ovarian Cancer, Hereditary (BRCA2). In: Lindor NM, 27. Palanca Suela S, Esteban Cardeñosa E, Barragán González E, de
+McMaster LM, Lindor CJ, Greene MH, editors. 2nd ed. Concise Juan Jiménez I, Chirivella González I, Segura Huerta A, et al.
+handbook of familial cancer susceptibility syndromes. J Natl CASP8 D302H polymorphism delays the age of onset of
+Cancer Inst Monogr 2008. p. 27(cid:238)9. breast cancer in BRCA1 and BRCA2 carriers. Breast Cancer
+10. Walsh T, King MC. Ten genes for inherited breast cancer. Can- Res Treat 2010; 119(1): 87(cid:238)93.
+cer Cell 2007; 11(2): 103(cid:238)5. 28. Antoniou AC, Pharoah PD, Narod S, Risch HA, Eyfjord JE, Hop-
+11. McClellan J, King MC. Genetic heterogeneity in human disease. per JL, et al. Breast and ovarian cancer risks to carriers of the
+Cell 2010; 141(2): 210(cid:238)7. BRCA1 5382insC and 185delAG and BRCA2 6174delT muta-
+12. Papp J, Raicevic L, Milasin J, Dimitrijevic B, Radulovic S, Olah E. tions: a combined analysis of 22 population based studies. J
+Germline mutation analysis of BRCA1 and BRCA2 genes in Med Genet 2005; 42(7): 602(cid:238)3.
+Yugoslav breast/ovarian cancer families. Oncol Rep 1999; 29. Antoniou A, Pharoah PD, Narod S, Risch HA, Eyfjord JE, Hopper
+6(6): 1435(cid:238)8. JL ,et al. Average risks of breast and ovarian cancer associated
+13. Konstantopoulou I, Jankovic R, Raicevic L, Ladopoulou A, Armanou with BRCA1 or BRCA2 mutations detected in case Series un-
+S, Nikolopoulos G, et al. BRCA1 and BRCA2 genes mutation selected for family history: a combined analysis of 22 studies.
+analysis in patients with a family history of breast and ovarian Am J Hum Genet 2003; 72(5): 1117(cid:238)30.
+cancer. Jugoslav Med Biochem 2004; 23: 271(cid:238)7. 30. Struewing JP, Hartge P, Wacholder S, Baker SM, Berlin M, McAd-
+14. Brankovi(cid:253)-Magi(cid:253) M. BRCA testing in Serbia and Montenegro. ams M, et al. The risk of cancer associated with specific muta-
+Hered Ca Clin Pract 2006; 4: 12–4. tions of BRCA1 and BRCA2 among Ashkenazi Jews. N Engl J
+15. Brankovi(cid:253)-Magi(cid:253) M, Dobri(cid:255)i(cid:253) J, Jankovi(cid:253) R, Konstantinopoulou I, Med 1997; 336(20): 1401(cid:238)8.
+Yannoukakos D, Radulovi(cid:253) S. Identifying and testing for heredi- 31. Metcalfe K, Lynch HT, Ghadirian P, Tung N, Olivotto I, Warner E,
+tary susceptibility to breast/ovarian cancer in Serbia: Where et al. Contralateral breast cancer in BRCA1 and BRCA2 muta-
+are we now? Arch Oncol 2006; 14(3(cid:238)4): 131(cid:238)5. tion carriers. J Clin Oncol 2004; 22(12): 2328(cid:238)35.
+16. Dobri(cid:255)i(cid:253) J, Brankovi(cid:253)-Magi(cid:253) M, Filipovi(cid:253) S, Radulovi(cid:253) S. Novel 32. Liede A, Karlan BY, Narod SA. Cancer risks for male carriers of
+BRCA1/2 mutations in Serbian breast and breast-ovarian can- germline mutations in BRCA1 or BRCA2: a review of the lit-
+cer patients with hereditary predisposition. Cancer Genet Cy- erature. J Clin Oncol 2004; 22(4): 735(cid:238)42.
+togenet 2010; 202: 27(cid:238)32. 33. Brankovi(cid:253)-Magi(cid:253) M, Jankovi(cid:253) R, Radulovi(cid:253) S. Hereditary breast
+17. Hennessy BT, Timms KM, Carey MS, Gutin A, Meyer LA, Flake cancer: Role of BRCA genes. In: Neškovi(cid:253)-Konstantinovi(cid:253) Z,
+DD 2nd, et al. Somatic mutations in BRCA1 and BRCA2 could Borojevi(cid:253) N, Vu(cid:255)kovi(cid:253)-Deki(cid:253) Lj, editors. Updates in epidemio-
+expand the number of patients that benefit from poly (ADP logy and prevention of breast cancer. 2nd ed. Belgrade:
+ribose) polymerase inhibitors in ovarian cancer. J Clin Oncol Akademija medicinskih nauka Srpskog lekarskog društva;
+2010; 28(22): 3570(cid:238)6. 2008. p. 11(cid:238)24.(Serbian)
+18. Ferla R, Calò V, Cascio S, Rinaldi G, Badalamenti G, Carreca I, et 34. Balmaña J, Diez O, Rubio I, Castiglione M; ESMO Guidelines
+al. Founder mutations in BRCA1 and BRCA2 genes. Ann On- Working Group. BRCA in breast cancer: ESMO Clinical
+col 2007; 18 Suppl 6: vi93(cid:238)8. Practice Guidelines. Ann Oncol 2010; 21(Suppl 5): v20(cid:238)2.
+19. Simard J, Tonin P, Durocher F, Morgan K, Rommens J, Gingras S, 35. Radice P, De Summa S, Caleca L, Tommasi S. Unclassified vari-
+et al. Common origins of BRCA1 mutations in Canadian ants in BRCA genes: guidelines for interpretation. Ann Oncol
+breast and ovarian cancer families. Nat Genet 1994; 8(4): 2011; 22(Suppl 1): i18(cid:238)23.
+392(cid:238)8. 36. Di Pietro ML, Giuli A, Spagnolo AG. Ethical implications of
+20. Oddoux C, Struewing JP, Clayton CM, Neuhausen S, Brody LC, Ka- predictive DNA testing for hereditary breast cancer. Ann On-
+back M, et al. The carrier frequency of the BRCA2 6174delT col 2004; 15(Suppl 1): I65(cid:238)I70.
+mutation among Ashkenazi Jewish individuals is approxi- 37. Robson ME, Storm CD, Weitzel J, Wollins DS, Offit K; American
+mately 1%. Nat Genet 1996; 14(2): 188(cid:238)90. Society of Clinical Oncology. American Society of Clinical
+21. Thorlacius S, Olafsdottir G, Tryggvadottir L, Neuhausen S, Jonasson Oncology policy statement update: genetic and genomic test-
+JG, Tavtigian SV, et al. A single BRCA2 mutation in male and ing for cancer susceptibility. J Clin Oncol 2010; 28(5):
+female breast cancer families from Iceland with varied cancer 893(cid:238)901.
+phenotypes. Nat Genet 1996; 13(1): 117(cid:238)9. 38. Turaga K, Acs G, Laronga C. Gene expression profiling in breast
+22. Al-Mulla F, Bland JM, Serratt D, Miller J, Chu C, Taylor GT. Age- cancer. Cancer Control 2010; 17(3): 177(cid:238)82.
+dependent penetrance of different germline mutations in the 39. Stefansson OA, Jonasson JG, Johannsson OT, Olafsdottir K, Steinars-
+BRCA1 gene. J Clin Pathol 2009; 62(4): 350(cid:238)6. dottir M, Valgeirsdottir S, et al. Genomic profiling of breast tu-
+23. Meza JE, Brzovic PS, King MC, Klevit RE. Mapping the func- mours in relation to BRCA abnormalities and phenotypes.
+tional domains of BRCA1. Interaction of the ring finger do- Breast Cancer Res 2009; 11(4): R47.
+Brankovi(cid:253)-Magi(cid:253) M, et al. Vojnosanit Pregl 2012; 69(8): 700–706.
+Strana 706 VOJNOSANITETSKI PREGLED Volumen 69, Broj 8
+40. Young SR, Pilarski RT, Donenberg T, Shapiro C, Hammond LS, 48. Tutt A, Robson M, Garber JE, Domchek SM, Audeh MW, Weitzel
+Miller J, et al. The prevalence of BRCA1 mutations among JN, et al. Oral poly(ADP-ribose) polymerase inhibitor olaparib
+young women with triple-negative breast cancer. BMC Cancer in patients with BRCA1 or BRCA2 mutations and advanced
+2009; 9: 86. breast cancer: a proof-of-concept trial. Lancet 2010;
+41. Honrado E, Benítez J, Palacios J. The pathology of hereditary 376(9737): 235(cid:238)44.
+breast cancer. Hered Cancer Clin Pract 2004; 2(3): 131(cid:238)8. 49. Narod SA. Personalized medicine: a personal view. Curr Oncol
+42. Palacios J, Robles-Frías MJ, Castilla MA, López-García MA, Benítez 2010; 17(5): 4(cid:238)5.
+J. The molecular pathology of hereditary breast cancer. Patho- 50. Brankovi(cid:253)-Magi(cid:253) M, Jankovi(cid:253) R, Ristanovi(cid:253) M. Management of in-
+biology 2008; 75(2): 85(cid:238)94. dividuals at risk for hereditary breast and ovarian cancer. Srp
+43. Tung N, Wang Y, Collins LC, Kaplan J, Li H, Gelman R, et al. Arh Celok Lek 2003; 131(7(cid:238)8): 345(cid:238)50. (Serbian)
+Estrogen receptor positive breast cancers in BRCA1 mutation 51. Trop I, Lalonde L, Mayrand MH, David J, Larouche N, Provencher
+carriers: clinical risk factors and pathologic features. Breast D. Multimodality breast cancer screening in women with a fa-
+Cancer Res 2010; 12(1): R12. milial or genetic predisposition. Curr Oncol 2010; 17(3):
+44. Elsakov P, Foretova L, Goetz P, de Groot JWB, van der Graaf WTA, 28(cid:238)36.
+Guler G, et al. Discussion on the use of taxanes for treatment 52. Silva E, Gatalica Z, Snyder C, Vranic S, Lynch JF, Lynch HT. He-
+of breast cancers in BRCA1 mutations carriers. Hered Cancer reditary breast cancer: part II. Management of hereditary
+Clin Pract 2007; 5(3): 119(cid:238)43. breast cancer: implications of molecular genetics and pathol-
+45. Konstantinopoulos PA, Spentzos D, Karlan BY, Taniguchi T, ogy. Breast J 2008 ; 14(1): 14(cid:238)24.
+Fountzilas E, Francoeur N, et al. Gene expression profile of 53. Rebbeck TR, Friebel T, Lynch HT, Neuhausen SL, van 't Veer L,
+BRCAness that correlates with responsiveness to chemother- Garber JE, et al. Bilateral prophylactic mastectomy reduces
+apy and with outcome in patients with epithelial ovarian can- breast cancer risk in BRCA1 and BRCA2 mutation carriers:
+cer. J Clin Oncol 2010; 28(22): 3555(cid:238)61. the PROSE Study Group. J Clin Oncol 2004; 22(6):
+46. Yap TA, Sandhu SK, Carden CP, de Bono JS. Poly(ADP-ribose) 1055(cid:238)62.
+polymerase (PARP) inhibitors: Exploiting a synthetic lethal 54. Rebbeck TR, Kauff ND, Domchek SM. Meta-analysis of risk re-
+strategy in the clinic. CA Cancer J Clin 2011; 61(1): 31(cid:238)49. duction estimates associated with risk-reducing salpingo-
+47. Audeh MW, Carmichael J, Penson RT, Friedlander M, Powell B, Bell- oophorectomy in BRCA1 or BRCA2 mutation carriers. J Natl
+McGuinn KM, Oral poly(ADP-ribose) polymerase inhibitor Cancer Inst 2009; 101(2): 80(cid:238)7.
+olaparib in patients with BRCA1 or BRCA2 mutations and re-
+current ovarian cancer: a proof-of-concept trial. Lancet 2010; Received on April 21, 2011.
+376(9737): 245(cid:238)51. Accepted on June 3, 2011.
+OnLine-First, April, 2012.
+Brankovi(cid:253)-Magi(cid:253) M, et al. Vojnosanit Pregl 2012; 69(8): 700–706.

@@ -1,0 +1,617 @@
+Review Article
+ Medical Journal of the Islamic Republic of Iran(MJIRI)
+Iran University of Medical Sciences
+The importance of BRCA1 and BRCA2 genes mutations in breast
+cancer development
+Amir Mehrgou1, Mansoureh Akouchekian*2
+Received:16 January 2016 Accepted:22 February 2016 Published:15 May 2016
+Abstract
+Many factors including genetic, environmental, and acquired are involved in breast cancer development across
+various societies. Among all of these factors in families with a history of breast cancer throughout several gen-
+erations, genetics, like predisposing genes to develop this disease, should be considered more. Early detection of
+mutation carriers in these genes, in turn, can play an important role in its prevention. Because this disease has a
+high prevalence in half of the global population, female screening of reported mutations in predisposing genes,
+which have been seen in breast cancer patients, seems necessary. In this review, a number of mutations in two
+predisposing genes (BRCA1 and BRCA2) that occurred in patients with a family history was investigated. We
+studied published articles about mutations in genes predisposed to breast cancer between 2000 and 2015. We
+then summarized and classified reported mutations in these two genes to recommend some exons which have a
+high potential to mutate. According to previous studies, exons have been reported as most mutated exons pre-
+sented in this article. Considering the large size and high cost of screening all exons in these two genes in pa-
+tients with a family history, especially in developing countries, the results of this review article can be beneficial
+and helpful in the selection of exon to screen for patients with this disease.
+Keywords: BRCA1 gene,BRCA2 gene,Mutations,Breast cancer.
+Cite this article as:MehrgouA, Akouchekian M.The importance of BRCA1 and BRCA2 genes mutations in breast cancer development.
+MedJIslamRepubIran2016(15 May?). Vol.30:369.
+Introduction following:
+Breast cancer is not only the most com- Early-onset disease, 2- high incidence of
+mon malignancy in women throughout the bilateral disease, 3- repetitive correlation
+world and constitutes 22.9% of cancer in with ovarian cancer (21).
+women, but it is also one of the major caus- Early-onset breast cancer is a hallmark
+es of death (1-18). The incidence rate varies for the existence of genetic predisposing
+according to geographic location (5). Stud- factor (1). Breast cancer molecularly di-
+ies demonstrate that breast cancer therapeu- vides to subgroups on the base of cell sur-
+tic course in the younger population is face receptors, which are components of
+worse than the older one(4). Affected peo- human epidermal growth factors and in-
+ple have a 29% risk until age 50 and a 44% clude estrogen receptor (ER), progesterone
+risk until age 70 to be affected by ovarian receptors (PR), and HER-2.
+cancer (3). The major course of breast can-
+cer incidence rate occurs in women after Molecular subtypes of breast cancer
+age 50; however, 5% to 12% of this cancer Molecular subtypes of breast cancer may
+is seen in women under 45 years, is genetic, be effective to determine the treatment plan
+and proceeds from a mutation in genes pre- and new therapies. Therefore, many studies
+disposed to breast cancer(5,19,20). Heredi- have been conducted in this field. Some of
+tary breast cancer is characterized by the the more common subtypes of breast cancer
+____________________________________________________________________________________________________________________
+1. MSc Student, Department of Medical Genetics and Molecular Biology, School of Medicine, Iran University of Medical Sciences, Tehran,
+Iran. amirmehrgo@yahoo.com
+2. (Corresponding author) Assistant Professor, Department of Medical Genetics and Molecular Biology, School of Medicine, Iran University
+of Medical Sciences, Tehran, Iran. mackouch@yahoo.com, akouchekian.m@iums.ac.ir
+BRCA1 and BRCA2 mutations inbreast cancer
+Fig.1. Breast cancer division to 6 major subgroups
+are shown in Figure 1. these categories is called basal-like because
+Most studies divide breast cancer into six this tumor cell type has features similar to
+main molecular subgroups that include: outer cells (basal) lining the breast ducts.
+Luminal A, Luminal B, Triple negative Approximately 15% to 20% of breast can-
+(basal-like), HER-2 type, Claudin-low, and cers are triple negative or basal-like. These
+normal-like. tumors tend to occur in younger and Afri-
+Luminal A: Luminal tumor cells are most can-American women. It is noteworthy that
+likely breast cancer cells with an onset in the majority of breast cancer associated
+the inner cells lining the breast ducts. Lu- with BRCA1 gene, which is one of the
+minal A tumor cells tend to be positive for predisposing genes to breast cancer devel-
+ER and PR but negative for HER-2, and are opment, is triple negative and basal-like as
+present in tumors with grade 1 and 2. Lu- well. Triple negative/basal-like tumors of-
+minal A tumors have the best prognosis, ten are aggressive and have a poorer prog-
+high survival rates, and low recurrence nosis.
+rates. HER-2 type: HER-2 type tumors tend to
+Luminal B: Contrary to luminal A cells, be negative for ER and PR, and also ac-
+luminal B tumors tend to be positive for ER company lymph node involvement and
+and/or PR. Most of these types of tumors lower tumor grade. Approximately 10% to
+are HER-2 positive. It is interesting that 15% of breast cancers are in this subgroup.
+compared to luminal A tumors, luminal B HER-2 type tumors have a poor prognosis
+tumors are detected at a younger age in and are prone to repetitive and early recur-
+women, but due to lower grade tumor, larg- rence and metastasis. HER-2 type tumors
+er tumor size, and lymph node involve- are seemingly detected in women at a
+ment, they have apoorer prognosis. younger age than are luminal A or luminal
+Triple negative/basal-like: Triple negative B tumors.
+breast cancers are negative for the PR, ER, Claudin-low: This type of tumor often is
+and HER-2, and are therefore called triple triple negative, but its differences are that
+negative. There are several categories of in claudin-low tumors, expression of cell-
+this type of breast cancer tumor. One of cell adhesion proteins such as E-cadherin is
+2 Med J Islam Repub Iran2016(15 May). Vol.30:369.
+A.Mehrgou,et al.
+reduced, and lymphocyte infiltration is seen ovarian cancer (4,25,34-39). It is also
+frequently. This type of tumor also has fea- noteworthy that increased cases of early-
+tures of mesenchymal cells andstem cells. onset breast cancer depend on disease-
+Normal-like: Approximately 6% to 10% causing mutation in society (7). This type
+of all cases of breast cancer are classified as of breast cancer follows autosomal domi-
+normal-like tumors. These tumors are usu- nant inheritance pattern and tends to occur
+ally small and prone to have a good prog- as an early-onset, high intensity, and bilat-
+nosis. eral form of the disease. BRCA1 and
+BRCA2 gene mutation carriers have a
+Predisposing factors for breast cancer higher risk of developing this disease and
+Ethnic and geographical differences in the other cancers, especially ovarian cancer.
+incidence of breast cancer demonstrate the These mutations are frequently seen in
+effect of environmental conditions and life- people with a family history (8,21,40-44).
+style. Epidemiological studies have known In addition to an increased risk of breast
+many risk factors for breast cancer. These cancer, carriers of the mutation in either
+non-genetic factors include: early BRCA1 or BRCA2 genes have an
+menopause, alcohol and tobacco, exposure increased risk of other cancers like colon,
+to radiation, obesity, decreased physical prostate, pancreatic, melanoma, and gastric
+activity, urbanization, sedentary lifestyle, cancers (38,45). Therefore, according to the
+high fat diet, frequent spontaneous conducted studies, screening for BRCA1
+miscarriages, lack of breast-feeding, and BRCA2 genes should be proposed for
+hormone replacement therapy, aging, all breast or ovarian cancer patients with a
+geographical location, socio-economic family history ofthedisease (44).
+conditions, reproduction events, exogenous
+hormones, breast density, and family Global prevalence
+history of breast cancer or other cancers Breast cancer is the most common malig-
+(2,4,22-32). Among the risk factors for nancy in women worldwide. This disease
+breast cancer, family history is the most constitutes 22.9% of all cancers in women
+important (9,33). Therefore, genetic factors and is one of the main causes of death in
+are known as the major causes of breast women (1-18). 1,000,000 women are af-
+cancer (2,4), and the hereditary risk factor fected by this disease annually, and another
+is responsible for 3% to 10% of all breast 300,000 women die annually as a result
+cancer cases and up to 30% of all early- (1,2,4). Although the incidence rate is dif-
+onset breast cancer (4,32). According to ferent in various geographical areas (5), the
+another study, in most western countries, risk in the general population is on average
+5% to 10% of all breast cancer cases are 1/10 (1,16,37). The rate of breast cancer
+due to a main genetic cause (1). Germ-line among women in developed and develop-
+mutations in BRCA1 andBRCA2 genes are ing countries is 1/12 and 1/22, respectively
+the main part of genetic and hereditary fac- (2). Breast cancer is the most common can-
+tors for breast and ovarian cancers (6). cer in Iranian women, constituting 24.4%
+Generally, BRCA1 and BRCA2 genes are of all neoplasm cases in Iran. The age at
+the strongest susceptibility genes for breast which women face the greatest risk of de-
+cancer (Seong, Cho et al. 2009). Therefore, veloping this disease is in their forties for
+mutations in BRCA1 andBRCA2 genes are Asian women and in their sixties for Amer-
+so effective in the increased risk for ican and European women (9,46). Thus,
+developing early-onset breast cancer and breast cancer is classified on the base of
+familial ovarian cancer, that mutations in early-onset status in Asia (10). The inci-
+these two genes are not onlyresponsible for dence rate among women younger than 25
+90% of hereditary breast cancer cases and and older than 79 is 1/20,000 and 1/9, re-
+but also for the majority of hereditary spectively. However, the effect of ethnical
+Med J Islam Repub Iran2016(15 May). Vol.30:369. 3 
+BRCA1 and BRCA2 mutations inbreast cancer
+Fig.2. Breast cancer prevalence around the world
+and geographical differences in breast can- Gene (TSG) proteins so that two genes are
+cer incidence indicates the effect of envi- called as TSGs. BRCA1 gene is located on
+ronmental conditions and lifestyle, which is chr17q, and any changes or mutations in
+shown in Figure 2. this gene can lead to an increased risk of
+developing breast, ovarian, and prostate
+BRCA1 andBRCA2 genes cancer. BRCA2 gene is located on chr13q,
+BRCA1 and BRCA2 genes are the two which is one of the acrocentric chromo-
+most common genes in autosomal domi- somes in men, and any changes or muta-
+nant and high penetrance form of breast tions in this gene can lead to an increased
+cancer and ovarian cancer (2). BRCA1 and risk of developing breast, ovarian, and
+BRCA2 genes produce Tumor Suppressor prostate cancer. Figure 3 shows the location
+Fig.3.Tow breastcancer predisposing genes location on human chromosomes
+4 Med J Islam Repub Iran2016(15 May). Vol.30:369.
+A.Mehrgou,et al.
+ofthese two genes ontheirchromosomes. ern countries, 5% to 10% of all breast can-
+These two genes act as cell growth sup- cer cases are due to a main genetic cause
+pressors and produce TSG proteins. (1). Hereditary breast cancer, which is
+BRCA1 protein has 1863 amino acids, and usually caused by a mutation in BRCA1
+300 disease-causing mutations have been and BRCA2 genes, is responsible for 5% to
+reported in this gene thus far. BRCA2 pro- 10% of all these cancer cases as well as
+tein has 3418 amino acids. These proteins 10% to 15% of ovarian cancer cases. This
+are also called anti-oncogene and help the type of breast cancer follows autosomal
+cell repair damaged DNA and ensure the dominant pattern inheritance and tends to
+genetic material preservation. Therefore, if occur as an early-onset, high intensity, and
+either one of these two genes is damaged, bilateral form of the disease. BRCA1 and
+damaged DNA will not be repaired, which BRCA2 genes mutation carriers have a
+can lead to more changes and more muta- higher risk of developing this disease and
+tions in cell DNA and eventually lead to other cancers, especially ovarian cancer.
+cancer. An event that can occurinthesetwo These mutations are frequently seen in
+genes as TSGs is Loss of Heterozygosity people with a family history and those af-
+(LOH) phenomenon. This phenomenon will fected by multiple site forms of this dis-
+occur in a person who has one specific TSG ease. Approximately 30% of all breast and
+alleleintrouble;inotherwords,thispersonis ovarian cancer cases are caused by muta-
+heterozygous for this gene. LOH in this per- tions in BRCA1 or BRCA2 genes(8, 21,
+son can arise and lead to another healthy al- 40-44, 50). 5% to 10% of breast cancer
+lele mutated. According to Nadson two-hit cases are caused by rare deleterious muta-
+hypothesis, the TSG performance will be tions in predisposing and high penetrance
+impaired, and the cell will be prone to de- like BRCA1 and BRCA2 genes (7,8,25,51-
+velop a tumor and eventually lead to can- 54). As noted, germ-line mutations in these
+cer. BRCA2 gene was discovered as the two genes are the most important causes of
+second breast cancer predisposing gene. hereditary breast and ovarian cancer.
+This gene is important in intact double- Hence, detection of these two genes’ muta-
+strand DNA break repair and transcription tions is important in counseling for targeted
+regulation. BRCA2 gene in healthy cells family members and in reducing the inci-
+would ensure DNA cell stability and con- dence of breast cancer (9,33). In counseling
+trolled cell growth (2,47-49). BRCA1 gene for selecting prone women for the
+mutation causes a possibility of 60% to screening of germ-line mutations in
+80% breast cancer in women as well as an BRCA1 gene, it is important to combine
+increased possibility of developing ovarian information about family history, diagnosis
+cancer in women and prostate cancer in age, andtumormorphology (55,56).
+men. BRCA2 germ-line mutations are seen As shown in Figure 4, BRCA1 and
+in approximately 35% of families with ear- BRCA2 genes are responsible for 52% and
+ly-onset breast cancer in women and also 32% of families with breast cancer, respec-
+cause an increased risk of ovarian cancer in tively(3). However, the prevalence of muta-
+women and breast cancer in men (2). tions in BRCA1 and BRCA2 genes are dif-
+ferent in various ethnic groups and may be
+BRCA1 and BRCA2 genes involvement affected by fundamental mutations (9). For
+measurement in disease example, in the Jewish female population,
+Genetic factors are known as main BRCA1 gene is the dominant gene in-
+disease-causing factors (2,4), such that he- volved in breast cancer development, but in
+reditary risk factor is responsible for 3% to the Italian female population, BRCA2 gene
+10% of all breast cancer cases and up to is the dominant gene (4). Approximately
+30% of all early-onset breast cancer (4,32). 20% to 25% of breast cancer risk is due to
+According to another study, in most west- BRCA1 and BRCA2 genes (9,33). The risk
+Med J Islam Repub Iran2016(15 May). Vol.30:369. 5 
+BRCA1 and BRCA2 mutations inbreast cancer
+Fig.4. The frequency of different causes of breast cancer
+of breast cancer in women with a mutation cancer in women and also lead to an in-
+in BRCA1 or BRCA2 genes is estimated at creased risk of ovarian cancer development
+60% to 85%, and somewhere else it is in women and breast cancer in men (2).
+estimated at 80% to 90%; however, other Breast cancer caused by a mutation in
+studies and articles have reported various BRCA1 gene has a higher incidence, higher
+numbers and possibilities (5,37,39,40,57- mitotic rate, and more lymphatic pene-
+60). In the same way the risk of ovarian trance than sporadic breast cancer (62). It is
+cancer in these women is estimated at 15% also more likely to lack expression of ER
+to 40% and somewhere else it is estimated and PR and HER-2nue receptors (25,62-64)
+at 40% to 60%; however other studies and and to have a somatic mutation in P53 gene
+articles have reported various numbers and (62,64). In addition to having an increased
+possibilities (37,39,40,57-60). Generally, risk of breast cancer development, BRCA1
+mutations in BRCA1 and BRCA2 genes as or BRCA2 genes mutation carriers have an
+well as in genes that are necessary to increased risk for other cancers like colon,
+preserve genome intact, such as STK11, prostate, pancreatic, melanoma, and gastric
+ATM, CHEK2, P53, and CDH1 genes, lead cancers (38,45). Novel mutations in
+to 50% of all familial breast cancer cases BRCA1 and BRCA2 genes are very rare
+and 1/3 (one third) of all breast cancer because 2000 mutations have been discov-
+cases (1,61). BRCA1 and BRCA2 genes ered in these two genes so far. The most
+are two of the most common genes to cre- common mutation forms are a small inser-
+ate autosomal dominant form and high pen- tion, small deletion, nonsense mutation,
+etrance forms of breast and ovarian cancer missense mutation, premature transcription
+(2). termination, and splicing troubles. Deletion
+and insertion mutation lead to a frame shift.
+BRCA1 andBRCA2 genes mutations Mutation in splicing spots leads to produce
+BRCA1 gene mutations cause breast can- a non-functional protein (6,9,65,66). Ac-
+cer in women with a possibility of 60% to cording to BIC (Breast Information Core),
+80% and also cause increased risk of ovari- most of the breast cancer-causing mutations
+an cancer development in women and pros- in BRCA1 and BRCA2 genes lead to pro-
+tate cancer in men. Germ-line mutations in duce truncated protein through the
+BRCA2 gene are seen in approximately nonsense, frame shift, and splicing muta-
+35% of families with early-onset breast tions (21).
+6 Med J Islam Repub Iran2016(15 May). Vol.30:369.
+A.Mehrgou,et al.
+Table1. In this section, all results of conducted studies, Table 1. Cntd
+which are investigated in this review article, are classi- BRCA1 mutations
+fiedonthebasisofmutationtypeandlocation,andbeing Novelty Mutation Mutation References
+novelorreported. location type
+BRCA2 mutations ND Exon2 ND (73)
+Novelty Mutation Mutation References ND Exon2 DELETION (74)
+location type ND Exons2 DELETION (75)
+ND Exon 2 ND (2) and 3
+UTR Novel Exon3 DELETION (10)
+Novel Exon2 SPLICING (2) AND
+Novel Exon3 ND (43) SPLICING
+Novel Exon3 MISSENSE (42) ND Exons3 DELETION (73)
+Novel Exon7 ND (43) to7
+ND Exon10 ND (5) ND Exon8 ND (73)
+Novel Exon11 DELETION (10) Novel Exon10 INSERTION (41)
+Novel Exon11 DELETION (10) Novel Exon10 INSERTION (72)
+Novel Exon11 ND (10) Novel Exon10 MISSENSE (72)
+Novel Exon11 MISSENSE (71) Novel Exon11 ND (25)
+ND Exon11 ND (4) Has been Exon11 ND (25)
+ND Exon11 ND (5) reported
+ND Exon11 ND (10) ND Exon11 ND (4)
+Novel Exon11 DELETION (37) ND Exon11 ND (5)
+Novel Exon11 DELETION (37) Novel Exon11 ND (25)
+Novel Exon11 DELETION (37) Novel Exon11 DELETION (41)
+Novel Exon11 DELETION (41) Novel Exon11 DELETION (76)
+Novel Exon11 DELETION (71) Novel Exon11 DELETION (71)
+Novel Exon11 INSERTION (72) Novel Exon11 SPLICING (71)
+Novel Exon11 DUPLICATI (21) Novel Exon11 SPLICING (71)
+ON Novel Exon11 INSERTION (71)
+Novel Exon11 ND (10) Novel Exon11 NONSENSE (21)
+Novel Exon11 ND (10) Novel Exon14 DELETION (74)
+Novel Exon11 ND (2) ND Exon16 ND (5)
+Has been Exon11 ND (37) Novel Intron18 DELETION (76)
+reported AND
+Novel Exon11 DELETION (21) SPLICING
+ND Exon11 ND (2) ND Exons18 DUPLICATI (73)
+ND Exon11 ND (2) and19 ON
+ND Exon11 ND (2) ND Exon19 INSERTION (74)
+ND Exon13 ND (5) Novel Exon21 ND (3)
+Novel Intron21 SPLICING (25)
+Novel Exon18 ND (43) Has been Exon22 ND (25)
+Novel Exon23 DELETION (2) reported
+Novel Exon11 DELETION (7) Novel Exon24 ND (25)
+ND Exon24 ND (5)
+ND Exon25 ND (5) ND: Not Determined
+ND Exon27 ND (5)
+ND: Not Determined
+duces this type of protein can affect one or
+more nucleotides deletion, duplication,
+Conclusion
+frame shift mutation, or intervention in the
+According to conducted worldwide
+splicing process. One striking point in this
+studies investigated in this review, the fol-
+study is that most of these mutations are
+lowing important items can be concluded.
+located in BRCA1 gene exon 11. There-
+Inthis study, about 30 mutations in BRCA1
+fore, among 30 mutations in this gene, 12
+gene and 35 mutations in BRCA2 gene in
+mutations are located in exon 11. This
+relation to breast cancer and ovarian cancer
+means that 40% of all mutations with any
+caused by breast cancer are reported with
+mutations in this gene are in exon 11. (See
+mutation location.
+the BRCA1 mutation table) This result con-
+BRCA1 gene was analyzed first. In these
+forms to the study that was conducted in
+studies, many mutations were reported in
+the United States. In the study, about 50%
+this gene, most of which led to producing
+of all mutations that produced truncated
+truncated protein. The mutation that pro-
+Med J Islam Repub Iran2016(15 May). Vol.30:369. 7 
+BRCA1 and BRCA2 mutations inbreast cancer
+protein in BRCA1 gene were found in exon rangements can be seen, although its fre-
+11 (67). This finding was somewhat sur- quency is low. It is noteworthy that the re-
+prising because this exon size is small and sult of a study conducted in Turkey shows
+has 89 bps. Despite its small size, however, that large rearrangement rate in BRCA1
+a large number of mutations occur in this gene is verylow(68).
+exon. Another interesting point about most BRCA2 gene was also investigated. In
+mutations in this exon is their novelty. these 76 investigated articles, many muta-
+Among 12 mutations listed in this article tions were reported in this gene. Most of
+for exon 11, 9 mutations that have not been them, like BRCA1 gene mutations, led to
+reported before in BIC were novel. This producing truncated protein (37). This fact
+finding can mean that for discovering novel is consistent with thefinding that more than
+mutations in BRCA1 gene, exon 11 can be 500 mutations in BRCA2 gene are reported
+an appropriate and prone exon, and the pos- and most of them lead to produce truncated
+sibilityof discovering a novel mutation in it protein. The mutations that produce this
+is high. In this study, the most mutated ex- type of protein can affect one or more nu-
+on in BRCA1 gene after exon 11 was exon cleotides deletion, duplication, frame shift,
+10. This exon size is 33 times larger than or missense mutations, or intervene in the
+exon 11, but a lower ratio of deleterious splicing process. One of the interesting
+mutations are in exon 10 than exon 11. points in this study is that most of these
+Among 30 BRCA1 gene mutations report- mutations are located in exon 11. In fact,
+ed in the 76 investigated articles, 3 from the 35 mutations reported, 23 (or
+mutations were related to exon 10, meaning 65/7%) are located in exon 11. This finding
+that 10% of mutations are in this exon. An conforms to a study that was conducted in
+interesting point about this exon is that all the United States, the result of which
+of its reported mutations are novel, and so showed that mutations which produced
+this exon can be a prone exon for more truncated protein in exon 11 of BRCA2
+novel mutations in the future. However, the geneconstituted about 50% ofall mutations
+last category of mutations that this article in this gene (67). However, this finding is
+reports includes 4 mutations in exons 20 to not completely unexpected as this exon is
+the next. These mutations constitute the largest one in BRCA2 gene and there-
+13.33% of all mutations reported for fore expected to be the most mutated
+BRCA1 gene in this article. Among these 4 among all exons in BRCA2 gene. Another
+mutations, 3mutations werenovel. interesting point about this exon is that
+In the following, we analyze mutations in most of its mutations are novel. In studies
+BRCA1 gene on the basis of mutation type. collected in this article, among 23 muta-
+Among 30 mutations reported for BRCA1 tions reported in exon 11, 16 were novel
+gene in this article, the mutation type for 19 and had not been reported in BIC before.
+mutations is determined exactly. Among This finding suggests that for discovering
+these 19 mutations, 9 mutations are dele- novel mutation linked to breast cancer, ex-
+tion-one or more nucleotides-, and it means on 11 in BRCA2 gene is an appropriate ex-
+about 50% of all deleterious mutations are on that has a high possibility to include
+deletion type. Another mutation type (with more novel mutations. Exons 20 to the next
+lower frequency) which can lead to disease, had 4 mutations (11/42%) of 35 mutations
+is splicing mutations. 5 mutations of these reported for BRCA2 gene in this study.
+19mutations are splicing type. The last mu- One mutation of5was novel.
+tation type worth comparing is duplication In the following, we analyze deleterious
+mutation type-one or more nucleotides. mutation types in BRCA2 gene. Among 35
+This type includes 4 mutations among 19 mutations reported in this gene in this
+reported in this study. However, among study, the mutation type for 16 mutations is
+disease-causing mutations, large rear- determined exactly. Among these 16, 10
+8 Med J Islam Repub Iran2016(15 May). Vol.30:369.
+A.Mehrgou,et al.
+are deletion-one or more nucleotides-, BRCA1 and BRCA2 genes is a tedious
+which suggests that about 62/5% of all del- process due to gene size, high mutation fre-
+eterious mutations aredeletion type. quency, high rearrangement frequency in
+As shown, exon 11 is the most mutated BRCA1 gene, and due to the need of
+exon in both BRCA1 and BRCA2 genes. special methods. Furthermore, because of
+Therefore, this exon can be considered as its high cost, it is not routinely feasible, es-
+the most prone exon for having the pecially in developing countries (1).
+mutation-causing disease in both BRCA1
+and BRCA2 genes. This result came from
+findings in the 76 investigated articles in References
+this review. However, to prove this hypoth- 1. Armaou S, Pertesi M, Fostira F, Thodi G,
+esis, we can cite one of the results of a Athanasopoulos PS, Kamakari S, et al. Contribution
+of BRCA1 germ-line mutations to breast cancer in
+study conducted by Merge et al. which
+Greece: a hospital-based study of 987 unselected
+showed that patients 35 years old or young-
+breast cancer cases. British journal of cancer
+er with 35 mutations have mutations in ex-
+2009;101(1):32-7.
+on 11 of BRCA1 gene primarily (69). This 2. Ayub SG, Rasool S, Ayub T, Khan SN, Wani
+result solely considered BRCA1 gene, but KA, Andrabi KI. Mutational analysis of the BRCA2
+gene in breast carcinoma patients of Kashmiri
+in this review article which considered the
+descent. Molecular medicine reports 2014;9(2):749-
+results of 76 articles, we generated this re-
+53.
+sult to BRCA2 gene. Another point that
+3. Balraj P, Khoo AS, Volpi L, Tan JA, Nair S,
+should be considered is whether there is a Abdullah H. Mutation analysis of the BRCA1 gene
+family history of breast cancer and/or ovar- in Malaysian breast cancer patients. Singapore
+medical journal 2002;43(4):194-7.
+ian cancer. This issue has an effect on mu-
+4. Calderon-Garciduenas AL, Ruiz-Flores P,
+tation frequency in exon 11 in BRCA1
+Cerda-Flores RM, Barrera-Saldana HA. Clinical
+gene. According to another study result
+follow up of mexican women with early onset of
+conducted by Merge et al., the frequency of breast cancer and mutations in the BRCA1 and
+these mutations in people with a familyhis- BRCA2 genes. Salud publica de Mexico 2005;
+47(2):110-5.
+tory is more than people without one (69).
+5. Juwle A, Saranath D. BRCA1/BRCA2 gene
+With generalization of this result to
+mutations/SNPs and BRCA1 haplotypes in early-
+BRCA2 gene, screening of BRCA1 and
+onset breast cancer patients of Indian ethnicity.
+BRCA2 genes should be proposed to all Medical oncology (Northwood, London, England)
+patients with a family history of breast or 2012;29(5):3272-81.
+6. Kwong A, Ng EK, Tang EY, Wong CL, Law
+ovarian cancer (44). One of the problems
+FB, Leung CP, et al. A novel de novo BRCA1
+about mutations detection is an excessive
+mutation in a Chinese woman with early onset
+focus on people with family history be-
+breast cancer. Familial cancer 2011;10(2):233-7.
+cause usually people with a family history 7. Loizidou M, Marcou Y, Anastasiadou V,
+are considered for BRCA1 and BRCA2 Newbold R, Hadjisavvas A, Kyriacou K.
+Contribution of BRCA1 and BRCA2 germline
+gene mutation screening. On the other
+mutations to the incidence of early-onset breast
+hand, a person with no family history but
+cancer in Cyprus. Clinical genetics 2007;71(2):165-
+with a mutation in BRCA1 gene or BRCA2
+70.
+gene does not take part in this process 8. Martinez-Ferrandis JI, Vega A, Chirivella I,
+(6,70). Another issue that should be Marin-Garcia P, Insa A, Lluch A, et al. Mutational
+analysis of BRCA1 and BRCA2 in Mediterranean
+considered is large rearrangements even
+Spanish women with early-onset breast cancer:
+though the frequency for BRCA1 gene is
+identification of three novel pathogenic mutations.
+low (68). However even in the absence of Human mutation 2003;22(5):417-8.
+family history, large rearrangements should 9. Neamatzadeh H, Shiryazdi SM, Kalantar SM.
+be considered for a complete screening for BRCA1 and BRCA2 mutations in Iranian breast
+cancer patients: A systematic review. Journal of
+BRCA1 and BRCA 2 genes in addition to
+research in medical sciences : the official journal of
+whole gene sequencing (6). This solution is
+Isfahan University of Medical Sciences 2015;
+not as easy as it looks because screening
+Med J Islam Repub Iran2016(15 May). Vol.30:369. 9 
+BRCA1 and BRCA2 mutations inbreast cancer
+20(3):284-93. incidence and mortality. Breast cancer research:
+10. Toh GT, Kang P, Lee SS, Lee DS, Lee SY, BCR 2004;6(6):229-39.
+Selamat S, et al. BRCA1 and BRCA2 germline 24. Calle EE, Rodriguez C, Walker-Thurmond K,
+mutations in Malaysian women with early-onset Thun MJ. Overweight, obesity, and mortality from
+breast cancer without a family history. PloS one cancer in a prospectively studied cohort of U.S.
+2008;3(4):e2024. adults. The New England journal of medicine
+11. Abdulrahman GOJr, Rahman GA. 2003;348(17):1625-38.
+Epidemiology of breast cancer in europe and Africa. 25.Chen W, Pan K, Ouyang T, Li J, Wang T, Fan
+Journal of cancer epidemiology 2012;2012:915610. Z, et al. BRCA1 germline mutations and tumor
+12.Beebe-Dimmer JL, Yee C, Cote ML, Petrucelli characteristics in Chinese women with familial or
+N, Palmer N, Bock C, et al. Familial clustering of early-onset breast cancer. Breast cancer research and
+breast and prostate cancer and risk of treatment 2009;117(1):55-60.
+postmenopausal breast cancer in the Women's 26. Datta K, Biswas J. Influence of dietary habits,
+Health Initiative Study. Cancer 2015;121(8):1265- physical activity and affluence factors on breast
+72. cancer in East India: a case-control study. Asian
+13. Lee J, Park S, Kim S, Kim J, Ryu J, Park HS, Pacific journal of cancer prevention: APJCP 2009;
+et al. Characteristics and Survival of Breast Cancer 10(2):219-22.
+Patients with Multiple Synchronous or 27. Hamajima N, Hirose K, Tajima K, Rohan T,
+Metachronous Primary Cancers. Yonsei medical Calle EE, Heath CWJr, et al. Alcohol, tobacco and
+journal 2015;56(5):1213-20. breast cancer--collaborative reanalysis of individual
+14.Obrist M, Osei-Bonsu E, Awuah B, Watanabe- data from 53 epidemiological studies, including
+Galloway S, Merajver SD, Schmid K, et al. Factors 58,515 women with breast cancer and 95,067
+related to incomplete treatment of breast cancer in women without the disease. British journal of cancer
+Kumasi, Ghana. Breast (Edinburgh, Scotland). 2002;87(11):1234-45.
+2014;23(6):821-8. 28. Lord SJ, Bernstein L, Johnson KA, Malone
+15. Parkin DM. International variation. Oncogene KE, McDonald JA, Marchbanks PA, et al. Breast
+2004;23(38):6329-40. cancer risk and hormone receptor status in older
+16. Parkin DM, Bray F, Ferlay J, Pisani P. Global women by parity, age of first birth, and
+cancer statistics, 2002. CA: a cancer journal for breastfeeding: a case-control study. Cancer
+clinicians 2005;55(2):74-108. epidemiology, biomarkers & prevention: a
+17. Poole VL, McCabe CJ. Iodide transport and publication of the American Association for Cancer
+breast cancer. The Journal of endocrinology 2015; Research, cosponsored by the American Society of
+227(1):R1-r12. Preventive Oncology 2008;17(7):1723-30.
+18. Xing W, Li Q, Cao R, Xu Z. Neogenin 29. Schulz M, Hoffmann K, Weikert C, Nothlings
+expression is inversely associated with breast cancer U, Schulze MB, Boeing H. Identification of a
+grade in ex vivo. World journal of surgical oncology dietary pattern characterized by high-fat food
+2014;12:352. choices associated with increased risk of breast
+19. Dumitrescu RG, Cotarla I. Understanding cancer: the European Prospective Investigation into
+breast cancer risk -- where do we stand in 2005? Cancer and Nutrition (EPIC)-Potsdam Study. The
+Journal of cellular and molecular medicine 2005; British journal of nutrition 2008;100(5):942-6.
+9(1):208-21. 30. Beral V. Breast cancer and hormone-
+20. Olopade OI, Grushko TA, Nanda R, Huo D. replacement therapy in the Million Women Study.
+Advances in breast cancer: pathways to personalized Lancet (London, England) 2003;362(9382):419-27.
+medicine. Clinical cancer research : an official 31. Huo D, Adebamowo CA, Ogundiran TO,
+journal of the American Association for Cancer Akang EE, Campbell O, Adenipekun A, et al. Parity
+Research 2008;14(24):7988-99. and breastfeeding are protective against breast
+21. Pohlreich P, Zikan M, Stribrna J, Kleibl Z, cancer in Nigerian women. British journal of cancer
+Janatova M, Kotlas J, et al. High proportion of 2008;98(5):992-6.
+recurrent germline mutations in the BRCA1 gene in 32. Tereschenko IV, Basham VM, Ponder BA,
+breast and ovarian cancer patients from the Prague Pharoah PD. BRCA1 and BRCA2 mutations in
+area. Breast cancer research: BCR 2005;7(5):R728- Russian familial breast cancer. Human mutation
+36. 2002;19(2):184.
+22. Breast cancer and breastfeeding: collaborative 33.Antoniou AC, Gayther SA, Stratton JF, Ponder
+reanalysis of individual data from 47 BA, Easton DF. Risk models for familial ovarian
+epidemiological studies in 30 countries, including and breast cancer. Genetic epidemiology
+50302 women with breast cancer and 96973 women 2000;18(2):173-90.
+without the disease. Lancet (London, England) 34. Malone KE, Daling JR, Doody DR, Hsu L,
+2002;360(9328):187-95. Bernstein L, Coates RJ, et al. Prevalence and
+23. Bray F, McCarron P, Parkin DM. The predictors of BRCA1 and BRCA2 mutations in a
+changing global patterns of female breast cancer population-based study of breast cancer in white and
+10 Med J Islam Repub Iran2016(15 May). Vol.30:369.
+A.Mehrgou,et al.
+black American women ages 35 to 64 years. Cancer 205(5):242-8.
+research 2006;66(16):8297-308. 46. Mousavi SM, Gouya MM, Ramazani R,
+35. Antoniou AC, Pharoah PD, McMullan G, Day Davanlou M, Hajsadeghi N, Seddighi Z. Cancer
+NE, Stratton MR, Peto J, et al. A comprehensive incidence and mortality in Iran. Annals of oncology
+model for familial breast cancer incorporating : official journal of the European Society for
+BRCA1, BRCA2 and other genes. British journal of Medical Oncology / ESMO 2009;20(3):556-63.
+cancer 2002;86(1):76-83. 47. Davies AA, Masson JY, McIlwraith MJ,
+36. Nanda R, Schumm LP, Cummings S, Stasiak AZ, Stasiak A, Venkitaraman AR, et al.
+Fackenthal JD, Sveen L, Ademuyiwa F, et al. Role of BRCA2 in control of the RAD51
+Genetic testing in an ethnically diverse cohort of recombination and DNA repair protein. Molecular
+high-risk women: a comparative analysis of BRCA1 cell 2001;7(2):273-82.
+and BRCA2 mutations in American families of 48.Moynahan ME, Pierce AJ, Jasin M. BRCA2 is
+European and African ancestry. Jama 2005; required for homology-directed repair of
+294(15):1925-33. chromosomal breaks. Molecular cell 2001;7(2):263-
+37. Armakolas A, Ladopoulou A, 72.
+Konstantopoulou I, Pararas B, Gomatos IP, Kataki 49. Pellegrini L, Yu DS, Lo T, Anand S, Lee M,
+A, et al. BRCA2 gene mutations in Greek patients Blundell TL, et al. Insights into DNA recombination
+with familial breast cancer. Human mutation from the structure of a RAD51-BRCA2 complex.
+2002;19(1):81-2. Nature 2002;420(6913):287-93.
+38. Jancarkova N, Zikan M, Pohlreich P, Freitag 50.Ahn SH, Son BH, Yoon KS, Noh DY, Han W,
+P, Matous B, Zivny J. [Detection and occurrence of Kim SW, et al. BRCA1 and BRCA2 germline
+BRCA 1 gene mutation in patients with carcinoma mutations in Korean breast cancer patients at high
+of the breast and ovary]. Ceska gynekologie / Ceska risk of carrying mutations. Cancer letters 2007;
+lekarska spolecnost J Ev Purkyne 2003;68(1):11-6. 245(1-2):90-5.
+39. Martin SE, Sausen M, Joseph A, Biggs DD, 51. Prevalence and penetrance of BRCA1 and
+Kingham BF, Martin ES. BRCA1 E1644X: a BRCA2 mutations in a population-based series of
+deleterious mutation in an African American breast cancer cases. Anglian Breast Cancer Study
+individual with early onset breast cancer. Breast Group. British journal of cancer. 2000;83(10):1301-
+cancer research and treatment 2009;113(2):393-5. 8.
+40. Marchina E, Fontana MG, Speziani M, Salvi 52. Hamann U, Liu X, Bungardt N, Ulmer HU,
+A, Ricca G, Di Lorenzo D, et al. BRCA1 and Bastert G, Sinn HP. Similar contributions of
+BRCA2 genetic test in high risk patients and BRCA1 and BRCA2 germline mutations to early-
+families: counselling and management. Oncology onset breast cancer in Germany. European journal of
+reports 2010;24(6):1661-7. human genetics: EJHG 2003;11(6):464-7.
+41. Patmasiriwat P, Bhothisuwan K, Sinilnikova 53. Loman N, Johannsson O, Kristoffersson U,
+OM, Chopin S, Methakijvaroon S, Badzioch M, et Olsson H, Borg A. Family history of breast and
+al. Analysis of breast cancer susceptibility genes ovarian cancers and BRCA1 and BRCA2 mutations
+BRCA1 and BRCA2 in Thai familial and isolated in a population-based series of early-onset breast
+early-onset breast and ovarian cancer. Human cancer. Journal of the National Cancer Institute
+mutation 2002;20(3):230. 2001;93(16):1215-23.
+42. Schoumacher F, Glaus A, Mueller H, 54. Malone KE, Daling JR, Neal C, Suter NM,
+Eppenberger U, Bolliger B, Senn HJ. BRCA1/2 O'Brien C, Cushing-Haugen K, et al. Frequency of
+mutations in Swiss patients with familial or early- BRCA1/BRCA2 mutations in a population-based
+onset breast and ovarian cancer. Swiss medical sample of young breast carcinoma cases. Cancer
+weekly 2001;131(15-16):223-6. 2000;88(6):1393-402.
+43. Seong MW, Cho S, Noh DY, Han W, Kim 55. John EM, Hopper JL, Beck JC, Knight JA,
+SW, Park CM, et al. Comprehensive mutational Neuhausen SL, Senie RT, et al. The Breast Cancer
+analysis of BRCA1/BRCA2 for Korean breast Family Registry: an infrastructure for cooperative
+cancer patients: evidence of a founder mutation. multinational, interdisciplinary and translational
+Clinical genetics 2009;76(2):152-60. studies of the genetic epidemiology of breast cancer.
+44. Tazzite A, Jouhadi H, Nadifi S, Aretini P, Breast cancer research: BCR 2004;6(4):R375-89.
+Falaschi E, Collavoli A, et al. BRCA1 and BRCA2 56. Smith LD, Tesoriero AA, Wong EM, Ramus
+germline mutations in Moroccan breast/ovarian SJ, O'Malley FP, Mulligan AM, et al. Contribution
+cancer families: novel mutations and unclassified of large genomic BRCA1 alterations to early-onset
+variants. Gynecologic oncology 2012;125(3):687- breast cancer selected for family history and tumour
+92. morphology: a report from The Breast Cancer
+45.Dutil J, Colon-Colon JL, Matta JL, Sutphen R, Family Registry. Breast cancer research: BCR
+Echenique M. Identification of the prevalent 2011;13(1):R14.
+BRCA1 and BRCA2 mutations in the female 57. Brose MS, Rebbeck TR, Calzone KA, Stopfer
+population of Puerto Rico. Cancer genetics 2012; JE, Nathanson KL, Weber BL. Cancer risk estimates
+Med J Islam Repub Iran2016(15 May). Vol.30:369. 11 
+BRCA1 and BRCA2 mutations inbreast cancer
+for BRCA1 mutation carriers identified in a risk testing 2008;12(3):401-7.
+evaluation program. Journal of the National Cancer 68. Manguoglu E, Guran S, Yamac D, Simsek M,
+Institute 2002;94(18):1365-72. Akdeniz S, Colak T, et al. Genomic large
+58. Chen S, Parmigiani G. Meta-analysis of rearrangement screening of BRCA1 and BRCA2
+BRCA1 and BRCA2 penetrance. Journal of clinical genes in high-risk Turkish breast/ovarian cancer
+oncology : official journal of the American Society patients by using multiplex ligation-dependent probe
+of Clinical Oncology 2007;25(11):1329-33. amplification assay. Cancer investigation 2011;
+59. Eeles RA. Future possibilities in the 29(1):73-7.
+prevention of breast cancer: intervention strategies 69. Meng J, Shi YR, Niu RF, Fu L. [Relationship
+in BRCA1 and BRCA2 mutation carriers. Breast between mutation of BRCA1 and susceptibility to
+cancer research: BCR 2000;2(4):283-90. early onset of breast cancer]. Zhonghua yi xue za
+60. Thompson D, Easton DF. Cancer Incidence in zhi 2009;89(2):79-82.
+BRCA1 mutation carriers. Journal of the National 70.Edwards E, Yearwood C, Sillibourne J, Baralle
+Cancer Institute 2002;94(18):1358-65. D, Eccles D. Identification of a de novo BRCA1
+61. Walsh T, King MC. Ten genes for inherited mutation in a woman with early onset bilateral
+breast cancer. Cancer cell 2007;11(2):103-5. breast cancer. Familial cancer 2009;8(4):479-82.
+62. Musolino A, Naldi N, Michiara M, Bella MA, 71. Song CG, Hu Z, Yuan WT, Di GH, Shen ZZ,
+Zanelli P, Bortesi B, et al. A breast cancer patient Huang W, et al. [Mutational analysis of BRCA1 and
+from Italy with germline mutations in both the BRCA2 genes in early-onset breast cancer patients
+BRCA1 and BRCA2 genes. Breast cancer research in Shanghai]. Zhonghua yi xue za zhi 2005;
+and treatment2005;91(2):203-5. 85(43):3030-4.
+63.Lakhani SR, Van De Vijver MJ, Jacquemier J, 72. Ozdag H, Tez M, Sayek I, Muslumanoglu M,
+Anderson TJ, Osin PP, McGuffog L, et al. The Tarcan O, Icli F, et al. Germ line BRCA1 and
+pathology of familial breast cancer: predictive value BRCA2 gene mutations in Turkish breast cancer
+of immunohistochemical markers estrogen receptor, patients. European journal of cancer (Oxford,
+progesterone receptor, HER-2, and p53 in patients England: 1990) 2000;36(16):2076-82.
+with mutations in BRCA1 and BRCA2. Journal of 73. Ellis D, Patel Y, Yau SC, Hodgson SV, Abbs
+clinical oncology: official journal of the American SJ. Low prevalence of BRCA1 exon rearrangements
+Society of Clinical Oncology 2002;20(9):2310-8. in familial and young sporadic breast cancer
+64. Phillips KA. Immunophenotypic and patients. Familial cancer 2006;5(4):323-6.
+pathologic differences between BRCA1 and BRCA2 74. Phelan CM, Kwan E, Jack E, Li S, Morgan C,
+hereditary breast cancers. Journal of clinical Aube J, et al. A low frequency of non-founder
+oncology : official journal of the American Society BRCA1 mutations in Ashkenazi Jewish breast-
+of Clinical Oncology 2000;18(21 Suppl):107s-12s. ovarian cancer families. Human mutation 2002;
+65. Pylkas K, Erkko H, Nikkila J, Solyom S, 20(5):352-7.
+Winqvist R. Analysis of large deletions in BRCA1, 75. Marino M, Rabacchi C, Simone ML, Medici
+BRCA2 and PALB2 genes in Finnish breast and V, Cortesi L, Calandra S. A novel deletion of
+ovarian cancer families. BMC cancer 2008;8:146. BRCA1 gene that eliminates the ATG initiation
+66. Walsh T, Casadei S, Coats KH, Swisher E, codon without affecting the promoter region. Clinica
+Stray SM, Higgins J, et al. Spectrum of mutations in chimica acta; international journal of clinical
+BRCA1, BRCA2, CHEK2, and TP53 in families at chemistry 2009;403(1-2):249-53.
+high risk of breast cancer. Jama 2006;295(12):1379- 76. Soares R, Amendoeira I, Monteiro P, Lopes
+88. CS, Schmitt FC. [Analysis of mutations in the
+67.Pal T, Vadaparampil S, Betts J, Miree C, Li S, BRCA1 gene in patients with cancer of the breast
+Narod SA. BRCA1/2 in high-risk African American and/or the ovary in Portugal]. Acta medica
+women with breast cancer: providing genetic testing portuguesa 2000;13(5-6):273-6.
+through various recruitment strategies. Genetic
+12 Med J Islam Repub Iran2016(15 May). Vol.30:369.

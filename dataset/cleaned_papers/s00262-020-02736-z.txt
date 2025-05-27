@@ -1,0 +1,1661 @@
+Cancer Immunology, Immunotherapy (2021) 70:607–617
+REVIEW
+Pembrolizumab and atezolizumab in triple‑negative breast cancer
+Dorota Kwapisz1
+Received: 16 June 2020 / Accepted: 25 September 2020 / Published online: 5 October 2020
+© Springer-Verlag GmbH Germany, part of Springer Nature 2020
+Abstract
+Triple-negative breast cancer (TNBC) is defined by a lack of expression of both estrogen (ER) and progesterone (PgR)
+receptors as well as human epidermal growth factor receptor 2 (HER2) and is associated with poor prognosis. Moreover,
+the systemic treatment options are limited. However, the TNBC is more likely than other breast cancer subtypes to benefit
+from immune checkpoint blockade therapy due to its higher immunogenicity, higher enrichment by tumour-infiltrating
+lymphocytes (TILs), and higher levels of programmed cell death ligand 1 (PD-L1) expression. Thus far, atezolizumab was
+approved in combination with nab-paclitaxel for patients with unresectable locally advanced or metastatic TNBC whose
+tumours express PD-L1. Currently, it seems that PD-L1-positive subgroup will potentially benefit the most from the immune
+checkpoint inhibitor (ICI) treatment. Moreover, it seems that better results are seen when an ICI is given as first-line treatment
+than when an ICI is given in later lines of treatment for advanced TNBC/metastatic TNBC. Recently, pembrolizumab has
+demonstrated promising results in early-stage TNBC what can lead in near future to its approval in (neo)adjuvant setting.
+This review summarizes the development and highlights recent advances of the atezolizumab and pembrolizumab in early
+and advanced/metastatic TNBC.
+Keywords Immunotherapy · Triple-negative breast cancer · Pembrolizumab · Atezolizumab · Immune checkpoint inhibitor
+Abbreviations LDH L actate dehydrogenase
+AE A dverse event MEK Mitogen-activated protein kinase kinase
+AKT Protein kinase B mTNBC Metastatic triple-negative breast cancer
+Anti-PD-1 Anti-programmed death receptor 1 ORR Objective response rate
+ASCO American Society of Clinical Oncology OS O verall survival
+aTNBC Advanced triple-negative breast cancer pCR Pathological complete response
+BC B reast cancer PD-L1 Programmed cell death ligand 1
+BRCA B reast cancer gene PFS P rogression-free survival
+CPS Combined positive score PgR P rogesterone receptor
+DFS D isease-free survival TILs T umour-infiltrating lymphocytes
+DLTs D ose-limiting toxicities TMB Tumour mutational burden
+EFS E vent-free survival TNBC Triple-negative breast cancer
+ER E strogen receptor TRAEs Treatment-related adverse events
+FDA US Food and Drug Administration
+HER2 Human epidermal growth factor receptor 2
+Introduction
+ICI Immune checkpoint inhibitor
+ICs I mmune cells
+ITT I ntention-to-treat Triple-negative breast cancer (TNBC) is an aggressive
+tumour that accounts for nearly one-fifth of all breast can-
+cers (BCs) and results in poor clinical outcomes [1, 2]. The
+*
+Dorota Kwapisz TNBC subtype is more likely to benefit from immunother-
+dmkwapisz@gmail.com apy because of the presence of mutations, tumour-infiltrat-
+ing lymphocytes (TILs) and elevated levels of programmed
+1 Department of Immunology, Transplantology and Internal
+Diseases, University Clinical Center of the Medical death ligand 1 (PD-L1) expression [3–5]. Some studies
+University in Warsaw, Warsaw, Poland
+Vol.:(0112 33456789)
+6 08 Cancer Immunology, Immunotherapy (2021) 70:607–617
+have shown that the expression of PD-L1 occurs mainly on were more common in the carboplatin-containing groups
+tumour-infiltrating immune cells (ICs) rather than on BC . The overall pathological complete response (pCR)
+cells [3, 6]. rate was nearly 60% . In general, regarding pCR among
+Thus far, chemotherapy has remained the standard of patients receiving platinum, better results were found for
+care for patients with metastatic TNBC (mTNBC), lead- those who received carboplatin every 3 weeks . Only
+ing to unsatisfactory long-term results [7, 8]. However, in in the cohort without carboplatin administration was dis-
+March 2019, atezolizumab, a monoclonal antibody targeting ease progression noted . Event-free survival (EFS) and
+PD-L1, received accelerated approval from the US Food and OS rates at 12 months were 18% higher in patients who
+Drug Administration to be combined with nab-paclitaxel received platinum . Researchers evaluated if stromal
+for patients with unresectable locally advanced TNBC or TILs or PD-L1 expression correlated with treatment results.
+mTNBC whose tumours express PD-L1 [9, 10]. Simul- As predicted and in line with other studies, higher PD-L1
+taneously, the VENTANA PD-L1 assay, as a companion expression and stromal TIL levels were significantly asso-
+diagnostic device, was approved . Atezolizumab is the ciated with higher pCR rates as well as strongly correlated
+first immune checkpoint inhibitor (ICI) accepted as therapy with each other .
+for TNBC. Although the updated findings from the IMpas- The effect of 4 cycles of pembrolizumab with neoadju-
+sion130 trial showed no improvement in overall survival vant chemotherapy (paclitaxel, doxorubicin, cyclophospha-
+(OS) for patients who received atezolizumab compared with mide) on pCR in 29 patients with early-stage TNBC was also
+that in patients who received a placebo in the intention-to- tested in phase II randomized I-SPY2 trial . Participation
+treat population, the benefit of combination treatment with in this study was allowed when stage II or III BC was recog-
+atezolizumab was maintained in the PD-L1-positive sub- nized and primary tumour was greater than 2.5 cm or 2.0 cm
+group . in physical examination or by imaging, respectively .
+The possibility of using immunotherapy for mTNBC Estimated pCR rate was the highest in TNBC group reach-
+is already viable in daily clinical practice, and it will most ing of 60%. The estimated pCR rates were higher across all
+likely be registered soon for early TNBC. Currently, the subgroups receiving pembrolizumab compared with control
+most advanced studies of ICIs in TNBC concern the use of populations .
+atezolizumab and pembrolizumab (anti-programmed death Interestingly, in the NeoTRIPaPDL1 trial, the addition
+receptor 1; anti-PD-1 drug), and this review will discuss of atezolizumab to neoadjuvant chemotherapy failed to sig-
+the trial results of these drugs in both the (neo)adjuvant and nificantly improve the pCR rate of TNBC . However,
+metastatic settings. the primary aim of the study was EFS at 5 years after ran-
+domization of the last patient. In the NeoTRIPaPDL1 trial
+patients with early high-risk (51%) and locally advanced
+Early TNBC—neoadjuvant treatment
+(49%) TNBC received chemotherapy (carboplatin, nab-
+paclitaxel, doxorubicin, epirubicin, cyclophosphamide,
+In the phase Ib KEYNOTE-173 study, the safety and early fluorouracil) with or without of 8 cycles of atezolizumab
+antitumour activity of pembrolizumab with chemotherapy . It is worth outlining that only 13% of patients did not
+as neoadjuvant treatment for TNBC were tested . Treat- have lymph node involvement. In total, 56% of patients
+ment-naïve patients with high-risk, early-stage of TNBC had PD-L1-positive samples, and it was shown that PD-L1
+(T1c, N1–N2; T2–T4c, N0–N2) were enrolled to this study expression was the most significant factor influencing pCR,
+. Paclitaxel or nab-paclitaxel with or without carbopl- regardless of the use of atezolizumab .
+atin were used in different doses and schemes. Moreover, In contrast to the NeoTRIPaPDL1 trial, the phase III
+all patients received doxorubicin plus cyclophosphamide IMpassion031 study evaluated atezolizumab in combina-
+. Pembrolizumab was administered up to 9 cycles . tion with chemotherapy (nab-paclitaxel, doxorubicin and
+When the combined positive score (CPS) was ≥ 1, the tis- cyclophosphamide) in comparison to placebo plus chemo-
+sue was defined as PD-L1 positive, which was noted in 78% therapy and met its primary endpoint by demonstrating a
+of patients in this study . Most patients had primary statistically significant and clinically meaningful improve-
+tumour T2, nodal involvement, and stage II of the disease ment in pCR with atezolizumab among people with early
+. Dose-limiting toxicities (DLTs) were noted in more TNBC, regardless of PD-L1 expression, according to a press
+than one-third of patients, with the most common being release (data not available yet) . The different results in
+febrile neutropenia . The most common treatment- the NeoTRIPaPDL1 and IMpassion031 trials can potentially
+related adverse events (TRAEs) were neutropenia, nausea, be explained by the fact that different chemotherapy regi-
+and anemia . Febrile neutropenia (Grade ≥ 3 TRAEs) mens were used for neoadjuvant treatment [14, 15]. In the
+occurred in 22% of patients . It was not surprising that NeoTRIPaPDL1 study, the only neoadjuvant treatment was
+neutropenia, febrile neutropenia, and thrombocytopenia carboplatin and nab-paclitaxel with or without atezolizumab,
+1 3
+Cancer Immunology, Immunotherapy (2021) 70:607–617 609
+but anthracycline and cyclophosphamide were given follow- significant influence on the results. All chemotherapy (dif-
+ing surgery (the effect of the latter drugs is not captured in ferent schemes) in the KEYNOTE-522 and IMpassion031
+the pCR outcome). In the IMpassion031 trial all chemo- trials was given as neoadjuvant treatment, which was not the
+therapy was given before surgery [14, 15]. case in the NeoTRIPaPDL1 study [14–16].
+Currently, results from phase III KEYNOTE-522 trial are
+available (Table 1) . In this study 1174 patients with
+Early TNBC—adjuvant treatment
+stage of disease as described in the KEYNOTE-173 trial
+were enrolled. Most patients had stage II of TNBC (around
+75%), 48% of participants did not have lymph node involve- Pembrolizumab was tested in adjuvant setting as part of
+ment, and 81–83% had PD-L1 status positive . Patients treatment in the KEYNOTE-522 trial . The results
+were assigned to pembrolizumab-chemotherapy or placebo- of the study are indicated above. Currently, phase III
+chemotherapy group . As chemotherapy they received NCT02954874 trial is ongoing, where pembrolizumab is
+paclitaxel, carboplatin (every 3 weeks or once weekly), administered for 52 weeks in adjuvant therapy (Table 2)
+doxorubicin or epirubicin, cyclophosphamide . Dur- . Moreover, IMpassion030 and IMpassion031 trials with
+ing neoadjuvant treatment the one group received jointly 8 atezolizumab in (neo)adjuvant regimens are underway .
+cycles of pembrolizumab . Moreover, the adjuvant treat- The details of ongoing phase III clinical trials in early-stage
+ment consisted of 9 cycles of pembrolizumab or placebo TNBC are listed in Table 2.
+. If indicated radiotherapy was performed. The percent-
+age of pCR was significantly higher among patients in the
+Advanced or metastatic TNBC—ICI
+pembrolizumab arm (64.8%) than among those who did not
+in monotherapy
+receive anti-PD-1 drug (51.2%) . The benefit was seen
+regardless of PD-L1 status . It is important to point out
+that PD-L1 positivity was defined in a different way and In the phase I trial (PCD4989g), 116 patients with mTNBC
+with a different assay than in the atezolizumab trials. The received atezolizumab in monotherapy . Most patients
+KEYNOTE-522 used 22C3 antibody and determined PD-L1 had visceral disease and had previously received at least
+positivity using the CPS which was defined as the number of 2 lines of therapy for mTNBC . Moreover, 78% of
+PD-L1-positive cells (tumour cells, lymphocytes, and mac- patients had PD-L1 expression on tumour-infiltrating ICs
+rophages) divided by the total number of tumour cells mul- at least of 1% . Almost every patient experienced AE,
+tiplied by 100 . The PD-L1 positivity was determined as with grade 3/4 of 51% . TRAE of grade 3/4 occurred
+a CPS of 1 or greater . Serious TRAEs were noted 13% in 11%. The median progression-free survival (PFS) by
+higher in the pembrolizumab–chemotherapy group with the Response Evaluation Criteria In Solid Tumours and median
+most common of febrile neutropenia (14.6%), anemia and OS were 1.4 months and 8.9 months, respectively . The
+pyrexia . The incidence of grade 3 or higher adverse median OS and objective response rate (ORR) were higher
+events (AEs) was noted to be at least 7 times higher in the among those who received atezolizumab as first-line treat-
+pembrolizumab group, and mainly in neoadjuvant phase of ment . Similarly, those with PD-L1 IC ≥ 1% had higher
+treatment . Survival outcomes are not available but by median OS than those with PD-L1 IC < 1% . In general,
+increasing pCR rate we assume that disease-free survival higher ORR, longer PFS and OS were noted in participants
+(DFS) and OS will also increase. It is postulated that pCR with higher baseline IC infiltration and CD8-positive T-cells
+can be a surrogate of survival for TNBC [17–19]. Nonethe- . Based on this study, it seems, that worse results can
+less, the data supporting above assumptions are needed. be expected in patients with elevated lactate dehydrogenase
+There are several possible explanations for the incon- (LDH) and/or liver metastases, with high tumour burden,
+sistent findings between the NeoTRIPaPDL1 and KEY- with drug administration after few previous lines of treat-
+NOTE-522 studies [14, 16]. Both trials were conducted ment, and with worse general condition .
+with an ICI plus chemotherapy as neoadjuvant therapy in As monotherapy, pembrolizumab was also tested in
+similar populations of patients with early TNBC, but the the phase Ib KEYNOTE-012 study . Almost 47% of
+ICI and chemotherapy regimens were different [14, 16]. patients with mTNBC received at least three prior lines
+Moreover, the assays used to evaluate PD-L1 expression of treatment, while one-fourth of participants received at
+were also different [14, 16]. Finally, the NeoTRIPaPDL1 least five lines of treatment. Only 5 patients did not receive
+trial was a smaller study . However, the IMpassion031 any prior therapy because of metastatic disease . Most
+trial, which showed positive results, was also a smaller study patients had visceral metastases . Receiving pembroli-
+than the KEYNOTE-522 trial and used atezolizumab as in zumab every 2 weeks resulted in an ORR of 18.5% with CR
+the NeoTRIPaPDL1 study [14–16]. In light of this informa- in one patient . Surprisingly, this patient was heavily
+tion, we can assume that neoadjuvant chemotherapy had a pretreated because of metastatic disease . High level of
+1 3
+6 10 Cancer Immunology, Immunotherapy (2021) 70:607–617
+1 3
+]83
+,63
+,52
+,61
+,11
+,9[
+CBNT
+ni
+bamuzilozeta
+dna
+bamuzilorbmep
+htiw
+stluser
+slairt
+lacinilc
+III
+esahP
+1
+elbaT
+feR
+%
+EA
+SOm
+SFPm
+RRO
+gnitteS
+tnemtaert/smrA
+noitalupop
+ydutS
+/emaN
+lairT
+stnapicitrap
+fo
+rebmuN
+]61[
+:edarg
+ynA
+A/N
+stneitap
+fo
+egatnecreP“
+RC
+tnavujda/tnavujdaoeN
+bamuzilorbmeP
+.1
+evïan-tnemtaerT
+225-ETONYEK
+%5.99
+.1
+ohw
+shtnom
+81
+ta
+)0Npy
+siT/0Tpy(
+,gm
+002 × 4(
+,2-1N
+c1T
+4711
+=
+n
+%001
+.2
+tuohtiw
+evila
+erew
+:llarevO
+LXP
++ )W3Q
+;2-0N
+4–2T
+:3
+≥
+edarG
+”noissergorp
+esaesid
+%8.46
+.1
+ACDBC
++ )W1Q(
+ro
+laretalib
+htiw
+oslA
+%18
+.1
+%3.19
+.1
+%2.15
+.2
+ro W1Q(
+yramirp
+lacofitlum
+%8.57
+.2
+%3.58
+.2
+:)+(1L-DP
+-mep × 4
+→ )W3Q
+-maflni
+dna
+sruomut
+%9.86
+.1
+/CA + bamuzilorb
+CB
+yrotam
+%9.45
+.2
+→ yregrus
+→ CE
+:)−(1L-DP
+bamuzilorbmep
+×
+9
+%3.54
+.1
+HTR
+± )W3Q(
+%3.03
+.2
+,gm
+002 × 4(
+obecalP
+.2
+LXP
++ )W3Q
+ACDBC
++ )W1Q( ro W1Q(
+-alp × 4
+→ )W3Q
+-rus
+→ CE/CA
++ obec → yreg obecalp ×
+9
+HTR
+± )W3Q(
+]52[
+:5–3
+edarG
+:llA
+:llA
+:llA
+ro
+dnoceS/citatsateM
+bamuzilorbmeP
+.1
+cimetsys
+roirp
+2–1
+retfA
+911-ETONYEK
+%41
+.1
+shtnom
+9.9
+.1
+shtnom
+1.2
+.1
+%6.9
+.1
+enil-driht
+)W3Q
+,gm 002(
+CBNTm
+rof
+stnemtaert
+226
+=
+n
+%63
+.2
+shtnom
+8.01
+.2
+shtnom
+3.3
+.2
+%6.01
+.2
+yparehtomehC
+.2
+:01
+≥ SPC
+:01
+≥
+SPC
+:01
+≥
+SPC
+-ubire
+ro enibaticepac(
+shtnom
+7.21
+.1
+shtnom
+1.2
+.1
+%7.71
+.1
+ro
+,enibaticmeg
+ro nil
+shtnom
+6.11
+.2
+shtnom
+4.3
+.2
+%2.9
+.2
+)enibleroniv
+]9[
+:edarg
+ynA
+:llA
+:llA
+:llA
+citatsatem/decnavdA
+bamuzilozetA
+.1
+-tcesernu
+ro
+citatsateM
+031-noissapMI
+%9.79
+.2
+%3.99
+.1
+shtnom
+3.12
+.1
+shtnom
+2.7
+.1
+%0.65
+.1
+enil-tsrfi
+-ban
++ )W2Q
+,gm 048(
+decnavda
+yllacol
+elba
+209
+=
+n
+:4
+ro
+3
+edarG
+shtnom
+6.71
+.2
+shtnom
+5.5
+.2
+%9.54
+.2
+LXP
+%2.24
+.2
+%7.84
+.1
+:)+(1L-DP
+:)+(1L-DP
+:RC—llA
+LXP-ban
++
+obecalP
+.2
+shtnom
+0.52.1
+shtnom
+5.7
+.1
+%1.7
+.1
+shtnom
+5.51
+.2
+shtnom
+0.5
+.2
+%6.1
+.2
+:)+(1L-DP
+%9.85
+.1
+%6.24
+.2
+:RC—)+(1L-DP
+%3.01
+.1
+%1.1
+.2
+]63[
+:edarg
+ynA
+:llA
+:llA
+:llA
+citatsatem/decnavdA
+bamuzilozetA
+.1
+-tcesernu
+ro
+citatsateM
+031-noissapMI
+%001
+.1
+EN
+.1
+shtnom
+4.7
+.1
+%6.76
+.1
+enil-tsrfi
+-ban
++ )W2Q
+,gm 048(
+decnavda
+yllacol
+elba
+puorgbus
+esenapaJ
+%001
+.2
+shtnom
+8.61
+.2
+shtnom
+6.4
+.2
+%6.15
+.2
+LXP
+56
+=
+n
+:4
+ro
+3
+edarG
+:)+(1L-DP
+:)+(1L-DP
+:)+(1L-DP
+LXP-ban
++
+obecalP
+.2
+%2.83
+.1
+EN
+.1
+shtnom
+8.01
+.1
+%0.57
+.1
+%04
+.2
+shtnom
+3.31
+.2
+shtnom
+8.3
+.2
+%8.35
+.2
+Cancer Immunology, Immunotherapy (2021) 70:607–617 611
+LDH at baseline was related with rapid disease progression
+. The median PFS and median OS were 1.9 months and
+11.2 months, respectively . Most likely, the higher the
+PD-L1 expression, the better the results that can be obtained
+. In total, at least 56% of patients had at least one TRAE
+and the most common of any grade included arthralgia,
+fatigue, myalgia, followed by nausea . The incidences
+of colitis, hepatitis and hypothyroidism were classified as
+immune-mediated AEs . Most importantly this study
+has shown that immunotherapy can be relatively safe and
+effective in some heavily pretreated patients .
+The natural continuation of a previous study was the
+phase II KEYNOTE-086 trial . In cohort B, pembroli-
+zumab was administered every 3 weeks for up to 2 years as
+first-line treatment for patients with PD-L1-positive mTNBC
+. Patients with brain metastases were excluded. More
+than 60% of women had TRAE with the most common of
+fatigue, nausea and diarrhea . Pembrolizumab mono-
+therapy showed durable antitumour activity with an ORR
+of 21.4%, including 4 CR . Usually, patients need to
+wait 2 months until a response is achieved, but the median
+duration of response was 10.4 months . The median PFS
+and median OS were 2.1 months and 18.0 months, respec-
+tively . In cohort A, pembrolizumab was administered
+in the same manner as in cohort B, but cohort A comprised
+previously treated patients because of mTNBC with PD-
+L1-positive or PD-L1-negative tumours . More than 68%
+of patients received at least two prior lines of therapy for
+metastatic disease . In cohort A, the ORR was modest
+(5.3%) and only slightly better in the PD-L1-positive popula-
+tion . In total, two CR were noted and all in PD-L1-pos-
+itive population . The median PFS and median OS were
+2.0 months and 9.0 months, respectively . There were
+no significant differences in survival regarding PD-L1 status
+. TRAE was noted in 60% of patients. In the cohort A
+and B, thyroid disorders were the most common immune-
+mediated AEs [23, 24]. Taken together, findings from both
+cohorts suggest that there is a higher possibility of achieving
+a response to pembrolizumab in untreated or in patients who
+received an anti-PD-1 drug in the early lines of treatment
+because of mTNBC, especially in those with PD-L1-pos-
+itive tumours. Although this was a phase II study with a
+small group of patients and a subgroup of responders, the
+responses were durable, and the toxicity profile was accept-
+able [23, 24].
+Unfortunately, in the randomized phase III KEY-
+NOTE-119 (NCT02555657) study, pembrolizumab mono-
+therapy did not show an improvement in ORR, PFS, or OS
+as compared to single-agent chemotherapy in participants
+with previously treated mTNBC (Table 1) . However, it
+seems that patients with the highest levels of tumour PD-L1
+expression had the greatest benefit regarding an ORR and
+median OS with ICI . Recently, a potential positive
+1 3
+)deunitnoc(
+1 elbaT
+feR
+%
+EA
+SOm
+SFPm
+RRO
+gnitteS
+tnemtaert/smrA
+noitalupop
+ydutS
+/emaN
+lairT
+stnapicitrap
+fo
+rebmuN
+]11[
+:edarg
+ynA
+:llA
+:llA
+A/N
+/decnavdA
+bamuzilozetA
+.1
+-tcesernu
+ro
+citatsateM
+031-noissapMI
+%99
+.1
+shtnom
+0.12
+.1
+shtnom
+2.7
+.1
+citatsatem
+-ban
++
+)W2Q
+,gm
+048(
+decnavda
+yllacol
+elba
+209
+=
+n
+%89
+.2
+shtnom
+7.81
+.2
+shtnom
+5.5
+.2
+enil-tsrfi
+LXP
+:4
+ro
+3
+edarG
+:)+(1L-DP
+:)+(1L-DP
+LXP-ban
++
+obecalP
+.2
+%94
+.1
+shtnom
+0.52
+.1
+shtnom
+5.7
+.1
+%34
+.2
+shtnom
+0.81
+.2
+shtnom
+3.5
+.2
+:)−(1L-DP
+:)−(1L-DP
+shtnom
+7.91
+.1
+shtnom
+6.5
+.1
+shtnom
+6.91
+.2
+shtnom
+6.5
+.2
+]83[
+:5–3
+edarG
+A/N
+:01
+≥
+SPC
+A/N
+/citatsatem
+,ecnerruceR
+-ilorbmeP
+.1
+evïan-tnemtaerT
+553-ETONYEK
+%1.86
+.1
+shtnom
+7.9
+.1
+enil-tsrfi
+yparehtomehc
++ bamuz
+-reponi
+tnerrucer
+yllacol
+748
+=
+n
+%9.66
+.2
+shtnom
+6.5
+.2
+-omehc
++
+obecalP
+.2
+ro
+elba
+ypareht
+CBM
+2 elbaT
+osla
+eeS
+,recnac
+tsaerb
+CB
+,secnerefer
+feR
+,tneve
+esrevda
+EA
+,lavivrus
+llarevo
+naidem
+SOm
+,lavivrus
+eerf-noissergorp
+naidem
+SFPm
+,etar
+esnopser
+evitcejbo
+RRO
+,recnac
+tsaerb
+evitagen-elpirt
+CBNT
+-orp
+1L-DP
+,esnopser
+etelpmoc
+RC
+,yparehtoidar
+HTR
+,edimahpsohpolcyc
+sulp
+niciburipe
+ro
+niciburoxod
+CE/CA
+,nitalpobrac
+ACDBC
+,lexatilcap
+LXP
+,ylkeew
+ecno
+W1Q
+,skeew
+3 yreve
+W3Q
+-itse
+ton
+EN
+,skeew
+2
+yreve
+W2Q
+,erocs
+evitisop
+denibmoc
+1
+dnagil
+htaed
+demmargorP
+SPC
+,recnac
+tsaerb
+evitagen-elpirt
+citatsatem
+CBNTm
+,elbacilppa
+ton
+A/N
+,1
+dnagil
+htaed
+llec
+demmarg
+;elbam
+6 12 Cancer Immunology, Immunotherapy (2021) 70:607–617
+1 3
+]02[
+)0202
+tsuguA( CBNT
+ni bamuzilozeta
+dna
+bamuzilorbmep
+htiw
+slairt
+lacinilc
+III
+esahp
+gniognO
+2
+elbaT
+MOP
+tnemtaert/smrA
+puorg tegraT
+gnitteS
+sutatS
+refiitnedi
+lairT
+)0Npy
+siT/0Tpy(
+etar
+RCp
+/CA →
+obecalp
++
+ACDBC
++ LXP
+.1
+CBNT
+decnavda
+yllacoL
+,tnavujdaoeN
+R/N
+A
+88463030TCN
+SFE
+obecalp
+→
+yregrus
+→
+obecalp
++ CE
+-non decnavda
+yllacol
+evïan-tnemtaerT
+tnavujda
+225-ETONYEK
+/CA
+→
+bamuzilorbmep
++
+ACDBC
++ LXP
+.2
+:CBNT
+)0M(
+citatsatem
+-mep
+→ yregrus
+→
+bamuzilorbmep
++ CE
+2N-1N ,c1T
+)W3Q(
+bamuzilorb
+2N-0N ,2T 2N-0N ,3T
+2N-0N
+,d-a4T
+SFDI
+)htR
+±(
+noitavresbO
+.1
+/dna
+evitisop ylkaew
+-RgP
+,-RE
+ro CBNT
+tnavujdA
+R
+47845920TCN
+rof syad
+24
+yreve(
+bamuzilorbmeP
+.2
+tsum dna sutats
+lacoviuqe-2REH
+ro
+htR
+± )skeew
+25
+gninnalp eb ton
+dna
+deviecer
+evah ton
+sTE ro 2REH-itna
+tnavujda
+eviecer ot
+-omehc
+tnavujdaoen
+fo noitelpmoc
+retfa ypareht
+sa sesac lacoviuqe-2REH
+dna -2REH
+ton od taht senilediug
+PAC
+OCSA rep
+ypareht
+detegrat-2REH
+eviecer
+eugitaf
+fo ytireveS
+RE( esaesid evitisop
+RgP
+ro
+RE ylkaeW
+elbigile era )CHI
+yb %5
+≤
+RgP ro/dna
+tnavujda
+rof elbigile
+ton si
+tneitap
+eht fi TE
+noitcnuf
+lacisyhP
+-taerg
+ni mc 1 ≥
+eb
+tsum esaesid
+laudiseR
+,1Npy ,im1Npy
+ro/dna
+,noisnemid
+tse
+3Npy
+,2Npy
+:1 traP
+:1 traP
+:evïan-tnemtaerT
+,ecnerruceR
+R/N
+A
+81591820TCN
+ecneirepxe
+ohw
+stnapicitrap
+fo
+egatnecrep
+-ban
++ )W3Q/gm
+002(
+bamuzilorbmeP
+.1
+recnac
+tsaerb elbareponi
+tnerrucer
+yllacol
+citatsateM
+553-ETONYEK
+lla—EA
+na
+LXP
+evitaruc htiw
+detaert
+eb
+tonnac
+hcihw
+eunitnocsid
+ohw
+stnapicitrap
+fo
+egatnecreP
+LXP
++ )W3Q/gm
+002(
+bamuzilorbmeP
+.2
+tnetni
+lla—EA
+na
+ot
+eud
+gurd
+yduts
+/MEG
++ )W3Q/gm
+002(
+bamuzilorbmeP
+.3
+ACDBC
+:2 traP
+:2 traP
+lla—SO
+dna
+SFP
+-omehc
++ )W3Q/gm
+002(
+bamuzilorbmeP
+.1
+evitisop–1L-DP
+htiw
+esoht
+ni
+SO
+dna
+SFP
+ypareht
+CBM
+01
+≥
+SPC
+htiw
+dna
+,sruomut
+1 ≥
+SPC
+yparehtomehc
++ obecalP
+.2
+sruomut
+SFP
++
+MEG
++ ACDBC
+.1
+:evïan-tnemtaerT
+,ecnerruceR
+R
+53119140TCN
+-mep
++ MEG
++ ACDBC
+→
+bamuzilorbmep
+taht CBNT elbareponi
+tnerrucer
+yllacol
+citatsatem
+900-KNYLYEK
+)W3Q/gm
+002(
+bamuzilorb
+tnetni evitaruc
+htiw
+detaert
+eb tonnac
+SO
+→
+bamuzilorbmep
++
+MEG
++ ACDBC
+.2
+CBM
+birapalo
++ )W3Q/gm
+002(
+bamuzilorbmep
+SFE
+-ilozeta
++
+LXP-ban
++ ACDBC
+.1
+ro decnavda yllacol
+dna
+ksir-hgih
+ylraE
+tnavujdaoeN
+R/N
+A
+08202620TCN
+CEF
+ro CE
+ro
+CA
+→
+yregrus
+→
+bamuz
+srecnac
+tsaerb
+yrotammaflni
+tnavujda
+1LDPaPIRToeN
+ro
+CA
+→ yregrus
+→
+LXP-ban
++ ACDBC
+.2
+CEF
+ro CE
+Cancer Immunology, Immunotherapy (2021) 70:607–617 613
+1 3
+)deunitnoc(
+2 elbaT
+MOP
+tnemtaert/smrA
+puorg
+tegraT
+gnitteS
+sutatS
+refiitnedi
+lairT
+SFDI
+/gm
+048( bamuzilozetA
+.1
+III-II
+egats
+elbarepO
+tnavujdaoeN
+R
+61789430TCN
+/CAdd
++ bamuzilozeta
+→ LXP
++ )W2Q
+tnavujda
+030noissapMI
+yregrus
+→ CEdd
+-moc
+ot W3Q/gm
+0021( bamuzilozeta
+→
+tsrfi
+eht morf
+tnemtaert
+fo
+raey
+1 etelp )esod
+yregrus
+→
+CEdd/CAdd
+→ LXP
+.2
+RCp
+htiw
+stnapicitrap
+fo
+egatnecreP
+LXP-ban
++ )W2Q/gm
+048( bamuzilozetA
+.1
+0Mc
+,3Nc-0Nc
+,4Tc-2Tc
+tnavujdaoeN
+R/N
+A
+53979130TCN
+ni
+RCp
+htiw
+stnapicitrap
+fo
+egatnecreP
+/gm
+048( bamuzilozeta
+→
+tnavujda
+130noissapMI
+evitisop–1L-DP
+htiw
+noitalupopbus
+bamuzilozeta
+→ yregrus
+→
+CA
++ )W2Q
+sutats
+ruomut
+)sesod
+11 ,W3Q/gm
+0021(
+-alp →
+LXP-ban
++
+obecalP
+.2
+yregrus →
+CA
++ obec
+/0Tpy(
+sedon
+hpmyl
+dna
+tsaerb
+eht
+ni
+RCp
+/CA →
+obecalp
++ ACDBC
++ LXP
+.1
+0N
+,3T
+ro
+2T
+tnavujda
+,tnavujdaoeN
+R
+45918230TCN
+)0Npy
+siT
+obecalp
+→ yregrus
+→ obecalp
++
+CE
+SFE
+/CA
+→ bamuzilozeta
++ ACDBC
++ LXP
+.2
+yllacigolotsih
+ro
+yllacigolotyc(
+1Nc
+-ilozeta
+→ yregrus
+→ bamuzilozeta
++
+CE
+tuohtiw
+ro
+htiw(
+3N-2Nc
+ro
+)evitisop
+)W3Q/gm
+0021(
+bamuz
+,c1T
+yllacinilc
+eb
+nac
+neht
+,)yspoib
+a
+3T
+ro ,2T
+)+(1L-DP
+htiw
+noitalupopbus
+eht
+ni
+SFP
+LXP
++ )W2Q/gm
+048( bamuzilozetA
+.1
+:evïan-tnemtaerT
+,decnavda
+yllacoL
+R/N
+A
+20952130TCN
+sutats
+ruomut
+LXP
++
+obecalP
+.2
+decnavda
+yllacol
+citatsatem
+131noissapMI
+noitalupop
+taert-ot-tnetni
+eht
+ni
+SFP
+ypareht
+lacigrus
+ot elbanema
+ton
+CBM
+ruomut
+)+(1L-DP
+htiw
+noitalupop
+ni
+SO
+-omehc
++ )W3Q/gm
+0021( bamuzilozetA
+.1
+:evïan-tnemtaerT
+,ecnerruceR
+R
+71017330TCN
+sutats
+)enibaticepac
+ro
+ACDBC
++ MEG(
+ypareht
+elbareponi
+,tnerrucer
+yllacol
+,decnavda
+yllacol
+231noissapMI
+noitaulpop
+taert-ot-tnetni
+defiidom
+ni
+SO
+yparehtomehc
++
+obecalP
+.2
+decnavda
+yllacoL
+citatsatem
+)enibaticepac
+ro ACDBC
++ MEG(
+CBM
+SFP
+:)-(1L-DP
+:evïan-tnemtaerT
+,elbatcesernu
+decnavda
+yllacoL
+R
+80177140TCN
+bamuzilozeta
++ LXP
+.1
+elbatcesernu
+decnavda
+yllacol
+citatsatem
+SO
+bitresatapi
++
+CBM
+bitresatapi
++ obecalp
++ LXP
+.2
+obecalp
++ obecalp
++ LXP
+.3
+:)+(1L-DP
+bitresatapi
++
+bamuzilozeta
++ LXP
+.1
+obecalp
++
+bamuzilozeta
++ LXP
+.2
+niciburipe/edimahpsohpolcyc
+sulp
+niciburoxod
+CE/CA
+,nitalpobrac
+ACDBC
+,lexatilcap
+LXP
+,gnitiurcer
+ton
+evitcA
+R/N
+A
+,serusaem
+emoctuo
+yramirp
+MOP
+,recnac
+tsaerb
+evitagen-elpirt
+CBNT
+-redipe
+namuh
+2REH
+,rotpecer
+enoretsegorp
+RgP
+,rotpecer
+negortse
+RE ,gnitiurcer
+R
+,lavivrus
+eerf-tneve
+SFE
+,esnoper
+etelpmoc
+lacigolohtap
+RCp
+,skeew
+3
+yreve
+W3Q
+,edimahpsohpolcyc
+sulp
+SFDI
+,yparehtoidar
+htR
+,yrtsimehcotsihonummi
+CHI
+,stsigolohtaP
+naciremA
+fo
+egelloC
+ygolocnO
+lacinilC
+fo
+yteicoS
+naciremA
+PAC
+OCSA
+,ypareht
+enircodne
+TE
+,2
+rotpecer
+rotcaf
+htworg
+lam
+,1
+dnagil
+htaed
+llec
+demmargorp
+1L-DP
+,lavivrus
+llarevo
+SO
+,lavivrus
+eerf-noissergorp
+SFP
+,tneve
+esrevda
+EA
+,enibaticmeg
+MEG
+,recnac
+tsaerb
+citatsatem
+CBM
+,lavivrus
+eerf-esaesid
+evisavni
+esned-esod
+dd ,skeew
+2
+yreve
+W2Q
+,edimahpsohpolcyc
+dna
+niciburipe
+,licaruoroufl
+CEF
+,erocs
+evitisop
+denibmoc
+SPC
+6 14 Cancer Immunology, Immunotherapy (2021) 70:607–617
+association between tumour mutational burden (TMB) and in BRCA mutation group . Again, an ORR was lower
+clinical benefit with pembrolizumab was suggested, espe- among those who were previously treated for mTNBC .
+cially in patients with TMB ≥ 10 mut/Mb . In recently published study, pembrolizumab with capecit-
+abine showed no significant improvement in PFS in TNBC
+compared with historical data . In this small by number
+Advanced or metastatic TNBC—ICI
+of patients study, the median PFS and median OS in TNBC
+in combination
+cohort were 4 months and 15.3 months, respectively .
+The ORR in TNBC was 13%, and no CR was noted .
+In the phase Ib study (GP28328) atezolizumab with nab- However, in another early phase study an ORR was higher
+paclitaxel in 33 patients with mTNBC after maximum of in pembrolizumab plus capecitabine group than in pembroli-
+2 prior lines of treatment were tested . Around 80% zumab plus paclitaxel group .
+of patients had previously been treated with taxane . Interestingly, pembrolizumab was tested with hypofrac-
+Patients with untreated or active brain metastases were tionated radiotherapy at a total dose of 3000 cGy in patients
+excluded. The ORR was 39%, and ORR was numerically with mTNBC . The most common irradiated site was
+higher in the treatment-naïve patients and in PD-L1-positive breast/chest wall . Previous systemic treatment for meta-
+patients (no statistical significance) . The median PFS static disease was allowed . Finally, in this small phase
+and OS were 5.5 months and 14.7 months, respectively . II study, the ORR was 17.6% with long-lasting, systemic
+The median TILs was only 5% . In biopsy cohort no responses in some patients . Consistent with the results
+significant changes regarding PD-L1 and stromal TILs were of previous studies, a response more likely to be observed
+seen in samples taken during treatment, either with taxane when concurrent treatment was administered in earlier lines
+or anti-PD-L1 drug plus taxane . Biomarkers were not of therapy because of metastatic disease . It is worth
+significantly associated with results . TRAE of any grade mentioning that, in the phase II TONIC trial, nivolumab
+occurred in every participant and 73% of patients suffered was administered after induction with hypofractionated
+from grade 3/4 AEs . The most frequent AEs were neu- radiotherapy (24 Gy) in patients with mTNBC, and a mod-
+tropenia, fatigue, alopecia, and diarrhea . Febrile neu- est ORR of 8% was reached .
+tropenia was noted in 1 patient. The most common grade 3/4 The addition of another drug to an ICI does not
+AEs related with atezolizumab administration were diarrhea always lead to better results. Recently, the ENCORE 602
+and colitis . It seems that high rate of grade 3/4 neutro- (TRIO025), a phase II trial results of atezolizumab with
+penia was related with nab-paclitaxel dose . or without entinostat (class I-selective histone deacetylase
+Interestingly, at American Society of Clinical Oncology inhibitor) in patients with advanced TNBC (aTNBC) have
+(ASCO) Virtual Scientific Meeting in 2020 the updated been announced . The addition of entinostat to atezoli-
+results from ENHANCE 1, a phase Ib/II study exploring zumab failed to prolong the median PFS, and the combina-
+the combination of eribulin plus pembrolizumab in patients tion therapy resulted in greater toxicity in previously treated
+with mTNBC were announced . Researchers concluded patients with aTNBC . Moreover, ICIs were also tested
+that higher activity for the combination treatment was seen with other drugs in combinations of three. For example, in
+among patients with PD-L1-positive tumours, and in the the phase II COLET study with atezolizumab, cobimetinib
+first-line setting . In this subgroup the median PFS and (Mitogen-activated protein kinase kinase, MEK inhibitor),
+median OS were 6.1 months and 21 months, respectively and paclitaxel or nab-paclitaxel as first-line treatment for
+. In later-lines setting of treatment comparable survival patients with locally advanced or mTNBC resulted in simi-
+outcomes were observed independently of PD-L1 status lar ORR in both arms . The ongoing clinical trials with
+. combinations of three drugs are discussed further.
+To enhance the treatment results, pembrolizumab was Currently, the most important phase III randomized
+also tested in combination with niraparib, capecitabine and study in metastatic or unresectable locally advanced TNBC
+radiotherapy [29–32]. Patients with advanced/metastatic is IMpassion-130 trial . Patients with asymptomatic
+TNBC irrespective of breast cancer gene (BRCA) muta- treated brain metastases were also included to this trial .
+tion or PD-L1 status were enrolled to phase II TOPACIO Previously untreated because of metastatic disease patients
+trial and received combination of pembrolizumab (every received atezolizumab (840 mg) or placebo on days 1 and
+3 weeks) with niraparib . Combination of treatment 15 and received nab-paclitaxel (100 mg/m2) on days 1, 8,
+resulted in promising results with at least four times higher and 15 of every 28 day cycle for six cycles or more . In
+ORR among patients with tumour BRCA mutations than total, 40.9% of patients were PD-L1-positive . The pri-
+among patients with BRCA wild-type tumours . How- mary results of the aforementioned study were encourag-
+ever, we have to be aware of relatively small sample size of ing in favour of the atezolizumab group, especially the PD-
+this study. Of note, higher PD-L1-positive status was noted L1-positive subgroup . In the PD-L1-positive subgroup,
+1 3
+Cancer Immunology, Immunotherapy (2021) 70:607–617 615
+the median PFS and median OS were significantly prolonged (nab-paclitaxel, paclitaxel or gemcitabine/carboplatin)
+by 2.5 months and by nearly 10 months, respectively . In showed a statistically significant and clinically meaningful
+total, the median PFS and median OS in atezolizumab group improvement in PFS compared with chemotherapy alone in
+were 7.2 months and 21.3 months, respectively . The CR treatment-naïve patients with locally recurrent, inoperable,
+was noted more than four times more often in the atezoli- or mTNBC whose tumours expressed PD-L1 (CPS of 10 or
+zumab group than in placebo group . Among patients who higher) (Table 1) .
+received atezolizumab the CR was noted in 7.1% in total,
+and in 10.3% in PD-L1-positive subgroup . Combination
+Ongoing studies and future directions
+therapy with anti-PD-L1 drug had acceptable safety profile
+. The incidence of grade 3 or 4 AEs of special interest
+was noted to be 3.2% higher in the atezolizumab group . It was shown that ICIs in TNBC are more effective in combi-
+The most common AEs of any grade in both groups were nation treatment than as a single agent. Consequently, many
+alopecia, nausea, cough and peripheral neuropathy . In treatment combinations of ICI with various drugs are cur-
+the IMpassion-130 trial 65 patients were Japanese . The rently being tested . For example, in the BARBICAN
+survival results in this subgroup were consistent with those trial researchers want to determine whether adding ipata-
+reached by all population in the trial [9, 36]. However, ORRs sertib (protein kinase B, AKT inhibitor) to atezolizumab
+were numerically higher . More often, AEs such as alo- and chemotherapy increases the probability of an immune
+pecia, peripheral sensory neuropathy or decreased neutrophil response over adding atezolizumab to chemotherapy in
+count were noted in Japanese patients . However, there patients with TNBC in neadjuvant treatment . The pre-
+were no new safety signals and no grade 3/4 AEs of special liminary results of triplet combination of ipatasertib, atezoli-
+interest . zumab, and paclitaxel or nab-paclitaxel as first-line therapy
+In the second prespecified interim OS analysis in the for locally advanced/mTNBC have already shown promising
+IMpassion-130 trial no significant difference in OS between antitumour activity with ORR of 73% . Interestingly,
+main groups in ITT population was noted . However, the NCT04373031 trial in early TNBC with pembrolizumab,
+benefit of atezolizumab administration was still seen regard- chemotherapy, and IRX-2, a cell-derived biologic with mul-
+ing median OS in PD-L1-positive subgroup with median tiple active cytokine components, has been recently initiated
+OS of 25 months . At the time of the second analysis, .
+84% and 90% of patients in the atezolizumab group and Currently, pembrolizumab is tested in TNBC in combina-
+the placebo group developed disease progression or died, tion with GX-I7 (long-acting interleukin-7), olaparib (MK-
+respectively . The most common grade 3–4 AEs were 7339-009/KEYLYNK-009 trial), stereotactic body radiation
+neutropenia, peripheral neuropathy what was the main cause therapy, and oncolytic virus therapy (STOMP trial), PVX-
+for therapy discontinuation of anti-PD-L1 drug, decreased 410 vaccine, enobosarm, imprime PGG, which is a soluble,
+neutrophil count, followed by fatigue . β-1,3/1,6 glucan isolated from the cell wall of a proprie-
+The phase III IMpassion131 study, which evaluated ate- tary Saccharomyces cerevisiae yeast strain, intratumoural
+zolizumab in combination with paclitaxel in comparison to tavokinogene telseplasmid (KEYNOTE-890 trial), radio-
+placebo plus paclitaxel in patients with mTNBC, did not therapy boost, and with various chemotherapy regimens
+achieve statistical significance for its primary endpoint of . Moreover, atezolizumab is tested in combination with
+PFS for the use of atezolizumab and paclitaxel as first-line rucaparib and different chemotherapy schemes as well .
+treatment in the PD-L1-positive population, according to In the TNBC or luminal B-like/HER2-negative BC, tali-
+a press release (data not available yet) . Moreover, the mogene laherparepvec with atezolizumab in phase I PRO-
+investigators of this study also observed that the OS showed METEO study are examined. It is a window of opportunity,
+a negative trend, but the study was not powered for OS, and single arm study design to evaluate the effect of mentioned
+at the time of the analysis, the data were immature . The treatment in women with operable early BC who present
+Impassion130 trial had a similar design to Impassion131 but residual disease after neoadjuvant chemotherapy .
+recruited more patients and used nab-paclitaxel instead of ICIs are also tested in combination with other types of
+paclitaxel as the chemotherapy comparator. We can suspect immunotherapy. For example, in phase Ib/II Morpheus-
+that the use of paclitaxel and premedication with high doses TNBC randomized umbrella study, the efficacy and safety
+of steroids could have influenced the results in the IMpas- of multiple immunotherapy-based drug combinations (ate-
+sion131 study. zolizumab, selicrelumab, tocilizumab, sacituzumab govite-
+PFS results of combination treatment investigated in can) for treatment of patients with metastatic or inoperable
+the phase III KEYNOTE-355 trial were presented dur- locally advanced TNBC are evaluated .
+ing the 2020 ASCO Virtual Scientific Meeting . In
+this study pembrolizumab combined with chemotherapy
+1 3
+6 16 Cancer Immunology, Immunotherapy (2021) 70:607–617
+There are numerous studies that are in progress today and 6. Sabatier R, Finetti P, Mamessier E et al (2015) Prognostic and
+Table 2 shows a list of ongoing phase III clinical trials with predictive value of PDL1 expression in breast cancer. Onco-
+target 6:5449–5464
+pembrolizumab and atezolizumab in TNBC .
+7. Cardoso F, Costa A, Senkus E et al (2017) 3rd ESO-ESMO
+international consensus guidelines for advanced breast cancer
+(ABC 3). Breast 31:244–259
+Conclusions 8. Garrido-Castro AC, Lin NU, Polyak K (2019) Insights into
+molecular classifications of triple-negative breast cancer:
+improving patient selection for treatment. Cancer Discov
+After many years with stagnation, we can currently offer 9:176–198
+immunotherapy as a new treatment approach for TNBC. 9. Schmid P, Adams S, Rugo HS et al (2018) Atezolizumab and
+Although immunotherapy raises great hopes in the treat- nab-paclitaxel in advanced triple-negative breast cancer. N Engl
+J Med 379:2108–2121
+ment of TNBC, we must be aware that many studies are
+10. FDA approves atezolizumab for PD-L1 positive unresectable
+ongoing, and many questions remain unanswered. We locally advanced or metastatic triple-negative breast cancer. FDA
+need to better understand the cancer and immune system U.S. Food and Drug. https: //www.fda.gov/drugs/ drug-approv als-
+interactions, including the chemotherapy backbone and and-databa ses/fda-approv es-atezol izuma b-pd-l1-positi ve-unres
+ectabl e-locall y-advanc ed-or-metast atic- triple -negati ve. Accessed
+associated regimens. Currently, we can assume that the
+16 May 2020
+PD-L1-positive subgroup will potentially benefit the most 11. Schmid P, Rugo HS, Adams S et al (2020) Atezolizumab plus
+from the use of ICIs, especially as combination therapy. nab-paclitaxel as first-line treatment for unresectable, locally
+Moreover, it seems that better results are seen when advanced or metastatic triple-negative breast cancer (IMpas-
+sion130): updated efficacy results from a randomised, double-
+an ICI is given as first-line treatment than when an ICI
+blind, placebo-controlled, phase 3 trial. Lancet Oncol 21:44–59
+is given in later lines of treatment for aTNBC/mTNBC. 12. Schmid P, Salgado R, Park YH et al (2020) Pembrolizumab plus
+Currently, many clinical trials with pembrolizumab and chemotherapy as neoadjuvant treatment of high-risk, early-stage
+atezolizumab are underway, and we are urgently waiting triple-negative breast cancer: results from the phase 1b open-label,
+multicohort KEYNOTE-173 study. Ann Oncol 31:569–581
+for their comprehensive results to make final conclusions
+13. Nanda R, Liu MC, Yau C et al (2020) Effect of pembrolizumab
+for the entire TNBC group. plus neoadjuvant chemotherapy on pathologic complete response
+in women with early-stage breast cancer: an analysis of the ongo-
+ing phase 2 adaptively randomized I-SPY2 trial. JAMA Oncol
+Author contributions Dorota Kwapisz—conception and design/idea for 2020:e196650. https: //doi.org/10.1001/jamaon col.2019.6650
+14. Gianni L, Huang C, Egle D, et al (2019) Pathologic complete
+the article, acquisition of data/literature search, analysis and interpreta-
+response to neoadjuvant treatment with or without atezolizumab
+tion of data, wrote the paper, critically revised the work, approval of
+in triple-negative, early high-risk and locally advanced breast can-
+the final version of the manuscript.
+cer. NeoTRIPaPDL1 Michelangelo randomized study. 2019 San
+Antonio Breast Cancer Symposium. Abstract GS3–04. Presented
+Compliance with ethical standards
+December 12, 2019
+15. Roche’s Tecentriq in combination with chemotherapy (includ-
+Conflict of interest Author has no conflicts of interest to declare. ing Abraxane) meets primary endpoint of improved pathological
+complete response, regardless of PD-L1 status, as initial treat-
+ment for people with early triple-negative breast cancer. Roche.
+https: //www.roche. com/media/ releas es/med-cor-2020-06-18.htm.
+Accessed 10 August 2020

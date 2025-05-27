@@ -1,0 +1,487 @@
+Journal of Cancer 2023, Vol. 14 3275
+Ivyspring
+International Publisher Journal of Cancer
+2023; 14(17): 3275-3284. doi: 10.7150/jca.86746
+Research Paper
+Adverse Event Profile Differences between
+Trastuzumab Emtansine and Trastuzumab Deruxtecan:
+A Real-world, Pharmacovigilance Study
+Fen Liu1*, Guisen Yin2*, Shuyi Xue3, Faisal UL Rehman4, Dehua Liao1, Yong Pan1
+1. Department of Pharmacy, Hunan Cancer Hospital, the Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha
+410011, Hunan, China.
+2. Department of Pharmacy, Yantai Hospital of Traditional Chinese Medicine, Yantai 264000, Shandong, China.
+3. Department of Pharmacy, Affiliated Qingdao Central Hospital of Qingdao University, Qingdao Cancer Hospital, Qingdao, 266042, Shandong, China.
+4. Precision Medicine Center of Oncology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, 266003, China.
+*These authors contributed equally to this work and should be considered co-first authors.
+ Corresponding author: Yong Pan, E-mail: panyong@hnca.org.cn.
+© The author(s). This is an open access article distributed under the terms of the Creative Commons Attribution License (
+See  for full terms and conditions.
+Received: 2023.06.02; Accepted: 2023.09.23; Published: 2023.10.02
+Abstract
+Introduction: Trastuzumab emtansine(T-DM1) and trastuzumab deruxtecan (T-DXd, formerly
+DS-8201a), the human epidermal growth factor receptor 2 (HER2)-targeted antibody-drug conjugate
+(ADC), are commonly used in metastatic breast cancer. However, their real-world safety profile has not
+been adequately compared.
+Objective: We aimed to investigate the adverse event (AE) profile of T-DM1 and T-DXd reported by
+the US Food and Drug Administration Adverse Event Reporting System (FAERS).
+Methods: All indications were searched for T-DM1 and T-DXd, as primary suspected drugs, from
+FAERS data (January 2004 to June 2023). Disproportionality analyses were performed by reporting odds
+ratios (ROR) and proportional reporting ratio (PRR). The odds ratio (OR) of fatal AEs associated with
+T-DM1 and T-DXd under different exposure factors were performed by univariate and multivariate
+logistical regression analysis.
+Results: 3723 and 2045 reports of T-DM1 and T-DXd were submitted to FAERS. Finally, 94 and 61
+significant signals for T-DM1 and T-DXd were systematically analyzed. The valid AEs with the highest
+frequency and the strongest signal intensity for T-DM1 were platelet count decreased (n=108) and
+hepatopulmonary syndrome (ROR=680.42), respectively. Interstitial lung disease (n=262, ROR=82.55)
+and pneumonitis (n=89, ROR = 48.34) showed both high frequency and strong signal intensity for T-DXd.
+The proportion of AEs in each SOC system was different. T-DM1 had a greater proportion of valid AEs
+in the nervous system, musculoskeletal system, hepatobiliary system, ocular system, cardiac system and
+hematologic system(p<0.05). T-DXd had a greater proportion of valid AEs in the skin disorders,
+respiratory system, infestations, general system and gastrointestinal system(p<0.05). Furthermore, the
+analysis of fatal AEs in four systems revealed that T-DXd exhibited a significantly higher proportion of
+fatal outcomes in the hematologic and respiratory system compared to T-DM1. Conversely, T-DM1 had
+a significantly higher proportion of fatal outcomes in the hepatobiliary system. Neither T-DM1 nor
+T-DXd exhibited a high mortality ratio in the cardiac system. Logistic regression analysis indicated that
+advanced age (≥65 years) and male gender were identified as independent risk factors of fatal AEs for both
+T-DM1 and T-DXd. Additionally, the drug combination therapy, particularly with a CYP3A4 inhibitor,
+was found to be a risk factor for fatal AEs specifically related to T-DXd.
+Conclusions: Hematological and respiratory toxicity of T-DXd and hepatobiliary toxicity of T-DM1
+exhibited a high incidence of fatal outcomes. It is crucial to identify high-risk factors and enhance the
+monitoring of AEs during clinical application.
+Keywords: trastuzumab emtansine, trastuzumab deruxtecan, FAERS, pharmacovigilance,real-world,adverse event
+Journal of Cancer 2023, Vol. 14 3276
+cytotoxic drugs (microtubule inhibitor vs. topoiso-
+1. Introduction
+merase I inhibitor), different linkers (stable vs.
+Antibody-drug conjugate (ADC), known as cleavable), different DAR (3.5 vs. 8), bystander effect
+"biological missiles", which contain monoclonal (no vs. yes) may predict other toxicity profiles of
+antibodies, cytotoxic drugs and chemical linkers, has T-DM1 and T-DXd. The complicated mechanism of
+emerged as a hotspot for the research and develop- ADC makes it difficult to forecast everything exactly,
+ment of antineoplastic drugs. Since the first ADC was and only extensive experience can provide the proper
+approved by the US Food and Drug Administration answer. Recently, the clinical trial of DESTINY-
+(FDA) in 2000, 14 ADCs have received market Breast03  involved 524 patients has indicated that
+approval worldwide, and 5 of them are approved the incidence of drug-related AEs for T-DXd is higher
+for solid tumors. Currently, trastuzumab emtan- than that of T-DM1 in HER2-positive metastatic breast
+sine (T-DM1) and trastuzumab deruxtecan (T-DXd, cancer, both in any grade and high-grade (≥3 grade).
+formerly DS-8201a) are the only two HER2-targeted Given the limited number of cases (524 patients), strict
+ADC approved by the FDA in breast cancer. eligibility criteria, and limited follow-up time (less
+T-DM1 consists of trastuzumab linked to a than two years), DESTINY-Breast03 cannot fully
+cytotoxic microtubule inhibitor through a stable reflect the safety profile of T-DM1 and T-DXd in the
+thioether with a drug-antibody ratio (DAR) of 3.5:1. In real-world. FAERS, an open pharmacovigilance
+2013, FDA licensed T-DM1 for HER2-positive database that collects worldwide post-marketing
+metastatic breast cancer, which was the first approved safety data submitted to the FDA, compensates for the
+indication for the treatment of solid malignancy in the lack of clinical trials. Therefore, we assess the safety
+class. In 2019, the indication of T-DM1 expanded to profile of T-DM1 and T-DXd by FAERS to provide a
+the adjuvant therapy of patients with HER2-positive clinical reference for practical and safe application.
+early breast cancer. T-DM1 has revolutionized the
+treatment of HER2-positive breast cancer but still 2. Materials and methods
+challenging to escape the fate of drug resistance.
+2.1. Data Sources
+T-DXd, another HER2-targeted ADC, emerges as
+the times require, comprises trastuzumab, a cleavable FAERS is a post-marketing safety monitoring for
+tetrapeptide-based linker, and a cytotoxic topoiso- all FDA-approved drugs. The data used in this study
+merase I inhibitor (DXd). High DAR (approximately were extracted from FAERS, which were reported
+8) and "bystander effect" for T-DXd may contribute to spontaneously by consumers, healthcare profess-
+creating continuous glory. In 2019, T-DXd received sionals and manufacturers from inside or outside the
+the FDA approval for the late-line treatment of United States. The keywords “trastuzumab emtan-
+unresectable or metastatic HER2 positive breast sine” and “trastuzumab deruxtecan” or brand names
+cancer. In 2022, it was updated to second-line “enhertu” and “kadcyla” were utilized to conduct a
+treatment and further expanded to include HER-2 low search in the FAERS database (from January 2004 to
+(IHC 1+ or IHC 2+/ISH-) breast cancer patients. In June 2023) for all indications, only the reports in
+2021, the FDA approved T-DXd for late-line treatment which either trastuzumab emtansine or trastuzumab
+of adult patients with locally advanced or metastatic deruxtecan were identified as the primary suspect
+HER2-positive gastric or gastroesophageal (GEJ) (PS) drug leading to adverse events were included. To
+adenocarcinoma. In 2022, the FDA approved the prevent the submission of duplicate reports by both
+indication of HER2 mutation unresectable or consumers and sponsors, we have excluded reports
+metastatic non-small cell lung cancer for T-DXd. where "suspect product", "preferred terms", "weight"
+T-DXd is changing the destiny of HER2-expressing and "age" were identical. The patient information
+solid tumors. (age, gender, body weight, reporter and reporter
+ADC is a new class of antineoplastic drugs with region), drug information (suspect product names,
+a special structure different from conventional reason for use, concomitant drug), and AE
+chemotherapy drugs, which simultaneously achieve information (preferred terms, seriousness, outcomes
+high efficiency and low toxicity. The toxicities of and event year) were collected and statistically
+ADCs can be regulated by any components, such as analyzed.
+targeting antibodies, cytotoxic drugs, linker stability,
+2.2. Data mining
+DAR, bystander effect, site-specific conjugation
+In this paper, the OpenVigil 2 online tool
+techniques, etc. Nevertheless, cytotoxic drugs and
+( was utilized for
+their metabolites mainly mediate most severe or
+data mining, the reporting odds ratio (ROR) and
+dose-limited AEs. Structurally, T-DM1 and T-DXd
+proportional reporting ratio (PRR) were used to
+share the same monoclonal antibody. Still, different
+identify the statistical association between the
+Journal of Cancer 2023, Vol. 14 3277
+interested drug and specific AE in the FAERS population characteristics are presented in Table 1.
+database, the major algorithms used for signal Healthcare professionals reported most AEs, 77.36%
+detection were summarized in Table S1-2. If the for T-DM1 and 87.78% for T-DXd. The reports of
+criteria listed in Table S2 were met simultaneously, an T-DXd were primarily submitted from the Americas
+AE would be considered highly associated with the (49.63%) and Japan (25.48%), while the reports of
+treatment of the interested drug, with higher values T-DM1 were dispersedly submitted, primarily from
+indicating a stronger statistical correlation. Each valid the Americas (29.65%) and Canada (11.74%). T-DM1
+AE was treated as a preferred term (PT) and grouped was used mainly in breast carcinoma (69.78%). While
+into the System Organ Class (SOC) based on the T-DXd was primarily used in breast carcinoma
+Medical Dictionary for Regulatory Activities (59.66%), gastric carcinoma (15.70%), and lung
+(MedDRA, version 25.0). carcinoma (4.11%). As a result, the proportion of male
+patients in T-DXd (18.44%) was nearly eight times
+2.3. Statistical analysis
+higher than that of T-DM1 (2.39%).
+We conducted a descriptive analysis of the
+3.2. Disproportionality Analyses for T-DM1
+demographic characteristics, and the chi-square tests
+or Fisher's exact test in SPSS 26.0 were utilized to and T-DXd
+analyze the proportion difference of AE reports Excluding the AE obviously unrelated to the
+between T-DM1 and T-DXd. Disproportionality drug, T-DM1 and T-DXd had 94 and 61 significant
+analyses were performed by ROR and PRR, the signals separately. The top ten AEs with the highest
+proportion of valid signals in each SOC was frequency and strongest signal intensity for T-DM1
+compared through a chi-square test. After removing and T-DXd were analyzed. As shown in Figure 1A
+duplicates, fatal AEs were screened from the original and Table S3-4, the AE with the highest frequency for
+data and classified into the SOC. Univariate and T-DM1 was platelet count decreased(n=108), followed
+multivariate logistical regression analysis was by thrombocytopenia (n=88) and peripheral
+employed to determine the odds ratio (OR) of fatal AE neuropathy (n=71). The AE with the strongest signal
+associated with T-DM1 and T-DXd under different intensity for T-DM1 were hepatopulmonary
+exposure factors, such as sex, age, combination syndrome (ROR=680.42), spider naevus (ROR=522.14)
+medication, etc. and nodular regenerative hyperplasia (ROR=225.09).
+Likewise, as shown in Figure 1B and Table S3-4,
+3. Results
+interstitial lung disease (n=262, ROR=82.55) and
+pneumonitis (n=89, ROR=48.34) showed both high
+3.1. Population Characteristics
+frequency and strong signal intensity for T-DXd.
+3723 and 2045 reports of T-DM1 and T-DXd
+To further analyze the differences between
+were submitted to FAERS, corresponding to 17319
+T-DM1 and T-DXd, the entire analysis results of signal
+and 6093 reported AEs, respectively. Understanding
+mining at the System Organ Class (SOC) level were
+that more than one AE was reported in a case makes it
+presented in Figure 2 and Table S5. As shown in
+easy to see why the actual number of AEs is
+Figure 2, the proportion of AEs in each SOC system
+substantially higher than the number of reports. The
+was different. T-DM1 exhibited a greater proportion
+Figure 1. The top ten adverse events (AEs) with the highest frequency and strongest signal intensity for (A) T-DM1 and (B) T-DXd. The AE frequency is represented by the
+x-axis, the various AEs are represented by the y-axis, and the bubble size reflects the ROR value. The top ten AEs with the highest frequency are shown in red bubbles, the top
+ten AEs with the highest signal strength are shown in green bubbles, and AEs that display both high frequency and strong intensity are shown in yellow bubbles.
+Journal of Cancer 2023, Vol. 14 3278
+of AEs in the nervous system, musculoskeletal Characteristics Reports, N (%) p-value
+system, hepatobiliary system, ocular system, cardiac T-DM1 T-DXd
+Event year 2013 71 (1.91) / <0.001a
+system and hematological system (p＜0.05). T-DXd 2014 231 (6.20) /
+exhibited a greater proportion of AEs in the skin 2015 545 (14.64) /
+2016 334 (8.97) /
+disorders, respiratory system, infestations, general
+2017 298 (8.00) /
+systems and gastrointestinal system (p＜0.05). 2018 316 (8.49) /
+2019 302 (8.11) /
+2020 438 (11.76) 240 (11.74)
+Table 1. Clinical characteristics of patients treated with T-DM1 2021 524 (14.07) 416 (20.34)
+and T-DXd in the FAERS database. 2022 507 (13.62) 893 (43.67)
+2023 155 (4.16) 496 (24.25)
+Characteristics Reports, N (%) p-value a: Fisher's exact test; b: Chi-square test. Statistically significant values are marked in
+T-DM1 T-DXd boldface.
+Age <18 62 (1.67) 73 (3.57) <0.001b
+18~65 1569 (42.14) 533 (26.06) Although within the same category, there were
+＞65 376 (10.10) 366 (17.90) notable differences in AEs between T-DM1 and
+Not Specified 1716 (46.09) 1073 (52.47)
+T-DXd. As indicated in Table S5, T-DM1 was associ-
+Gender Male 89 (2.39) 377 (18.44) <0.001b
+Female 3190 (85.68) 1288 (62.98) ated with a greater proportion of thrombocytopenia-
+Not Specified 444 (11.93) 380 (18.58) related AEs, including thrombocytopenia (n=88) and
+Reporter Consumer 840 (22.56) 248 (12.13) <0.001a
+platelet count decreased (n=108). T-DXd was linked to
+Healthcare 2880 (77.36) 1795 (87.78)
+Professional more neutropenia-related AEs, such as febrile
+Not Specified 3 (0.08) 2 (0.10)
+neutropenia(n=35), neutropenia(n=49) and neutrophil
+Reporting Americas 1104 (29.65) 1015 (49.63) <0.001a
+region Canada 437 (11.74) 53 (2.59) count decreased(n=59) in the hematological system. In
+(TOP 6) Japan 320 (8.60) 521 (25.48) the metabolism and nutrition disorders, T-DM1 was
+Germany 157 (4.22) /
+associated with more electrolyte imbalance-related
+France 137 (3.68) 114 (5.57)
+Britain 132 (3.55) 39 (1.91) AEs, T-DXd suffered more AEs with decreased
+Italy / 50 (2.44) appetite. In the nervous system, T-DM1 suffered more
+Seriousness Non-Serious 677 (18.18) 637 (31.15) <0.001b
+AEs associated with peripheral sensory neuropathy,
+Serious 3046 (81.82) 1408 (68.85)
+Outcome Died 469 (12.60) 482 (23.57) <0.001b T-DXd hardly developed peripheral neuropathy. In
+Life Threatening 34 (0.91) 18 (0.88) skin and subcutaneous tissue disorders, T-DM1
+Disabled 51 (1.37) 12 (0.59)
+suffered more AEs associated with skin toxicity, such
+Hospitalized 631 (16.95) 492 (24.06)
+Indication Breast carcinoma 2598 (69.78) 1220 (59.66) <0.001a as spider naevus and telangiectasia, T-DXd suffered
+(TOP 3) Gastric carcinoma / 321 (15.70) more alopecia.
+Lung carcinoma 15 (0.40) 84 (4.11)
+Salivary Gland 17 (0.46)
+Cancer
+Figure 2. The proportion of T-DM1 and T-DXd-related significant Adverse Events (AEs) at the System Organ Class (SOC) level. *: p<0.05; **: p<0.01; ***: p<0.001.
+Journal of Cancer 2023, Vol. 14 3279
+Figure 3. The proportion of fatal AEs in each System Organ Class (SOC) associated with (A) T-DM1 and (B) T-DXd. AEs, adverse effects; N, the number of T-DM1/T-DXd
+-associated AEs.
+Although T-DM1 and T-DXd may have AEs related to cytopenia, thrombocytopenia, and
+overlapping AEs, statistical analysis was conducted to decreased platelet count compared to T-DXd (p<0.05).
+determine the differential proportions of each AE. As Similarly, in the hepatobiliary system, T-DM1 showed
+shown in Table S5, in the hematological system, a greater proportion of AEs associated with increased
+T-DM1 exhibited a significantly higher proportion of blood bilirubin levels, hepatotoxicity, abnormal
+Journal of Cancer 2023, Vol. 14 3280
+hepatic function, liver disorder and jaundice (p<0.05). odds ratio (OR) of fatal AE associated with T-DM1
+Additionally, in the nervous system, brain edema and and T-DXd under different exposure factors. The
+cerebral hemorrhage were more frequently reported results presented in Table 2-3 indicated that age,
+in T-DM1 than in T-DXd (p<0.05). Conversely, in the gender, and drug combination were independent
+respiratory system, T-DXd demonstrated a signifi- factors that significantly influence fatal AEs
+cantly higher proportion of AEs related to pneumo- associated with T-DM1 and T-DXd. As shown in
+nitis and interstitial lung disease compared to T-DM1 Table 2, compared with patients under the age of 65,
+(p<0.05), although T-DM1 exhibited a significantly the risk of fatal AEs associated with T-DM1 was 2.65
+higher proportion of AEs related to pulmonary times higher in patients aged 65-74 years and 31.52
+fibrosis compared to T-DXd (p<0.05). times higher in patients aged 75 years or older.
+Additionally, females had a lower risk of fatal AEs.
+3.3. Fatal AEs linked to T-DM1 and T-DXd
+Combination drugs other than CYP3A4 inhibitors
+Lethal AEs were significant factors limiting the were associated with a lower risk of fatal AEs
+widespread use of drugs. Table 1 indicated that the compared to non-combination therapy. Similarly, as
+proportion of serious outcomes in T-DM1 (81.82%) indicated in Table 3, compared with patients under
+was significantly higher than T-DXd(68.85%), while the age of 65, the risk of fatal AEs associated with
+the proportion of fatal outcomes with T-DXd (23.57%) T-DXd was two times higher in patients aged 65-74
+was nearly twice as high as T-DM1 (12.60%). Our years and those over the age of 75. Females exhibited
+previous research findings have exhibited a high a lower risk of fatal AEs. Interestingly, the risk of fatal
+proportion of AEs in multiple systems, including the AEs associated with T-DXd in combination with
+hematologic, cardiac, respiratory and hepatobiliary CYP3A4 inhibitors was 2.13-fold higher than non-
+systems for both T-DM1 and T-DXd. Furthermore, we combination therapy (OR=2.130[1.390,3.264], p=0.001),
+conducted an additional analysis to determine the which was a greater risk than when combination with
+proportion of fatal AEs associated with four SOCs other drugs (OR=1.343[1.054,1.711], p=0.017).
+(Figure 3). In the hematologic system, T-DXd exhi-
+bited a significantly higher mortality ratio compared 4. Discussion
+to T-DM1. The most prevalent fatal AEs for T-DM1
+4.1. Hematotoxicity
+was anemia (1.69%), while neutrophil count
+decreased (12.00%) was the leading cause of death for Hematotoxicity is the most common
+T-DXd. Neither T-DM1 nor T-DXd exhibited a high dose-limited toxicity of cytotoxic drugs, and ADCs are
+mortality ratio in the cardiac system. It was possible no exception. The most frequent hematological
+that the cardiotoxicity fatality ratio may be toxicity for T-DM1 is thrombocytopenia, with an
+overestimated due to the low incidence of cardio- incidence from 21.0% to 52.9%[11-13]. Likewise,
+toxicity. In the hepatobiliary system, the mortality platelet count decreased(n=108) and thrombocyto-
+ratio associated with T-DM1 was overwhelmingly penia (n=88) were the top 2 AEs with the highest
+higher than that of T-DXd. Oppositely, in the frequency for T-DM1 in our study. Furthermore,
+respiratory system, the mortality ratio associated with thrombocytopenia is also the most frequent (5.7% to
+T-DXd was overwhelmingly higher than that of 24.9%) high-grade (≥3 grade) AEs in clinical
+T-DM1, The most prevalent fatal AEs for T-DM1 and trials[11-13]. Fortunately, high-grade (≥3 grade)
+T-DXd respectively were respiratory failure (10.58%) thrombocytopenia does not increase the frequency of
+and lung disorder (16.42%). high-grade (≥3 grade) hemorrhage, most patients
+Further, univariate and multivariate logistical return the platelet count to the lower limit of
+regression analyses were employed to determine the treatment before the next cycle.
+Table 2. Univariate and multivariate logistic regression analyses of the odds ratio for T-DM1-related fatal adverse events
+Variable Factor Univariate analysis Multivariate analysis
+p OR (95%CI) p OR (95%CI)
+Age <65 (Reference) / 1 / 1
+65-74 <0.001 2.631 (1.875,3.692) <0.001 2.651 (1.887,3.726)
+≥75 <0.001 32.250 (14.111,73.703) <0.001 31.520 (13.737,72.323)
+Gender Male (Reference) / 1 / 1
+Female 0.001 0.424 (0.261,0.290) 0.001 0.424 (0.254,0.707)
+Off-label use No (Reference) / 1 / /
+Yes 0.921 0.976(0.605,1.575) / /
+Concomitant drug No (Reference) / 1 / 1
+CYP3A4 inhibitor 0.706 1.230 (0.420,3.608) 0.679 1.258 (0.424,3.733)
+Others 0.046 0.810 (0.659,0.996) 0.015 0.765 (0.617,0.949)
+OR: Odds Ratio; I: Confidential Interval. Statistically significant values are marked in boldface.
+Journal of Cancer 2023, Vol. 14 3281
+Table 3. Univariate and multivariate logistic regression analyses of the odds ratio for T-DXd-related fatal adverse events.
+Variable Factor Univariate analysis Multivariate analysis
+p OR (95%CI) p OR (95%CI)
+Age <65(Reference) / 1 / 1
+65-74 <0.001 2.822 (1.601,4.973) 0.003 2.462 (1.369,4.429)
+≥75 0.004 2.641 (1.376,5.070) 0.011 2.377 (1.218,4.640)
+Gender Male (Reference) / 1 / 1
+Female <0.001 0.427 (0.335,0.545) <0.001 0.447 (0.348,0.572)
+Off-label use No (Reference) / 1 / /
+Yes 0.629 1.084 (0.782,1.502) / /
+Concomitant drug No (Reference) / 1 / 1
+CYP3A4 inhibitor <0.001 2.317 (1.534,3.501) 0.001 2.130 (1.390,3.264)
+Others 0.073 1.551 (1.229,1.958) 0.017 1.343 (1.054,1.711)
+OR: Odds Ratio; CI: Confidential Interval. Statistically significant values are marked in boldface
+Interestingly, compared with non-Asian grade≥2 ILD or pneumonitis. In our research, ILD
+patients, Asian patients are associated with a (n=262, ROR=82.55) and pneumonitis (n=89,
+significantly higher frequency of high-grade (≥3 ROR=48.34) showed both high frequency and strong
+grade) thrombocytopenia (21.6% vs. 5.7%) for T-DM1 signal intensity for T-DXd (Figure 1B).T-DM1 also
+treatment. While the mechanism is still unclear. In exhibited a strong signal for ILD (n=29, ROR=7.43)
+vitro experiments showed that T-DM1 did not directly and pneumonitis (n=26, ROR=12.68), but the
+inhibit platelet activation and aggregation but occurrence ratio was significantly lower than that of
+inhibited differentiation of megakaryocytes T-DXd (p<0.05) (Table S5). Further, our research
+(MKs). T-DM1 was internalized into MKs not by demonstrated that T-DXd had a greater proportion of
+HER-2, at least partially by FcγRIIa, then released the both all outcomes AEs and fatal AEs in the respiratory
+DM1 to damage the microtubule structure of MKs. system than that of T-DM1. A meta-analysis showed
+However, another study did not entirely agree with that the incidence of all-grade and grade≥3 pneu-
+it. Regardless of the absence of FcγRIIa in mice monitis associated T-DXd respectively were 13.58 %
+and HER-2 receptor in MKs and platelets, T-DM1 still and 2.19%, which were higher than T-DM1. The
+permeated MKs and platelets to inhibit differentiation fundamental processes causing ADC-related lung
+of MKs and delay production of proplatelet, neither injury may include early payload withdrawal due to
+depended on FcγRIIa nor HER2. target-dependent or target-independent uptake,
+Many "blockbuster" clinical studies[10, 18, 19] bystander effect, or circulating payload. The
+have confirmed that the hematological toxicity profile pathogenesis of ADC-associated ILD remains elusive,
+of T-DXd is much different from T-DM1. The and the management experience is still sufficient. It is
+incidence of neutropenia (33.2% to 42.8%), anemia strongly recommended to maintain a high level of
+(29.9% to 33.2%), thrombocytopenia (21.2% to 24.9%) vigilance for ILD during clinical practice and
+and leukopenia (21.2% to 30.0%) for T-DXd was promptly identify individuals at elevated risk.
+similar. While the incidence of high-grade (≥3 grade) Our research discovered that the highest
+neutropenia (13.7% to 20.7%) is significantly higher frequency and strongest signal for T-DM1 in the
+than others (4.3% to 8.7%) for T-DXd. Likewise, our respiratory system respectively were epistaxis (n=57,
+research indicated that the most frequency AE of ROR=8.77) and hepatopulmonary syndrome (n=6,
+T-DXd in hematotoxicity was associated with ROR=680.42). Epistaxis was the most common AE for
+neutropenia, including febrile neutropenia (n=35), T-DM1, with a frequency of 21.5% to 25.0% for any
+neutropenia (n=49), neutrophil count decreased grade and less than 1% for high grade (≥3)[12, 13].
+(n=59) (Table S5), neutrophil count decreased was Based on the limited evidence, epistaxis may be
+also the AE with the highest fatal ratio in related to DM1-induced telangiectasia, mainly
+hematotoxicity (Figure 3). To sum up, hematotoxicity manifested as mucosal bleeding, which may cause
+is the most common dose-limited toxicity for both minor bleeding such as epistaxis, gingival bleeding,
+T-DM1 and T-DXd, which can be safely managed by and spider nevus but can also cause severe
+timely monitoring, appropriate dosing adjustment, gastrointestinal bleeding, diffuse mucocutaneous
+and supporting therapy. telangiectasias[24, 25]. We recommend screening for
+bleeding risk in patients with mucosal or cutaneous
+4.2. Respiratory toxicity
+telangiectasia. Hepatopulmonary syndrome is a
+Interstitial lung disease (ILD) or pneumonitis pulmonary complication of portal hypertension or
+were potentially life-threatening AEs for T-DXd, liver cirrhosis, which is first documented in our
+which were warned by the FDA in a "black box" and research and may be related to the hepatotoxicity
+suggested permanently stopping for patients with caused by T-DM1.
+Journal of Cancer 2023, Vol. 14 3282
+4.3. Digestive Toxicity Similarly, our research indicated that the proportion
+of AEs with all outcomes and fatal outcomes in the
+Our research showed that nausea (n=285,
+cardiac system was not high in both T-DM1 and
+ROR=4.75) was the most common AE for T-DXd in
+T-DXd. However, when compared to T-DXd, T-DM1
+gastrointestinal systems, followed by vomiting
+showed a higher proportion of AEs than T-DXd
+(n=106, ROR=2.82). T-DXd occurred more frequently
+(p<0.001). Despite this low rate of cardiotoxicity, both
+in gastrointestinal systems than T-DM1(p<0.001),
+T-DM1 and T-DXd are recommended for baseline
+consistent with DESTINY-Breast03. Both the
+cardiac assessment and appropriate monitoring.
+American Society of Clinical Oncology (ASCO)
+and National Comprehensive Cancer Network
+4.5. Others
+(NCCN) guidelines considered T-DM1 and T-DXd
+T-DM1 contains a potent microtubule inhibitor.
+to be low and moderate emetogenic potential
+Even though smart structure design improves
+respectively, recommend prophylactic antiemetic
+targeting, it still increases the risk of peripheral
+therapy for T-DXd with a combination of 5-HT3
+neurotoxicity. While, compared to taxane, T-DM1
+receptor antagonist and dexamethasone, add NK1
+showed a much lower relative risk of any grade
+blockers when necessary. No routine prophylaxis was
+peripheral neuropathy and peripheral sensory
+recommended for T-DM1. The analysis of
+neuropathy. In our research, neuropathy
+combination data in our study indicated that clinical
+peripheral (n=71, ROR=8.97) showed the most
+practice followed a similar approach.
+frequency for T-DM1 in the nervous system. Besides,
+Hepatotoxicity is common dose-limited toxicity
+central neuropathy, such as cerebral hemorrhage
+for T-DM1, liver failure, and even death have been
+(n=6, ROR=8.65) and brain edema (n=10, ROR=8.74),
+reported in T-DM1 treatment. Our research indicated
+was discovered in our research, which were rare but
+that T-DM1 exhibited an overwhelmingly higher ratio
+severe and not mentioned in the instruction. Sporadic
+of both all outcomes and fatal outcomes AE than that
+Cases have reported cerebellar hematoma and
+of T-DXd in the hepatobiliary system. The highest
+brain edema occurred during brain radiotherapy
+frequency and strongest signal for T-DM1 associated
+combined with T-DM1, and the recurrence of brain
+with hepatotoxicity was hepatic cirrhosis (n=37,
+metastases has been excluded, suggesting that there
+ROR=23.58) and nodular regenerative hyperplasia
+may be an interaction between radiotherapy and
+(NRH) (n=17, ROR=225.09). It can be seen that
+T-DM1, special attention should be paid to it.
+T-DM1-induced hepatotoxicity is not limited to
+Ocular toxicity is a rare drug-related AE that
+laboratory abnormalities, but also manifested as the
+significantly affects the quality of life. Dry eye (n=16,
+decline of organ function, such as portal hypertension,
+ROR=4.53) was the most common ocular AE for
+cirrhosis, NRH, etc. Hepatic cirrhosis was not
+T-DM1. The corneal disease (n=5, ROR=24.34) and
+mentioned on the label, with the ratio much higher
+blindness (n=10, ROR=2.47) for T-DM1 and keratitis
+than we expected. NRH is a rare but very serious AE.
+(n=5, ROR=21.95) for T-DXd were not mentioned in
+It is recommended to permanently terminate T-DM1
+the instruction. A cross-sectional investigation
+treatment once it happens. Monitoring hepatic
+showed that T-DM1-related corneal illness usually
+function is strongly recommended prior to initiation
+showed up as low-grade, mid-peripheral corneal
+and each dose. Despite the HER2-dependent pathway
+epithelial lesions that were reversible, mostly
+playing a key role in the mechanism of hepatotoxicity
+asymptomatic. Still, the AE of blindness served as
+for T-DM1, an HER-2-independent mechanism that
+a warning that ocular toxicity should not be
+T-DM1 interacts with CKAP5 on the cell surface of
+underestimated.
+hepatocytes by DM1 and damages the plasma
+In vitro, both DM1 and DXd are primarily
+membrane, leading to calcium influx and microtubule
+metabolized by CYP3A4. Compared to monotherapy,
+network disorder, may partly explain the Off-target
+combined with itraconazole, a strong CYP3A
+effect of T-DM1.
+inhibitor, increased the steady state AUC by 11%
+17d
+4.4. Cardiotoxicity for T-DXd and 18% for DXd, but did not impact the
+safety profile of T-DXd. No drug-drug interaction
+The cardiotoxicity of trastuzumab has been
+studies with T-DM1 have been conducted. While, the
+widely regarded as concerning, especially in
+logistical regression analysis in our study revealed
+combination with anthracyclines, with a 16%
+that the combination with CYP3A4 inhibitors
+incidence of III or worse cardiac dysfunction.
+increased the risk of fatal AEs associated T-DXd, but
+Despite containing trastuzumab, the incidence of III
+not T-DM1. Compared to T-DM1, T-DXd was associ-
+or worse cardiac dysfunction associated with T-DM1
+ated with a higher frequency of co-administration
+was less than 1%, which was significantly lower than
+with CYP3A4 inhibitors, such as aprepitant,
+that of trastuzumab, and T-DXd was the same.
+Journal of Cancer 2023, Vol. 14 3283
+clarithromycin, fluconazole and ciprofloxacin, etc. Science Foundation Project (2020JJ4420) and Hunan
+The available data on drug interactions remains Provincial Health Commission Project (D20231301
+limited, and our study serves as a reminder that the 7815).
+potential impact of combination drugs, particularly
+Author contributions
+combined with CYP3A4 inhibitors, should not be
+overlooked in clinical practice. Fen Liu, Guisen Yin, and Yong Pan made
+contributions to the study's conceptualization, data
+5. Limitations analysis, and paper writing. Shuyi Xue made
+important contributions to the creation of charts and
+Our study has the following significant
+data validation. It was Faisal UL Rehman's job to
+shortcomings: (1) Spontaneous reports in the FAERS
+improve the article's language. Yong Pan and Dehua
+database may be subject to quantitative bias and
+Liao had helpful conversations while the analysis was
+incomplete reporting; (2) The reports are mainly from
+being done.
+America and Europe, with few data from Asians or
+Africans; (3) ROR only indicates the increased risk of
+Availability of data and materials
+reported AE and does not reflect the actual clinical
+Data will be available upon request.
+risk; (4) Due to the lack of exposure data, we could not
+calculate morbidity and mortality, (5) T-DXd come to
+Competing Interests
+market relatively late, insufficient exposure of T-DXd
+The authors have declared that no competing
+may lead to a bias in the comparison of the differences
+interest exists.
+with T-DM1.

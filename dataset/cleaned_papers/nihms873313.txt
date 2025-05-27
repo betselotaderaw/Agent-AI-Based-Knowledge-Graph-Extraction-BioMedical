@@ -1,0 +1,440 @@
+HHS Public Access
+Author manuscript
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Published in final edited form as:
+Integr Cancer Sci Ther. 2017 February ; 4(1): .
+BRCA1 and BRCA2 mutations and treatment strategies for
+breast cancer
+Inês Godet1,2 and Daniele M. Gilkes1,2,*
+1Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center, The Johns
+Hopkins University School of Medicine, USA
+2Department of Chemical and Biomolecular Engineering, The Johns Hopkins University, USA
+Abstract
+Breast cancer is a global burden with a woman's lifetime risk of developing breast cancer at 1 in 8.
+Although breast cancer is a disease that affects mostly women, the lifetime risk in men is about 1
+in 1000. Most cases of breast cancer are associated with somatic mutations in breast cells that are
+acquired during a person's lifetime. In this scenario, the mutations are not inherited and they do
+not cluster in families. In hereditary breast cancer, the specific genetic factors involved will
+determine the inherited cancer risk. Inherited mutations in the BRCA1 or BRCA2 genes have been
+well-described, but mutations in ATM, CDH1, CHEK2, PALB2, PTEN, STK11, and TP53 also
+confer breast cancer risk. Understanding the functional significance of hereditary mutations has
+opened new paths for breast cancer prevention and is uncovering promising treatment strategies
+Breast cancer
+Breast cancer is the second most common cancer to affect women, but in rare cases it can
+also develop in men. There are three distinct types of breast cancer. Ductal carcinoma in situ
+(DCIS) arises in epithelial cells lining the breast ducts. Several studies suggest that at least
+one third of DCIS cases will progress to invasive cancer if left untreated . Lobular
+carcinoma in situ (LCIS) develops in milk producing glands, and poses an increased risk for
+developing invasive cancer. The majority of breast cancers are invasive or infiltrating, and
+prognosis is dependent on the stage of the disease. Breast cancer is progressively becoming
+considered as a group of diseases distinguished by molecular subtypes, risk factors, clinical
+behaviors, and responses to treatment . Biological markers are used to categorize breast
+cancer types into distinct classes for treatment. The factors include estrogen receptor status
+(ER+/ER-), progesterone receptor status (PR+/PR-), and human epidermal growth factor
+receptor 2 status (HER2+/HER2-). Transcriptional proffling of tumors has further led to a
+second, but related, classification system based on a PAM50 score, which utilizes the
+expression levels of 50 unique genes, and it is used for a standardizing subtype
+classification. The intrinsic subtypes of breast cancer are known as luminal A, luminal B,
+This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Correspondence to: Daniele M. Gilkes Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center, The Johns
+Hopkins University School of Medicine, Baltimore, Maryland 21218, USA, dgilkes1@jhu.edu.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 2
+HER2-enriched, and basal-like. Te PAM50 score has been providing relevant hints for
+biomarkers selection in treatment decisions, and it can be used as a predicative tool in cancer
+progression and patient survival .
+First genetic hints
+Hereditary breast cancer accounts for only 5-10 percent of all breast cancers diagnosed in
+the U.S. In the mid-19th century, the famous French physician Pierre Paul Broca
+documented that in one family, in over four generations, 10 out of 24 women died from
+breast cancer. Tough he speculated that some inherited factor might play a role, his questions
+came a hundred years before the scientifc tools were available to test his hypothesis . His
+initial fnding, although supported by others , led to controversy in the feld since some
+studies at that time concluded that inheritance did not play a role in breast cancer
+development .
+Pharoah et al. combined data from 74 published studies conducted between 1935 to 1995 to
+investigate the incidence of hereditary breast cancer. Te group determined that the relative
+risk for an individual is 2-fold increased if they have a frst-degree relative who has been
+diagnosed with breast cancer . Moreover, the relative risk increases to almost 4-fold if
+two first-degree relatives have been diagnosed with breast cancer, strongly suggesting that
+heredity may play a role in breast cancer occurance. Later, Hall et al. identified that the
+chromosomal locus 17q21 was frequently mutated in individuals from 23 families suspected
+of having hereditary breast cancer . They also concluded that breast cancer is not
+completely penetrant among susceptible individuals, and that gender, age and non-genetic
+risk factors also play important roles. Hall also proposed plausible genes localized in the 17q
+region that potentially could be critical in breast cancer: HER2 (oncogene), EDHB17
+(estradiol-17β dehydrogenase), HOX2 (homeobox 2), NM23 (associated with metastasis),
+RARA (retinoic acid receptor α) and WNT3 (integration site of mouse mammary tumor
+virus). Follow-on studies confirmed that chromosome 17 contained a region that contributed
+specifically to families with an early onset of breast and ovarian cancer . This region in
+the 17q chromosomal locus was further studied by analyzing haplotypes to identify the
+minimal genomic regions inherited in common by affected family members. Miki Y et al.
+demonstrated that the 17q21.3 region contained the BRCA1 gene using positional cloning
+methods . Simultaneously, another team of scientists, focused on studying male breast
+cancer, mapped a second breast cancer related gene – BRCA2, and showed that male breast
+cancer is unlikely to be directly caused by BRCA1 mutation . Additional studies,
+demonstrated that the BRCA2 gene was located within the chromosomal region 13q12-13
+.
+BRCA1
+The BRCA1 gene is composed of 22 exons, encoding a 220kDa nuclear protein of 1863
+amino acids . BRCA1 is comprised of a zinc binding RING domain at the amino
+terminus region, and an acidic carboxyl terminus, which is conserved among species and
+throughout evolution (Figure 1). The BRCA1 gene is expressed in several tissues, such as
+breast and ovarian tissue. Initially, the mutations identified in the BRCA1 gene included an
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 3
+11-base pair deletion, a 1-base pair insertion, a stop codon, a missense substitution, and an
+inferred regulatory mutation . One year later, a collaborative study including 372
+unrelated patients with breast or ovarian cancer selected from high-risk families,
+demonstrated that eighty patients had a BRCA1 mutation (21.5% of the cohort). Thirty-eight
+common mutations were recognized among sixty-three mutations identified in a complete
+screen of the BRCA1 gene. These distinct mutations occurred 8, 7 or 5 times each, and 86%
+of them predictively resulted in a truncated BRCA1 protein . Currently, more than 1600
+mutations have been identified in the BRCA1 gene, and the majority of them promote
+frameshifts resulting in missense or non-functional protein. Generally, in individuals with a
+germline BRCA1 mutation, the wild-type allele is somatically mutated, which leads to the
+conclusion that BRCA1 is a tumor suppressor gene . Women with BRCA1 mutations
+have an increased risk of developing ovarian cancer, while men have a higher risk, to a lesser
+extent, of developing prostate cancer .
+BRCA2
+The BRCA2 gene is larger than BRCA1, and it has a 10.3 kb open reading frame encoding a
+384 kDa nuclear protein (Figure 1). BRCA2 does not share a high degree of sequence
+homology with other known genes, and the generated protein is comprised of regions with
+domains that are undefined . However, the proteins encoded by BRCA1 and BRCA2
+genes seem to share functional similarities that justify why mutations in these genes lead to a
+similar and specific hereditary predisposition to breast and ovarian cancer .
+In early studies, BRCA2 was linked to six different germline mutations in breast cancer
+families, typically by causing disruption of the open reading frame of the transcriptional unit
+17. These mutations were related to the interruption of protein translation, for example
+deletions and/or frameshifts leading to premature stop codons. Currently, more than 1800
+mutations have been identified in BRCA2, that include frameshift deletions, insertions, or
+nonsense mutations that lead to premature truncation of proteins. These events are consistent
+with the loss of function that is expected in mutations subsequent to tumor suppressor genes
+. Carriers of BRCA2 mutations also have a higher risk of gall bladder, bile duct, stomach
+cancer and melanoma .
+Role of BRCA in tumorigenesis
+Although only 5 to 10% of breast cancer cases are inherited, recent estimates suggest that 55
+to 65% of BRCA1 mutation carriers, and approximately 45% of BRCA2 mutation carriers
+will develop breast cancer by age 70 [19,20]. Furthermore, the 10-year risk of developing
+ovarian cancer has been reported to be 12.7% and 6.8% for women carrying BRCA1 and
+BRCA2 mutations respectively . A recent study of 21,401 families suspected of having a
+deleterious BRCA mutation showed that 24% of the families carried a pathogenic BRCA1
+or BRCA2 mutation . Because BRCA1 and BRCA2 are tumor suppressor genes, they
+are functionally recessive, and therefore, both copies of the allele must be mutated in the cell
+for breast cancer to develop (Figure 2).
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 4
+BRCA genes have a high density of repeated elements allowing for Alu-mediated genomic
+rearrangements – small recombination events unrecognized by conventional screening
+techniques can occur within BRCA1 and BRCA2. For example, 22 different genomic
+rearrangements were identified and ranged in size from less than 1 kb to greater than 170 kb,
+in high-risk families with negative (wild-type) genetic test results for BRCA1 and BRCA2
+. This suggests that germline BRCA mutations can be easily undetected. Several reviews
+summarize the genomic rearrangements that can occur in the BRCA1 and BRCA2 genes
+[24-26].
+BRCA1 is a pleiotropic DNA damage response protein that operates in both checkpoint
+activation and DNA repair. BRCA2 is a mediator of homologous recombination [27,28]. Te
+role of BRCA1 in tumorigenesis is related to several cellular processes, namely
+transcriptional regulation of DNA repair associated genes, heterochromatin formation on the
+X chromosome, double strand break repair, and ubiquitination . BRCA1 binds to
+BRCA2, TP53, and RAD51 (repair of DNA double strand breaks), among other proteins
+associated with the cell cycle and DNA damage response pathways (Table 1). Cells lacking a
+functional BRCA1 protein are not capable of undergoing arrest in the G2 phase of the cell
+cycle following DNA damage, and are deficient in transcription-coupled repair .
+Moreover, BRCA1 modifies chromatin structure to allow access of DNA repair proteins at
+sites of damage, by interacting with γH2AX . Like BRCA1, the role of BRCA2 is
+associated with the maintenance of chromosome stability and recombination-mediated
+double strand break repair of DNA . BRCA2 deficiency leads to deficits in chromosome
+segregation, and unexpected chromosomal abnormalities that develop afer several divisions,
+namely double-stranded, tri-radials and quadri-radials .
+The absence of an effective repair mechanism allows DNA damage to occur at many sites,
+including genes required for cell cycle checkpoint expression. For example, genetic
+mutations in the TP53 gene, which would prevent p21 expression, allow BRCA-defcient
+cells to escape apoptosis and perpetuate. Patients with BRCA1 or BRCA2 mutations
+frequently harbor TP53 mutations, and it is thought that several oncogenes undergo mutation
+as a result of BRCA insufficiency .
+BRCA1 and BRCA2 are known to interact with many proteins (Table 1). They are localized
+in different pathways and play unique roles in recombination and DNA repair . For
+instance, BRCA1 is localized to the sub-nuclear foci during the S and G2 phases of the cell
+cycle, where RAD51 is also present. The RAD51 protein is important for the repair of
+double-strand DNA breaks by binding single-stranded DNA to form a nucleoprotein
+filament that can penetrate into a homologous duplex DNA molecule . The mechanism
+through which BRCA1 and BRCA2 promote DNA repair occurs by homologous
+recombination of DNA replication forks and double strand breaks. In this process, BRCA2
+binds directly to RAD51 and guides it to the damaged DNA site. Simultaneously, BRCA1
+controls the signaling involved in homologous recombination and it ensures that the double
+strand break is not resected before RAD51 protein formation . In the case of BRCA
+mutation, the DNA is repaired in a non-conservative manner, in which the two DNA ends
+are united as they are, giving rise to new DNA mutations, particularly deletions . If these
+new mutations afect cancer driver genes, tumorigenesis can occur.
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 5
+BRCA1 and BRCA2 also operate as transcriptional regulators of specifc target genes.
+Interactions have been shown between BRCA proteins and specifc transcription factors such
+as c-myc (BRCA1) and TP53 (BRCA1 and BRCA2) . Candidates in the TP53 pathway
+have been identifed as BRCA-target genes, such as p21 and GADD45. Tis suggests that
+BRCA1 function can be related to the expression of genes fundamental to checkpoint
+control or DNA repair.
+Other potential hereditary breast cancer genes
+In addition to BRCA1 and BRCA2, rare mutation susceptibility alleles exist with diferent
+penetrance levels, and account for a small fraction of hereditary breast cancer cases. For
+instance, STK11/LKB1 is a serine–threonine kinase and mutations in the STK11 gene can
+potentially cause Peutz-Jegher syndrome, which is characterized by hamartomatous polyps
+in the small bowel and pigmented macules, and is also linked with a relative risk for breast
+cancer of 20.3 compared with non-carriers . Another highly penetrant mutation occurs in
+phosphatase and tensin homolog (PTEN) and is related to Cowden syndrome. Tis mutation
+is associated with an increase of 20 to 30% lifetime risk of breast cancer . In patients
+with germline mutations in TP53, related with Li-Fraumeni syndrome, the breast cancer
+penetrance approaches 100% if the mutation carriers survive childhood .
+Moderate penetrance genes have been more recently considered as having the status of
+hereditary breast cancer genes, and are ofen related to BRCA function. Carriers of mutations
+in the ATM gene (ataxia-telangiectasia) have an increased risk of breast cancer .
+CHEK2, a cell cycle checkpoint kinase that is required in the DNA repair pathway involving
+BRCA1 and TP53, has pathogenic variants that result in a two-fold increase in the risk of
+developing breast cancer. However, it does not confer risk in BRCA mutation carriers .
+Another example, the PALB2 gene, also known by the localizer of the BRCA2 gene, is
+related to the production of a functional protein that interacts with BRCA2 to repair
+damaged DNA. Fanconi anemia type N is a disease caused by the inheritance of two
+abnormal PALB2 genes and it is characterized by extremely low levels of red and white
+blood cells, and platelets. Recent work demonstrates that women with abnormal PALB2
+levels have a 14% risk of developing cancer until 50 years old, and 35% risk until 70 years
+old . Mutations in RAD51 have also been identifed . A recent study utilizing a
+focused panel of 25 genes sequenced in more than 35,000 women with breast cancer
+demonstrated pathogenic variants were present in 9.3% of the tested population. From these
+variants, 51.5% occurred in BRCA genes, 9.7% in ATM, 11.7% in CHECK2, and 9.3% in
+PALB2. Te prevalence of pathogenic variants in BARD1 and RAD51 were statistically
+higher among women with triple-negative breast cancer . It is important to recognize
+that BRCA1, BRCA2, PTEN, ATM, PALB2, CHEK2, RECQL, NBN as well as a large
+number of low penetrance variants together account for only ∼50% of breast cancer
+susceptibility . Tis fnding demonstrates the polygenic nature of breast cancer risk and
+indicates that variants contributing to breast cancer risk remain to be discovered.
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 6
+Advanced genomic studies reveal unique genetic variants
+Advanced genomic studies using whole exome sequencing have the capability of revealing
+unique hereditary mutations . In a study with 4398 breast cancer cases and 4316
+controls, followed by a second phase to test 30 single nucleotide polymorphism (SNPs),
+common alleles containing a single nucleotide polymorphism (SNPs) in FGFR2
+(rs2981582), TNRC9 (rs3803662), and MAP3K1 (rs889312) were associated with increased
+breast cancer risk in the general population . To further investigate if these loci are also
+linked with breast cancer risk in BRCA1 and BRCA2 mutation carriers, genotyping was
+performed to assess the SNPs identified. The minor alleles of SNPs rs2981582 and rs889312
+were each associated with increased breast cancer risk in BRCA2 mutation carriers, but not
+in BRCA1 carriers. The SNP rs3803662 was associated with increased breast cancer risk in
+both BRCA1 and BRCA2 mutation carriers . In 2009 a pericentromeric SNP on
+chromosome 1p11.2 was identified in a large linkage disequilibrium block neighboring
+NOTCH2 and FCGR1B genes . A large-scale genotyping study where 29807 SNPs were
+identified and further genotyped revealed 41 new loci associated with increased breast
+cancer risk . Taken together, these studies reveal that advanced sequencing studies will
+likely continue to identify new loci that confer the risk of breast cancer. With the decreasing
+cost of genomic technologies and the ability to detect genetic variation in patients at high
+accuracy and reduced cost, clinical decision making may be fundamentally altered by these
+technologies in the near future.
+BRCA mutation and prognosis
+Inherited BRCA1 mutant breast cancer usually presents a basal-like transcriptomic signature
+which is defined by the high expression of basal layer genes, and frequently results in triple-
+negative breast cancers – approximately 80% of BRCA1 mutation cases [70,71].
+Histological characterization of germline BRCA1 mutant tumors has been well defined,
+featuring a high histological grade, atypical medullary features, high proliferation indices,
+invasive borders and lymphocytic infiltrates. BRCA2 mutation carriers present tumors with a
+higher risk of contralateral breast cancer and estrogen-receptor positivity in most cases
+[72,73].
+A multivariate study, including 223 breast cancer patients carrying BRCA mutations and 446
+controls with sporadic breast cancer matched for age and year of diagnosis, showed no
+difference in terms of specific breast cancer survival between BRCA1 mutation carriers and
+sporadic cases, or between overall survival for BRCA2 mutation carriers and sporadic
+controls . A second study using a cohort of 491 patients (86 BRCA-mutants and 391
+non-mutants) suggested that BRCA1 mutation carriers had higher nuclear grade tumors than
+the other two groups of patients, and that BRCA2 mutated patients were older at the time
+they were diagnosed with breast cancer, in comparison with BRCA1 mutants and non-
+mutants .
+Two recent studies demonstrated diffferent results with respect to the role of BRCA
+mutations on breast cancer prognosis. In the frst study, which utilized a database containing
+the mutation status of 105,220 breast cancer patients with 3.4% BRCA-carriers, BRCA1
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 7
+mutation carriers displayed a worse overall survival than patients with a non-mutated
+BRCA1 allele. The same study also suggested that BRCA2 mutation carriers have worse
+disease-specific survival than patients with a non-mutated BRCA1 allele, but they present a
+similar overall survival. In the same year, Templeton et al. evaluated a total of 16 studies
+comprising data from 10,180 patients concluding that BRCA mutations were not associated
+with worse overall survival . Taken together, the results suggest that BRCA mutation
+may be inadequate as an independent outcome predictor [76,77].
+Genetic testing and methods of prevention
+A clinical diagnosis of hereditary breast and ovarian cancer occurs when one or more of the
+following features are present in a family: i) early onset breast cancer (less than 50 years of
+age) including both invasive and ductal carcinoma in situ breast cancers; ii) two breast
+primary or breast and other related cancer (ovarian, fallopian tube or primary peritoneal) in a
+single individual, or two or more breast primary or other related cancer in close relatives
+(first- to third-degree) from the same side of family; iii) populations at risk (Ashkenazi
+Jewish); iv) member of a family with a known BRCA1 or BRCA2 mutation; v) any male
+breast cancer; vi) ovarian, fallopian tube or primary peritoneal cancer at any age . BRCA
+mutations are diagnosed using molecular genetic testing to assess potential genomic
+rearrangements in the BRCA1 or BRCA2 genes . The NCCN recently updated their
+guidelines for genetic/familial high-risk assessment and provide recommendations for
+genetic testing, counseling, and risk assessment .
+Primary prevention strategies to reduce breast cancer risk in individuals who carry BRCA1
+or BRCA2 mutations include prophylactic mastectomy, surveillance, and chemoprevention
+. A recent study of 1504 patients with germline BRCA1 or BRCA2 mutations showed a
+reduced risk of 50% for developing contralateral breast cancer when taking tamoxifen as
+adjuvant . Currently, for postmenopausal women, the decision to treat with tamoxifen
+therapy depends on the stage of the disease, risk of recurrence, age or personal choice.
+Additionally, ASCO guidelines recommend a switch to an aromatase inhibitor at some point
+during the anti-estrogen therapy. In the case of premenopausal women, tamoxifen therapy
+for 10 years may decrease the risk of breast cancer recurrence .
+Breast cancer treatment
+Surgery
+Several studies have demonstrated differences between breast cancers with and without
+BRCA1 or BRCA2 mutations. For instance, women who carry BRCA mutations are more
+likely to develop a secondary cancer – either in the same breast (ipsilateral) or in the
+opposite breast (contralateral). For these women, a bilateral mastectomy is recommended,
+since studies have suggested that women who are BRCA1/2 mutation carriers and receive a
+bilateral mastectomy are less likely to die from breast cancer than women who were treated
+with unilateral mastectomy [82,83].
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 8
+Chemotherapy
+Taxanes—Taxanes are microtubule stabilizing chemotherapy agents that block cell
+proliferation, leading to apoptosis. Te most common taxanes used for breast cancer
+treatment are docetaxel and paclitaxel, which were approved for medical use in 1993 and
+1995. BRCA1 mutation carriers in the subgroup of hormone-negative cancers showed less
+sensitivity to taxane chemotherapy than non-BRCA1 mutation carriers hormone-negative
+patients. Conversely, in the subgroup of hormone-positive cancers, both hereditary and
+sporadic cases show similar sensitivities to taxane therapy . An approach for
+neoadjuvant chemotherapy used a combination of anthracycline-taxane, and 46% of the
+BRCA1 mutation carriers showed pathological complete response (pCR), while the sporadic
+breast cancer patients showed 22% pCR . However, a recent meta-analysis study
+suggested that a taxane-based therapy is potentially a better option than the anthracycline-
+taxane regimen for advanced breast cancer cases, since both produce similar clinical
+outcomes, and taxane is less toxic .
+Platinum agents—Platinum agents bind directly to DNA, forming DNA/platinum adducts
+that results in inter-strand DNA crosslinks and subsequent o double strand breaks. A study
+showed that neoadjuvant chemotherapy promotes enhanced response to platinum agents and
+a reduced response to taxanes in hereditary BRCA1-associated breast cancer. Although this
+work used a small cohort of patients, the pCR for cisplatin was 83%, while women treated
+with doxorubicin and docetaxel presented 8% of pCR. Interestingly, combinatorial therapy
+involving doxorubicin and cyclophosphamide, and in certain cases fuorouracil, showed a
+pCR of only 22% . Another work focusing neoadjuvant cisplatin therapy showed that
+decreased BRCA1 expression may help to identify subsets of triple negative cancers that are
+cisplatin-sensitive . Further evidence was provided with a follow-on clinical trial using
+cisplatin that showed that BRCA1 mutation carriers are highly sensitive to this
+chemotherapeutic agent . A systematic review and meta-data analysis of all published
+studies employing platinum agents in addition to standard neoadjuvant chemotherapy in
+triple-negative cancer was conducted, and it showed that the pCR increases signifcantly by
+including cisplatin or carboplatin in triple negative breast cancer, rather than any other
+neoadjuvant chemotherapy . In contrast, a recent study reported a BRCA1 reversion
+mutation in a recently diagnosed triple negative breast cancer patient, that developed over 18
+weeks of platinum-based neoadjuvant therapy, resulting in poor response, early relapse and
+death .
+PARP inhibitors—Poly (ADP-ribose) polymerases (PARPs) are important enzymes in
+DNA damage repair mechanisms. In general, PARP activation is promoted by DNA damage,
+particularly through PARP-1 to PARP-3, initiators of the DNA damage response. PARP
+synthesizes a polymer (ADP-ribose polymer) that attracts the assembly of DNA repair
+complexes at sites of damage . PARP inhibitors block the repair of DNA damage,
+resulting in chromosomal instability, cell cycle arrest and subsequent apoptosis, leading to
+the persistence of DNA lesions normally repaired by homologous recombination. PARP
+inhibitors attack tumors defective in the BRCA1 or BRCA2 genes by a concept termed
+‘synthetic lethality’. PARP inhibitors cause an increase in DNA single-strand breaks (SSBs),
+which are converted during replication to irreparable toxic DNA double-strand breaks
+Integr Cancer Sci Ther. Author manuscript; available in PMC 2017 July 11.
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Author
+Manuscript
+Godet and Gilkes Page 9
+(DSBs) in BRCA1/2 defective cells. Clinical trials have shown that PARP inhibitors are
+beneficial in the treatment of patients that are carriers of germline BRCA mutations.
+Moreover, PARP inhibitors are also likely to be useful for non-BRCA mutations carriers
+.
+Several clinical trials are focused on the use of PARPs inhibitors, in the adjuvant,
+neoadjuvant and metastatic settings for the treatment of ovarian, BRCA-mutated breast
+cancer and other cancers . Although there is excitement around this new class of drugs,
+Iniparib by Sanofiaventis, the most advanced PARP inhibitor in clinical trials in 2011, failed
+to prolong survival in phase III in triple-negative breast cancer. The failure was related with
+a resistance event suggested in a study from 2013, where they showed clinical observations
+of PARPs blocking drugs resistance correlating with the emergence of a secondary BRCA2
+mutation. This mutation will likely restore the wild-type protein function, compromising the
+synthetic lethality approach .
+A follow-on study showed that Iniparib and its metabolites do not inhibit PARP in intact
+cells , suggesting PARP inhibitors should be given additional consideration in clinical
+studies. Current clinical trials are testing the potential of seventeen new PARPs inhibitors in
+early and advanced breast cancer, such as Olaparib (Phase III in germline BRCA mutated
+breast cancer), Veliparib (Phase III in neoadjuvant setting standard or in combination with
+carboplatin in triple-negative breast cancer), Niraparib (Phases II/III in combination therapy
+in germline BRCA mutated breast cancer), Talazoparib (Phases II/III for different settings in
+germline BRCA mutated breast cancer), and Rucaparib (Phase II in germline BRCA
+mutated solid breast cancer) . Olaparib received FDA approval in 2014, and Rucaparib
+was approved in December 2016 . Long term exposure and strategies to expand PARP
+therapies beyond breast and ovarian cancer are being intensively investigated .
+Future considerations
+It is clear that BRCA mutation status can provide valuable insight in terms of prevention and
+treatment options. With appropriate management and surveillance, BRCA mutation carriers
+have options to prevent or detect cancer at earlier stages, when there is a greater chance for
+successful treatment. The decreased cost of genome-sequencing and advances in
+bioinformatics will likely change the landscape for tailored treatment strategies not only for
+BRCA mutations carriers but also for patients with unique genetic mutations that have not
+been previously considered. The ultimate goal is to identify aberrations that make each
+individual's cancer more vulnerable to particular drugs — and to match individual patients
+with available therapies or clinical trials that will most benefit them.
+Acknowledgments
+Our work has been supported by R00-CA181352 (DMG).

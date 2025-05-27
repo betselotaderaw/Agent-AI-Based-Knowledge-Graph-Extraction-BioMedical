@@ -1,0 +1,1351 @@
+Received:11May2019 | Accepted:3September2019
+DOI:10.1002/jcp.29216
+REVIEW ARTICLE
+‐
+Overcoming trastuzumab resistance in HER2 positive breast
+cancer using combination therapy
+Afshin Derakhshani1* | Zohreh Rezaei2* | Hossein Safarpour3 | Morteza Sabri2 |
+Atefeh Mir2 | Mohammad Amin Sanati3 | Fatemeh Vahidian1 |
+Ali Gholamiyan Moghadam4 | Ali Aghadoukht5 | Khalil Hajiasgharzadeh1 |
+Behzad Baradaran1
+1ImmunologyResearchCenter,Tabriz
+Abstract
+UniversityofMedicalSciences,Tabriz,Iran
+2DepartmentofBiology,FacultyofSciences, Human epidermal growth factor receptor 2 (HER2)‐positive breast cancer (BC)
+UniversityofSistanandBalouchestan, comprisesaround20–30%ofallBCsubtypesandiscorrelatedwithpoorprognosis.
+Zahedan,Iran
+For many years, trastuzumab, a monoclonal antibody, has been used to inhibit the
+3Cellular&MolecularResearchCenter,
+BirjandUniversityofMedicalSciences, HER2activity.Though,themainresistancetotrastuzumabhaschallengedtheuseof
+Birjand,Iran
+this drug in the management of HER2‐positive BC. Therefore, the determination of
+4DepartmentofBiologicalScience,Facultyof
+Science,UniversityofDamghan,Damghan, resistance mechanisms and the incorporation of new agents may lead to the
+Iran development of a better blockade of the HER family receptor signaling. During the
+5DepartmentofBiologicalScience,Facultyof
+last few years, some therapeutic drugs have been developed for treating patients
+Science,UniversityofKurdistan,Sanandaj,Iran
+withtrastuzumab‐resistantHER2‐positiveBCthathavemoreeffectiveinfluencesin
+Correspondence
+the management of this condition. In this regard, the present study aimed at
+ZohrehRezaei,DepartmentofBiology,
+FacultyofSciences,UniversityofSistanand reviewing the mechanisms of trastuzumab resistance and the innovative therapies
+Balouchestan,Zahedan,Iran. thathave been investigatedintrastuzumab‐resistantHER2‐positiveBC subjects.
+Email:z.rezaei222@pgs.usb.ac.ir
+BehzadBaradaran,ImmunologyResearch KEYWORDS
+Center,TabrizUniversityofMedicalSciences, breastcancer,drugresistance,HER2positive,trastuzumab
+Tabriz,Iran.
+Email:baradaranb@tbzmed.ac.ir
+1 | INTRODUCTION EGFR/HER1, HER2, HER3, and HER4 that promote growth factor‐
+related signaling, for example, PI3K‐AKT and RAS‐MAPK pathways
+Breastcancer(BC),themostpopulartypeofcancerinfemales,still (Yarden & Sliwkowski, 2001). ErbB receptors embody an extracellular
+remainsthesecondimportantcauseofcancer‐associateddeaths,in regionthatincludesfourdomains(i.e.,I/L1,II/CR1,III/L2,andIV/CR2)
+spiteofsignificantimprovementsinitstreatment(Derakhshanietal., orderedasrepeatingidenticalsegmentsofatwounitedpart,acytosolic
+2019; Siegel, Ma, Zou, & Jemal, 2014). BC can be categorized as a tyrosinekinase,andasinglemembrane‐spanningregion.Afteraligand
+heterogeneousdiseaseaccordingtothestatusofmolecularprofiles bindstotheextracellularregionmakescytosolickinasedimerizationand
+and microscopic appearances such as estrogen receptor (ER) activation, which leads to auto‐phosphorylation and starting of down-
+expressionandHER2amplification(Slamonetal.,1987). streamsignalingevents(Choetal.,2003;Vahidianetal.,2019).
+Human epidermal growth factor receptor 2 (HER2), a trans Typically,ontheepithelialcellsurfaces,HER2hasalowexpression
+membrane tyrosine kinase receptor, a member of the EGF receptor thatisnecessaryforthenormalprogressinvarioustissueslikeovary,
+(EGFR) family, is encoded by the HER2 gene. This family includes breast, liver, lung, central nervous system, and kidney. In contrast,
+immunohistochemical analyses have revealed that HER2 is over-
+*AfshinDerakhshaniandZohrehRezaeicontributedequallytothiswork. expressed in BC cells, which can extend to two million receptors in
+|
+3142 ©2019WileyPeriodicals,Inc. wileyonlinelibrary.com/journal/jcp JCellPhysiol.2020;235:3142–3156.
+|
+DERAKHSHANIETAL. 3143
+eachcell. Inmetastatic breastcancer(MBC), the increasedlevelsof andKallioniemi(1994)displayedthattheserumECDofHER2released
+HER2arerelatedtoreduceddisease‐freesurvival(Pressetal.,1997). intothecirculationandcanberaisedintheserumofwomenwithMBC.
+Atthecellmembrane,thelocalizationofHER2isaheterogeneousand Infact,thephosphorylatedtruncatedreceptorhasbeendistinguishedin
+dynamic process regulated by differential rates of endocytosis and approximatelyhalfofthehumanBCserumsamples.AreducedHER2‐
+recycling(Bertelsen&Stang,2014;ZRezaei&Derakhshani,2018). ECDinserumisconsideredasapredictorofhostresponseduetoits
+Trastuzumab (or Herceptin), was developed as a recombinant association with improved progression‐free survival (Molina et al.,
+humanizedmonoclonalantibody(mAb)targetingthedomainfourof 2001).
+the HER2. It was produced by Genentech Inc. (San Francisco, CA).
+Trastuzumabisamongthehighlysuccessfultargetedtreatmentsfor
+2.2 | Internalization and degradation of HER2
+BC that selectively exerts its antitumor effects on HER2‐amplified
+protein
+BC tissues with no impact on tumors with normal expression of
+HER2.Whencombinedwithotherchemotherapydrugs,trastuzumab In BC cells that highly expressed HER2, trastuzumab leads to
+increases the prognosis of subjects with metastatic diseases and downregulation and degradation of HER2. It is proposed that
+decreases the risk of cancer recurrence and death (Drebin, Link, trastuzumab begins internalization and degradation of HER2 by
+Stern, Weinberg, & Greene, 1985; S. Paik, Kim, & Wolmark, 2008; encouragingthefunctionoftyrosinekinase‐ubiquitinligasec‐Cbl.It
+Seidman et al., 2008; Vogel et al., 2002). Nowadays, choosing the isalsosuggestedthattheconnectionoftrastuzumabtoHER2results
+patients who can undergo trastuzumab therapy is based on HER2‐ in c‐Cbl recruitment to the Tyr1112 site where c‐Cbl ubiquitinates
+positivityusingprotein‐andDNA‐basedassays(Drebinetal.,1985; HER2andinducesitscleavage(Klapper,Waterman,Sela,&Yarden,
+S.Paiketal.,2008;Seidmanetal.,2008;Vogeletal.,2002). 2000). Baldassarre et al. clarified the roles of Endo II (endocytic
+Despitetheclinicalefficacyoftrastuzumab,acquiredresistance adapter protein endophilin A2) in HER2‐positive cancer cells. They
+tothisantibodychallengestheuseofthisdrug.Hence,overcoming displayed that silencing Endo II can decrease the responses to
+trastuzumab resistance can pave the way for effective therapeutic trastuzumabbycausingdefectsinHER2internalization(Figure1).
+methodssuggestedforthetherapyofHER2‐positiveBCresistantto
+trastuzumab.
+2.3 | Inhibition of angiogenesis
+Trastuzumabalsoreducesangiogenesis,whichhasshowntoresultin
+2 | MECHANISMS OF TRASTUZUMAB theinhibitionofendothelialcellmigrationinvitroandadecreasein
+ACTION microvesseldensityinvivo.Theexpressionsofproangiogenicfactors
+were inhibited in trastuzumab‐treated tumors, while these factors
+Thereismorethanoneantitumormechanismfortrastuzumab.The wereenhancedintheirrespectivecontrols(Klapperetal.,2000).
+antibody's direct action is based on receptor downregulation and
+intracellular signalings, such as downstream protumorigenic cell
+2.4 | Inhibition of DNA repair
+signalingandHER2sheddinginhibition.Indirectactionthathasbeen
+recommended as a mechanism of action for trastuzumab is the Theparticularmolecularmechanismsusedbycellsfortheinhibitionof
+activation of an immune response via antibody‐dependent cellular DNA repair, which are activated by trastuzumab, remain unclear.
+cytotoxicity (ADCC; Clynes, Towers, Presta, & Ravetch, 2000). Pietras et al. (1999) suggested that DNA adduct repair induced by
+Trastuzumab has a wide range of antimalignancy effects, especially cisplatin is partially inhibited by trastuzumab. Also, in vitro studies
+onHER2‐upregulatedtumorcells.Inthisregard,thepresentreview show that trastuzumab can block DNA synthesis after radiation
+aimedatstudyingthemolecularmechanismsoftrastuzumabactions (Baselga,Albanell,Molina,&Arribas,2001).Julienetal.proposedthat
+againstcancercells. the inhibition of HER2 by trastuzumab markedly affects DNA
+interstrand crosslink repair (Table 1). Le et al. (2005) demonstrated
+thattrastuzumabcaninduceDNAdamageanddownregulatedPCNA.
+2.1 | Inhibition of HER2 ectodomain shedding
+In the presence of a PARP inhibitor, low expression of PCNA may
+HER2undergoesproteolyticcleavageinitsextracellulardomain(EDC) impairhomologousrecombination(HR)causingsyntheticlethality(Le
+inHER2‐overexpressingtumorcellswhichresultsinatruncatedtypeof et al., 2005). García‐Parra et al. (2014) displayed that poly (ADP‐
+HER2thatisatypeofreceptorwithouttheextracellularbindingpart ribose)polymerase(PARP)blockersincreasedtheantitumoreffectsof
+for trastuzumab. This shortened membrane‐bound fragment of HER2 trastuzumabinvitroandinvivoinHER2BCcancercells.
+retainsdownstreamkinaseactivityandcausestrastuzumabresistance
+(Hudziaketal.,1989).Christiansonetal.(1998)intheirstudyshowed 2.5 | Antibody‐dependent cellular cytotoxicity
+thatthetruncatedreceptorisalsopresentin24humanBCspecimens mediated by Fc
+invivo.Also,Fornieretal.(2005)mentionedthatitmightestablisha
+convenientapproachformonitoringthepatientsthattakingtrastuzu- ADCCasanimportantextracellularmechanismoftrastuzumabthat
+mab‐basedmedication.AnotherstudybyIsola,Holli,Oksa,Teramoto, is able to recruit major effector cells (e.g., NK cells that express
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by the
+applicable
+Creative
+Commons
+License
+|
+3144 DERAKHSHANIETAL.
+FIGURE 1 InternalizationanddegradationofHER2proteinsbytrastuzumab.Trastuzumabiseffectiveindownregulationanddegradationof
+HER2inHER2‐overexpressingbreastcancercells.TrastuzumabbeginsinternalizationanddegradationofHER2byencouragingtheactivityof
+tyrosinekinase‐ubiquitinligasec‐Cbl.ItisalsosuggestedthatbindingoftrastuzumabtoHER2leadstorecruitmentofc‐CbltotheTyr1112site
+wherec‐CblubiquitinatesHER2andinducesitsdegradation.AllthementionedfactorsarepresentedinFigure1(seethetextforadditional
+details)
+FcγRIIIA [CD16]) to overexpress HER2 tumor sites. Clynes et al. intumors(Sliwkowskietal.,1999).Moreover,theADCCactivitywas
+(2000)suggestedthatADCCwasenhancedinmicelackingFcγRIIB mainly enhanced in BC patients’ serum in the presence of
+(inhibitoryreceptor),whileitwasdecreasedinmicedeficientinthe trastuzumab. Arnould et al. (2006) reported that enhancement in
+activating Fc receptors (FcγRIIIA). Thus, Fc‐receptor‐dependent severalnaturalkiller cells(NKcells)and cytotoxicproteinssuch as
+mechanismscontributemainlytothefunctionofcytotoxicantibodies granzyme B, were observed in tumor samples from women with
+TABLE 1 Differentmechanismsoftrastuzumabinbreastcancertherapy
+Mechanism Differentfunctions References
+Blockingreceptors Receptordownregulationandreduceintracellularsignaling (Claret&Vu,2012;Moasser,2007)
+InhibitionofHER2ectodomain PreventionofHER2cleavage (Christiansonetal.,1998;Codony‐Servat,Albanell,
+Lopez‐Talavera,Arribas,&Baselga,1999)
+Inhibitionofangiogenesis Inhibitionofendothelialcellmigration (Fornieretal.,2005;Lane,Motoyama,Beuvink,&
+Hynes,2001)
+DegradationofHER2receptors TriggerHER2,internalization,anddegradationby (Claret&Vu,2012;Klapperetal.,2000)
+ubiquitination
+Theantibody‐dependentcellular Abletorecruitmajoreffectorcells (Nagataetal.,2004;Sliwkowskietal.,1999)
+cytotoxicity
+InhibitionofDNArepair BlocktheDNAsynthesisafterradiationandeffectonDNA (Baselgaetal.,2001)
+interstrandcross‐linkrepair
+Effectoncellcycle InhibitionofG1phasecellcycle (Filipitsetal.,2018)
+EffectonthePI3Kpathway DirectlyinhibitsEGFRandERBB2activation (Junttilaetal.,2009;Zhangetal.,2011)
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+DERAKHSHANIETAL. 3145
+progressive BC after treatment with trastuzumab and docetaxel presumablyinvolvedtheuncouplingmechanismandtheresulting
+(Nagataetal.,2004).Itisshownthattrastuzumab‐inducedADCCcan changed trafficking of the receptor and could thus account for
+be augmented by increasing NK cell activities, modulating the acquired or primary resistance to trastuzumab (Valabrega et al.,
+antibody itself, and inhibiting different proteins such as caspases, 2005).Furthermore,About70%ofwomenwithHER2+MBCwho
+CD112R,andTIGIT,histonedeacetylase(HDAC),andAdams(Nami, primarily responded to trastuzumab, showed progress within a
+Maadi,&Wang,2018).ThesefindingsproposedthatADCCactsasa year suggesting “secondary” or “acquired” resistance to trastuzu-
+mechanism of trastuzumab action, and clarifies an increase in mab(Valabregaetal.,2005).
+responsetotrastuzumabinHER2overexpressingcancercells. Interruptionoftheinterplaybetweenthetherapeuticagentsand
+their targetproteins is apotential mechanism for the resistanceof
+thetargetedantibodies.Themolecularmechanismsfortrastuzumab
+2.6 | The effect of trastuzumab on cell cycle
+resistance are listed below (Klos et al., 2003; Pietras et al., 1999;
+TrastuzumabarrestscellcycleduringG1phasebytheinhibitionof Wenetal.,2006).
+proliferation. The cell cycle is arrested by inhibition of proteins’
+expression that is related to the cleavage of the cyclin‐dependent 3.1 | Epitope masking
+kinase (CDK) blocker p27kip1. On the other hand, assessing p27
+3.1.1 | Breast cancer stem cell markers CD44+ and
+expression in women with initial stage HER2‐positive BC after
+CD24
+treatmentwithtrastuzumab.Filipitsetal.(2018)explainedthatusing
+a predefined cutoff, a low p27 expression can be associated to Overexpressionofbreastcancerstemcells(BCSC)markersincluding
+positiveeffectsoftrastuzumab(Table1). CD44maycausetoinhibitionofthetrastuzumab‐bindingsiteatthe
+HER2‐ECD (Martin‐Castillo et al., 2013). It was shown that
+trastuzumab decreases the population of the ALDEFLUOR‐positive
+2.7 | The effect of trastuzumab on the PI3K
+BCSCsintrastuzumab‐sensitiveandHER2‐amplifiedBCcelllinesvia
+pathway
+blockadeofPI3K/Aktsignaling,butnotintrastuzumab‐resistantcell
+The PI3K signaling pathway is one of the pivotal pathways with lines(Korkaya,Paulson,Iovino,&Wicha,2008).Recentstudieshave
+significant oncogenic features in different malignancies. BC tumor- shown that the CD44+/CD24− phenotype can be utilized as a
+igenesisisassumedtoberelatedtothispathway.Somestudieshave predictivefactoroftrastuzumabresponseandaprognosticfactorfor
+proposed that the complex of HER2/HER3/PI3K and PI3K‐AKT the clinical result in patients with HER2+ primary BC (Seo et al.,
+signaling pathway have critical roles in cell proliferation in HER2‐ 2016;Figure3A).
+amplified cells (Klos et al., 2003). Trastuzumab can block EGFR
+signalingthroughbindingtotheextracellularsubdomainIVofHER2
+3.1.2 | Mucin‐1 (MUC1)
+but,lapatinibreversiblyinteractswiththecytoplasmicATP‐binding
+domainofthekinaseandinhibitsphosphorylationofHER2.Reduced The mucin‐1 (MUC‐1) an O‐linked glycosylated polypeptide that
+downstream signaling induces p27kip1, and then induces cell cycle undergoes autocleavage to generate two subunits (Kufe, 2013).
+arrest and apoptosis (Baselga et al., 2001; Sliwkowski et al., 1999). MUC1‐N is located extracellularly at the cell surface with the
+Trastuzumab also can promote dissociation of Src (a nonreceptor MUC1C‐terminal(MUC1‐C)transmembranesubunit(10).MUC1‐C
+tyrosinekinase)fromHER2,whichreducesitsactivity.Consequently, acts as an oncoprotein through association with receptor tyrosine
+Aktandmammaliantargetofrapamycin(mTOR)wouldbeinhibited kinases (RTK), such as EGFR and HER2, by coupling to their
+(Nagataetal.,2004;Figure2). signaling cascades (9). It has been shown that MUC1‐C play a
+criticalroleintheactivationoftheHER2pathwaywhichindicatesa
+potential approach to revoke trastuzumab resistance (Raina et al.,
+3 | MECHANISMS OF TRASTUZUMAB 2014; Figure 3B). Particularly, cell‐penetrating peptides like
+RESISTANCE GO‐203 that specifically bind to the MUC1‐C are currently very
+effectivetherapyinpreventinggrowthandmakingthedeathofBC
+Thecriticalstepfortheimprovementofnewanti‐HER2strategies cells(38).
+is recognition of the trastuzumab resistance mechanisms. Just a
+thirdofwomenwithHER2‐positiveBCshowaprimaryresponseto
+3.1.3 | Mucin‐4 (MUC4)
+trastuzumab that indicates “initial” or “inherent” trastuzumab
+resistanceinthepatients(Nagataetal.,2004;Z.Rezaei,Sebzari, MembranemucinssuchasMucin‐4(MUC4)candecreasematrix–cell
+Kordi‐Tamandani,&Dastjerdi,2019).Thetrastuzumabresistance interactionsandadhesion.MUC4isgenerallyexpressedintheapical
+is unlikely to be the result of an intrinsic defect of HER2 surfaceofmammarycells.InBCcells,MUC4canalsostimulateHER2
+degradation but it is probably related to impaired HER2 down- signalingthroughanEGF‐likedomainonitsASGP‐2subunit(Clynes
+regulation due to its uncoupling from Cbl, causing another and et al., 2000). It is suggested that MUC4 acts as a ligand for HER2,
+impaired pattern of endocytosis. Manufacturing of TGFa causinginduced phosphorylation on Tyr1248 residue of HER2 as a
+10974652,
+2020,
+4,
+Downloaded
+from
+by Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+3146 DERAKHSHANIETAL.
+FIGURE 2 TheeffectoftrastuzumabonthePI3Ksignalingpathway.Innumerousdiseases,thePI3Kpathwayisoneoftheessential
+signalingpathwayswithsignificantoncogenicfeatures.Ingeneral,tumorigenesisofbreastcancerisassumedtobeassociatedwiththePI3K
+pathway.HER2/HER3/PI3KandPI3K‐AKTsignalingpathwaycomplexhavecriticalrolesincellproliferationinHER2‐amplifiedcells.
+Trastuzumabandlapatinibcanblockthissignaling,eitherbyinhibitingtheactivityofEGFRandERBB2kinasesdirectlyorthroughERBB2
+bindingatthecellsurface.TrastuzumabcanpromotedissociationofSrc(anonreceptortyrosinekinase)fromHER2,whichreducesitsactivity.
+Consequently,Aktandmammaliantargetofrapamycin(mTOR)wouldbeinhibited
+main phosphorylation target. Therefore, it contributes to the IGFIR interacts with HER2 physically and phosphorylates it in
+transforming function of HER2 oncoprotein. MUC4 does not affect trastuzumab‐resistant cells (de Groot et al., 2016). Also, the
+theexpressionlevelofHER2receptorcompletely(Nagyetal.,2005; resistancecanbereversedbyinhibitionofIGF‐1Rsignaling.Jerome
+Pai et al., 2016). Also, MUC4 has been described to hide the et al. (2006) and Xin et al. (2015) displayed that recombinant IGF‐
+trastuzumab‐bindingsitesofHER2bydecreasingitsbindinginvitro bindingprotein‐3(IGFBP3)orprogressiveheat‐promotedexpression
+in JIMT‐1 (a de novo trastuzumab‐resistant BC cell line; 18). ofthedominant‐negativeIGF‐1R486/STOPbyinhibitionofIGF‐1R
+However, regulation of MUC4 expression through endogenous signalingcansignificantlysensitizecellstotrastuzumab(Figure3D).
+modulatorsanditseffectontrastuzumabresistanceinvivoarestill Sanabria‐Figueroa et al. (2015) found that the main biologic effect
+unclear(Figure3C). caused by IGF‐1R was an invasion, which was mediated by both
+Forkhead box protein M1 (FoxM1) and Src‐focal adhesion kinase
+(FAK)signaling.Theystronglyproposedthatcombinationstargeting
+3.2 | Activation of the IGF‐IR pathway
+therapyofIGF‐1RandHER2cansuppresstheaggressivepotentialin
+Trastuzumab resistance is related to the enhanced signaling of the cancer cells that are resistant to trastuzumab via mechanisms that
+insulin‐like growth factor‐I receptor (IGF‐IR). In BC cells, increased relatedtotheSrcandFoxM1(Sanabria‐Figueroaetal.,2015).
+expression of IGF‐IR could decrease growth arrest of HER2‐
+overexpressionmediatedbytrastuzumab,whichmediatedtrastuzu- 3.3 | β2‐ adrenergic receptor signaling
+mab resistance (Saisana, Griffin, & May, 2016; Tóth et al., 2016).
+Previously,Nahta,Yu,Hung,Hortobagyi,andEsteva(2006)showed β2‐adrenergicreceptor(β2‐AR),isthemainmediatorofcatecholamine‐
+thatIGF‐1RandHER2formauniquereceptorcomplexandexhibit induced impacts on the malignant characteristics of the tumor cells
+crosstalkinacquiredresistancemodels.Moreover,itwasshownthat (Armaiz‐Pena et al., 2013). Recent research indicated that the
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by the
+applicable
+Creative
+Commons
+License
+|
+DERAKHSHANIETAL. 3147
+FIGURE 3 Themolecularmechanismoftrastuzumabresistance.Inepitopemasking,cellsurfacemoleculeslikeCD44,MUC1,andMUC4
+(A,B,andCrespectively)hidetheepitopetowhichtrastuzumabbindsandalsoinhibittherecognitionandbindingofHER2bytrastuzumab;
+(D)and(E):Receptorcrosstalk,wherecellsurfacereceptorkinasesuchasIGF‐IRandβ2‐ARstimulatetheactivationofHER2signaling;
+(F),PTENblocksthePI3Ksignalingcascade.LossofPTENcanactivatecellsurvivalprocesses;(G),caveolaecanmediateendocytosisand
+removetheHER2fromcellsurfacewhichinhibitstrastuzumabbinding;(H),lacksubstantialpartsoftheextracellulardomainofHER2which
+termedp95HER2,cannaturallyevadeantibodybindingduetotheabsenceoftheextracellulardomain(Seetextfordetails)
+expressionofβ2‐ARreverselycorrelateswithtrastuzumabresponsein to trastuzumab. In this regard, PTEN loss and PIK3CA mutations
+patientswithHER+BC.Thedatafromthisstudyindicatedthatβ2‐AR correlated with the inferior time of progression and survival in a
+can be implemented for the forecast of the therapeutic outcome of study conducted on 256 women with trastuzumab‐treated HER2+
+trastuzumab‐basedtherapyinBC(Liuetal.,2016;Figure3E). MBC(Bernsetal.,2007;Razisetal.,2011).
+3.4 | Defects in the PTEN‐PI3K/AKT pathway 3.5 | Caveolae
+There are many possible mechanisms leading to trastuzumab The availability and stability of cell surface HER2 is the main
+resistance, among which the most prevalent one in BC is the predictor of Trastuzumab influence. Intrinsic defects in the
+activation of the PI3K/Akt pathway. The main abnormality limiting endocytic machinery are responsible for HER2 downregulation
+theactivationofthePI3K/AktpathwayisthelossofPTENfunction whichisassociatedwithunresponsivenesstotrastuzumabtherapy
+or gain‐of‐function mutations in PI3KCA. Berns et al. (2007) (Z. Rezaei, Kordi‐Tamandani, & Dastjerdi, 2018; Valabrega et al.,
+proposed an advanced method for identifying patients with poor 2005).Caveolae‐mediatedendocytosisissuggestedtobeinvolved
+efficacy response to trastuzumab when combining low PTEN intrastuzumabandT–DM1resistance(Chungetal.,2018;Figure
+expressionandmutationspresentinoncogenicPIK3CA(Figure3F). 3G). In a recent study, accumulation of HER2 in response to
+They also mentioned a relationship between PIK3CA hotspot pharmacological reduction of CAV1 was demonstrated using
+mutations and reduced progression time after treatment. Another preclinical models of xenograft and organotypic cultures from
+studyshowedacomprehensivefunctionalRNAinterferenceindicat- freshly harvested human tumors. The finding that CAV1 controls
+ingPTENasthecentralmediatoroftrastuzumabsensitivityinHER2‐ the cellular distribution of HER2 can have a direct therapeutic
+overexpressing BC cell lines. In addition, PTEN knockdown and indicationforantibody‐mediatedtargetingofHER2andmayshed
+transfectionofPI3KCAmutantcelllinecanreturntheirinsensitivity lightontheusageoftheseantibodiesfortherapeuticpurposesand
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+3148 DERAKHSHANIETAL.
+molecular imaging of HER2+ tumors. It was revealed that the 4 | THERAPEUTIC STRATEGIES
+availability of HER2 protein at the cell surface can be tuned by
+temporal reduction of cholesterol through lovastatin in a way 4.1 | Anti‐HER2 antibodies
+that could serve to boost trastuzumab binding and therapy
+4.1.1 | Lapatinib
+against HER2+ tumors. This study demonstrated the potential
+advantageofusingstatinstodevelopthetherapeuticoutcomesof LapatinibisadoubleEGFR/ErbB2tyrosinekinaseinhibitor(blocking
+trastuzumab and HER2‐targeted molecular imaging in the clinics both HER1 and HER2) that links HER1 and HER2 kinase domains,
+(Pereiraetal.,2018). especially to the adenosine triphosphate (ATP) binding site. It also
+prevents the activation of phosphorylation and receptors actions.
+TheactivationofdownstreampathwayslikeMAPKandPI3K/Aktis
+3.6 | Expression of p95HER2
+blockedinBCcellsleadingtoadecreasedgrowthandproliferationof
+Truncated p95HER2 fragments generated with constitutive kinase the cancer cells. Using this data, clinical studies have tested the
+activity,revealedresistancetotrastuzumabduetolackoftrastuzu- impacts of lapatinib in combination with trastuzumab on treating
+mab‐binding epitopes. Two kinds of mechanisms have been advanced HER2+ BC that does not respond to trastuzumab (Black-
+suggested to form the p95HER2 receptor (a) by proteolytic wellet al., 2010; Konecny et al., 2006). The hypothesis behindthis
+degradation of the HER2‐ECD and (b) alternative TIS (translation‐ combinatorialstrategyisthedistinctactionmechanismsinhowthese
+initiation sites) of the HER2 protein. HER2‐ECD can be generated drugs work. In fact, trastuzumab is a monoclonal antibody, which
+intocellcultureorcirculatingmediainseruminvivo.Enhancedlevels preventsHER2receptorfromdimerizing,andlapatinibisatyrosine
+ofHER2‐ECDinserumarerelatedtopoorprognosisinprogressive kinaseblocker,whichinhibitsnascentsignalingthroughHERdimers.
+BCpatients(Colomeretal.,2000;Hayesetal.,2001;Leitzeletal., Theotheradvantageisthatunliketrastuzumab,lapatinibisasmall
+1995; Y. Lin & Clinton, 1991; Pupa et al., 1993; Ruiz et al., 2018; molecule; thus it is much more appropriate to enter to the central
+J.Sperindeetal.,2016,2018;Todeschinietal.,2011;Yamauchietal., nervoussystem(CNS)andhasthepotentialtobettercontrolofMBC
+1997;Zabrecky,Lam,McKenzie,&Carney,1991;Figure3h).Inthe (Arteagaetal.,2012).
+mammary glands of transgenic mice, expression of p95HER2 Also, it can promote trastuzumab dependent ADCC due to the
+receptors displayed more aggressive breast tumors compared with accumulationofHER2onthecellsurface.ThedualefficacyofHER2
+thatdeterminedbythefull‐lengthreceptor(Louie&Sevigny,2017). inhibitionwithtrastuzumabandlapatinibwasstudiedinthePhaseIII
+BC patients received trastuzumab who show overexpression of studyof EGF104900.In thisstudy, patientswith HER2+MBC who
+p95HER2,haveagreaterincidenceoflungtumorinvasioncompared indicated progression during trastuzumab therapy were randomly
+with patients expressing the full‐length receptor (M. Scaltriti et al., selectedtotakelapatinibinmonotherapyorlapatinibincombination
+2007).Kallergietal.(2015)investigatedtheexpressionofp95HER2 with trastuzumab. The combination was led to more satisfying
+receptors on circulating tumor cells (CTCs) in both early and outcomes both in progression‐free survival (PFS) and in OS (Black-
+advanced BC women. In the MBC, their incidence enhanced and welletal.,2012).
+theirpresencewasduetopoorsurvival.
+3.7 | The effect of trastuzumab on cell cycle 4.1.2 | Neratinib
+Binding of trastuzumab to HER2 with a high affinity can induce NeratinibisadualtyrosinekinaseinhibitorofHER1thatisusedfor
+cytostaticeffect,thatisrelatedtoG1arrestanddecreaseofapoptosis the management of different stages of HER2+ BC. Neratinib is an
+and cell proliferation as a result of the increase in the level of the irreversibletyrosinekinaseinhibitor,unlikethereversiblenatureof
+p27kip1(Baselgaetal.,2001).TheCDKcanbeinhibitedbyP27Kip1 lapatinib,thisdrugcancovalentlybindtotheATP‐bindingsiteofthe
+that blocks cyclin E/CDK2 complexes and induces cell cycle arrest. receptorkinase.Cell‐cyclearrestandantiproliferativeimpactsrelate
+P27Kip1 could be phosphorylated by Akt and then marked for to the reduction in signaling in the HER2 model systems after
+proteasomal destruction. It has been demonstrated that increased therapywithneratinib(Bursteinetal.,2010;Rabindranetal.,2004).
+levelsofp27kip1intrastuzumab‐treatedcelllinescausesareduction This drug was examined in research with HER2+ patients who
+inCDK2activity(M.Scaltritietal.,2011).PPM1HisrelatedtoThe werepreviouslyexposedtotrastuzumaborhaveneverbeentreated
+PP2Cfamilythatconsistsofmetal‐dependentSer/Thrphosphatases. with anti‐HER2 in the past. In Phase II studies, neratinib showed a
+S. Tuen et al. explored that PPM1H knockdown might have an well‐toleratedcapacityandsignificantclinicalactivity.The16‐week
+important effect on total levels or phosphorylation of HER family survivalrateswere59%forpatientswithpriortrastuzumabtherapy
+members and downstream MAPK, PI3K, or cell‐cycle regulatory and 78% for patients with no prior trastuzumab therapy. It has
+signaling pathways. They suggested a model through which PPM1H also been shown that trastuzumab is more effective and has a
+candephosphorylatetheT187siteonp27andpreventitsubiquityla- longer inhibitory impact than lapatinib. It could also bypass
+tion and degradation. Stabilized p27 could inhibit the cell cycle. potentialpathways of resistance(Rabindran etal., 2004; Sharma&
+Therefore,PPM1HmayberelatedtopoorpatientoutcomeinBC. Jayanth,2010).
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+DERAKHSHANIETAL. 3149
+4.1.3 | Afatinib 4.1.7 | Tucatinib
+Afatinib,asmallmoleculedrug,isanErbBfamilyblockerandtyrosine Tucatinib is an orally‐active inhibitor of ErbB‐2, which can reduce
+kinaseinhibitor(TKI;Canonicietal.,2018;Sequistetal.,2013;Tsang toxicity,and can improvedose‐intensity and influence. Recentdata
+& Finn, 2012). Afatinib has the potential to irreversibly block all indicate considerable advantages of using this drug, especially in
+homo‐ and heterodimers ErbB family receptor related to cancer patientswithbrainmetastasis(Pondeetal.,2018;Zhuetal.,2016).
+which characterized it as a candidate for modulating sensitivity in
+trastuzumab‐resistant BC. In fact, afatinib has displayed clinical
+4.1.8 | PF‐05280014
+activity in progressive solid tumors and trastuzumab resistance
+HER2+ BC (N. U. Lin et al., 2012). Furthermore, dual inhibition of PF‐05280014isunderinvestigationasapotentialherceptin.Recent
+HER2 with the combination of trastuzumab and afatinib which is a studieshavereportedthatneoadjuvanttreatmentwithPF‐05280014
+TKI, alone or in combination with chemotherapy, is a treatment administered in a mixture with carboplatin and docetaxel showed
+approachformetastaticandtrastuzumab‐resistant(Kümler,Tuxen,& non‐inferiorityinpharmacokineticsandcomparabilityinimmunogeni-
+Nielsen,2014). city, safety, and efficacy when compared with trastuzumab‐EU in
+combinationwithcarboplatinanddocetaxelinpatientswithrespect-
+able HER2+ BC (Lammers et al., 2018; J. Paik, 2018; M. D. Pegram
+4.1.4 | Pertuzumab
+etal.,2019).
+Pertuzumabisanothermonoclonalantibody,whichattemptstoblock
+ligand‐induced HER2/HER3 heterodimerization (Gradishar, 2012). 4.1.9 | CT‐P6 (Herzuma)
+This drug has a temperate antitumor clinical activity and also, it
+CT‐P6 is a biosimilar to trastuzumab with same efficacy and
+seems to be a very proper synergistic drug combined with
+pharmacokineticsand,equivalentimmunogenicityprofilesandsafety
+trastuzumab.Thediversemechanismsofactionoftrastuzumaband
+(Jeongetal., 2018).Inaveryrecentstudy, ithasbeenshownthat
+pertuzumabactcomplementarytoprepareamoreperfectinhibition
+CT‐P6actsinaparticularlysimilarmannertotrastuzumabbybinding
+insignaltransductionofHER2.Thiscombinedtreatmenthasstrongly
+to the HER2 receptor. Altogether, these results support further
+increasedantitumorfunctioninxenograftmodelswithareductionin
+evidence of the similarity between trastuzumab and CT‐P6 and
+the HER protein levels (Scheuer et al., 2009). Cortés et al. (2009)
+indicatethepossibleusageofCT‐P6acrosstrastuzumabindications showedthatthecombinationofpertuzumabandtrastuzumabcould
+(Jeongetal.,2018).
+reversetrastuzumabresistance.Thepatientswhoreceivedpertuzu-
+mabmonotherapyaftertrastuzumabhadclinicalbenefitrate(CBR)
+and the objective response rates of 3.4% and 10.3%, respectively. 4.1.10 | Margetuximab (MGAH22)
+However,inthepatientswhotakethecombinationafterprogression
+on trastuzumab, these rates were 17.6% and 41.2%, respectively MargetuximabisanantibodyagainstHER2bindingwithhighaffinity
+(Cortésetal.,2009).
+tothelow‐andhigh‐affinityformsofCD16A,anFc‐receptorcritical
+for ADCC in tumor cells. In a recent study, it was indicated that
+margetuximab was generally well tolerated and showed promising
+4.1.5 | Poziotinib singleantitumoractivity(Ohetal.,2017;Table2).
+Poziotinib is a new, oral pan‐HER kinase blocking agent, which has
+4.2 | Antibody–drug conjugates
+revealed effective antitumor actions via suppression of HER family
+tyrosine kinases activity. This drug has shown significant clinical 4.2.1 | T–DM1
+benefitsinheavily‐treatedHER2+MBCs.Biomarkerstudiesanalyz-
+Antibody–drugconjugates(ADCs)aretreatmentapproachesforthe
+ing pre‐ and on‐treatment biopsies are required to support further
+developmentofselectivelydeliverchemo‐therapeuticdrugstoward
+significantclinicaloutcomesofpoziotinibinHER2+MBC(Hanetal.,
+tumorswhereasnormaltissuetoxicitylimits.ADCscontainatumor‐
+2017;Kogaetal.,2018).
+targetingantibodyandcytotoxicsmallmolecules(payloads)attached
+through a chemical linker (Kim & Kim, 2015). T–DM1 consists of
+antibodytrastuzumab,covalentlyattachedbyathioethermolecular
+4.1.6 | Pyrotinib
+bondtotheantimicrotubulechemotherapyemtansine(DM1;Girish
+Pyrotinib is an oral, irreversible dual pan‐ErbB receptor TKI et al., 2012). Lapatanib plus capecitabine was compared in the
+acting against HER1, HER2, and HER4. The drug recently acquired EMILIAstudywithTrastuzumabemtansine(T–DM1),whichshowed
+conditional approval in China for utilizing in combination an important variation in OS and PFS improvement in patients
+with capecitabine for the therapy of the patients with HER2+ treated with the second regimen (Verma et al., 2012). T–DM1
+MBC (Ponde, Brandao, El‐Hachem, Werbrouck, & Piccart, 2018; improvedoverallsurvivalcomparedwithlapatinibpluscapecitabine
+Zhuetal.,2016). inHER2+MBCpatientsinthePhaseIIIEMILIAstudyfollowingthe
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+3150 DERAKHSHANIETAL.
+TABLE 2 HER2tyrosinekinaseinhibitors
+Typeofmoleculesandantibodies Mechanismofaction References
+Lapatinib BlockingtheHER1andHER2 (Blackwelletal.,2010;Konecnyetal.,2006)
+Neratinib BlockingtheHER1andHER2 (Bursteinetal.,2010;Rabindranetal.,2004)
+Afatinib TargetingtheHER2andHER4 (Canonicietal.,2018;Sequistetal.,2013;Tsang&
+Finn,2012)
+Pertuzumab BlockingtheheterodimerizationofHER2withHER3 (Gradishar,2012;Scheueretal.,2009)
+Poziotinib Anoralpan‐HERkinaseinhibitor (Hanetal.,2017;Kogaetal.,2018)
+Pyrotinib AdualinhibitorofbothEGFRandHER2 (Pondeetal.,2018;Zhuetal.,2016)
+Tucatinib SelectivelyinhibitsHER2 (Pondeetal.,2018;Zhuetal.,2016)
+PF‐05280014 Trastuzumabbiosimilar (Lammersetal.,2018;J.Paik,2018;M.D.Pegram
+etal.,2019)
+Margetuximab Trastuzumabbiosimilar (Ohetal.,2017)
+Herzuma BindingtotheHER2receptor (Jeongetal.,2018)
+(biosimilaroftrastuzumab)
+failureoffirst‐linetherapywithtaxaneandtrastuzumab(Sungetal., 4.2.5 | MEDI4276
+2018;Vermaetal.,2012).
+MEDI4276isaHER2‐targeting,bispecificantibodyspecificallytargets
+and binds to two different epitopes on HER2 linked to a new anti‐
+microtubuleblocker calledtubulysin. In HER2+ tumor cells including
+4.2.2 | SYD‐0985 T–DM1 resistant cells, MEDI4276 indicates increased cytolysis and
+cellularinternalization.Athigherdoses,MEDI4276hasclinicalactivity
+SYD‐0985,anagentcompoundmadeupoftrastuzumabconjugated
+withenhancingthetoxicity(M.Pegrametal.,2018).
+with duocarmycin is tested in patients with advanced stomach and
+breastcancers(Pondeetal.,2018).Inarecentstudy,itwasproved
+thatSYD985isanewADCwithsignificantactivityagainstepithelial 4.3 | PI3K/Akt/mTOR pathway inhibitors
+ovariancarcinoma(EOC)andHER2/neuexpression(Menderesetal.,
+mTOR is a serine‐threonine protein kinase that modulates cellular
+2017).
+metabolism through mRNA translation and protein synthesis.
+Activation of this pathway is involved in trastuzumab resistance.
+Also, some experiments have shown that targeting of mTOR might
+4.2.3 | DS‐8201a
+reversetrastuzumabresistance.
+DS‐8201a, an agent combining an exatecan derivate and an anti‐
+HER2 antibody, has alsodemonstrated Phase I results in atotal of 4.3.1 | Perifosine
+130patientssufferingfromadvancedBC,withanORRof61.4%in
+HER2+patientsand31.6%inHER2‐lowpatients(Pondeetal.,2018). Perifosine is an Akt inhibitor that undergoes clinical tests in the
+In experimental studies, DS‐8201a displayed a wider antitumor hematologicalandsolidtumorsofpatients.Duetohavingexcessive
+spectrumcomparedwithT–DM1,especiallyagainsttumorswithlow toxicityofAktinhibitorsinexperimentalmodels,anotherstrategyfor
+HER2expressing(Doietal.,2017). inhibition of PI3K/Akt signaling is utilized of small molecules that
+might inactivate the mTOR pathway. AP23573, RAD001, and CCI‐
+779werethreemTORinhibitorswhichevaluatedforclinicaltestfor
+the patients with BC and other solid tumors. According to the
+4.2.4 | TAK‐522 (XMT‐1522)
+previousreports,lowerPTEN‐expressioninbreasttumorscouldlead
+TAK‐522 (XMT‐1522) includes a novel, auristatin‐based cytotoxic to decreased response to trastuzumab. Also, drug discovery
+payload (Auristatin F‐hydroxypropylamide, AF‐HPA) and a novel programshavebeguntodevelopdirect,moreefficientandlesstoxic
+humanIgG1anti‐HER2monoclonalantibody.Currently,TAK‐522is blockers of the Akt kinase family (C.‐H. Lu et al., 2007; Ma et al.,
+being tested in phase‐1b trial patients with advanced breast, 2010;Pandolfi,2004).
+gastric, lung, and HER2 expressing cancers. In a very recent study,
+TAK‐522wasindicatedtobeasapotentialcandidateforcombina-
+4.4 | IGF‐1R inhibitors
+tion therapies with immune checkpoint modulators in patients
+suffering from poorly immunogenic HER2 expressing tumors As mentioned above, interactions and cross‐signaling between
+(Khattaretal.,2018). IGF and HER2 receptor families causing alternative signaling
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+DERAKHSHANIETAL. 3151
+network activation and trastuzumab resistance (Nahta et al., treatments.Now,second‐generationofHSP90inhibitorsisinthe
+2006). By disrupting the IGF‐1R/HER2 heterodimer, synergistic developmentphaseoftheclinicaltrial(Chandarlapatyetal.,2010;
+interactions with trastuzumab and inhibition of IGF1R Giacchettietal.,2006;Milleretal.,2007;Modietal.,2008;Solit&
+downstream signaling, experimental models of trastuzumab‐ Chiosis, 2008). Other hsp90 inhibitors such as retaspimycin and
+resistant HER2+ BC have restored trastuzumab sensitivity (Tsang AUY922, are now under assessment in the primary phase of
+&Finn,2012). clinical trials as single drugs or in combination with trastuzumab
+(Tsang&Finn,2012).
+4.5 | Bispecific antibodies
+4.8 | Network medicine based approaches
+Bispecificantibodies(BsAb)aremonoclonalantibodiesrecognizing
+two distinct epitopes in tandem, either in different receptors
+Thereisagrowinginsightthatwehavetoenhancethecomplexity
+or in the same receptor (Kontermann & Brinkmann, 2015).
+of our recommended therapies in case of complex mechanisms
+MCLA‐128 recognize both HER2 and HER3, causing increased
+such as trastuzumab resistance from a gene‐centered to a
+ADCC and ZW25 targets two distinct epitopes on the HER2‐ECD network‐centered perspective (Pujol, Mosca, Farrés, & Aloy,
+(Yuetal.,2017).
+2010; Z. Rezaei et al., 2019). Network‐centric therapeutic
+approaches mention targeting entire pathways instead of single
+4.6 | Blockade of PD‐1/PD‐L1 immune checkpoint proteins. The aim of these strategies would a combination of
+modulators and targets performing on many therapeutic points
+Programmeddeath1(PD‐1)performsasareversemodulatorofthe
+thatcanmakesynergisticeffectsoperatebyconvergingactionsat
+immune system. This coinhibitory receptor is highly expressed in
+particularpathwayareas.
+tumor‐infiltrating lymphocytes (TIL). PD‐L1 (PD‐1 ligand) is
+With the advances in high‐throughput expression profiling
+expressed by several cancers including BC. It is reported that
+technologies, trastuzumab resistance mechanism is being progres-
+targetingofPD‐1/PD‐L1wouldinhibitPD‐1/PD‐L1dependentpath-
+sivelydissectedthroughanalysisofBComicsdataforpredictionof
+waysincancer.Tcellinfiltrationcouldbeusedaspredictivemarkers
+responsetotreatment(Deckeretal.,2018;Wangetal.,2016).For
+ofthetrastuzumabefficacy(Denkertetal.,2010).Ithasbeenshown
+example,torecognizepathwayslinkedtoresistance,Creedonetal.
+thatPD‐1+TILsrelatedtopoorprognosisinHER2+BC(Muenstetal.,
+characterized a novel set of epithelial‐to‐mesenchymal transition
+2013). Moreover, emerging data have proposed the correlation
+(EMT)‐associated proteins linked to HER2‐independent resistance
+between the expression of PD‐L1 on tumor cells and response to
+using a systems biology approach. They proved that a subset
+anti‐PD‐1 therapy (Brahmer et al., 2010; Topalian et al., 2012).
+of EMT‐associated genes can be good candidates for prediction of
+Experimentalstudiesindicatedthesynergisticeffectoftrastuzumab
+BCs prognosis. Moreover, targeting the EMT‐associated kinases
+onanti‐PD1antibodies (J. Stagget al.,2011). Otherimmune‐based
+effectively inhibited the proliferation of resistant cells. They
+therapies,suchasantiCD73,havealsobeeninvestigated.Preclinical
+concludedthatinhibitorstothesekinasescanleadtoaninnovative
+data recommended that anti CD73 can reduce tumor growth and
+approach for the management of HER2‐independent resistance in
+metastases(J.Staggetal.,2010).
+differentcancers.
+4.7 | HSP90 inhibitors
+5 | CONCLUSIONS
+Heatshockprotein90(HSP90)isamolecularchaperoneandhasa
+criticalroleinthematurationandstabilizationofmanyoncogenic
+Recent surveys particularly suggest the effect of Trastuzumab on signalingproteins,suchasHER2/ERBB2(Basso,Solit,Munster,&
+HER2‐overexpressingBC.Nevertheless,thetrastuzumabresistance
+Rosen,2002;Erlichman,Toft,Ames,&Goetz,2003).Inhibitionof
+clinical problem is growing progressively important. In this regard,
+HSP90 would degrade of HSP90 client proteins (Ehrlich et al.,
+the identification of the trastuzumab resistance molecular mechan- 2009). HSP90 inhibitors plus trastuzumab show antitumor func-
+tion in HER2+ BC. HER2 overexpression BC cell lines and isms is more essential than ever. Therefore, it is suggested to
+recognizethemostappropriateHER2‐targetedtreatmentcombina-
+xenograft models subjected to HSP90 inhibitors demonstrated
+tion toward the goal of improving overall survival for metastatic
+thedegradationofHER2,inhibitionofPI3Ksignalingandgrowth
+HER2‐overexpressingBCpatients.
+suppression (X. Lu, Xiao, Wang, & Ruden, 2012). Phase I
+assessmentoftanespimycin,aninhibitorofHSP90,plustrastuzu-
+mab showed a clinical advantage for trastuzumab resistance
+ACKNOWLEDGMENT
+HER2+ BC patients, with four minor and one partial response. In
+PhaseIIofthesurvey,tanespimycinplustrastuzumabexhibiteda ThisstudywassupportedbyTabrizUniversityofMedicalSciences.
+response rate of 24% and a clinical benefit rate (CBR) of 57% in We thank our colleagues from Birjand University of Medical
+the patients with HER2+ MBC who had failed prior trastuzumab Sciences.
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+3152 DERAKHSHANIETAL.
+CONFLICT OF INTERESTS factorreceptor2–positivemetastaticbreastcancer:Finalresultsfromthe
+EGF104900study.JournalofClinicalOncology,30(21),2585–2592.
+Theauthorsdeclarethattherearenoconflictofinterests. Brahmer,J.R.,Drake,C.G.,Wollner,I.,Powderly,J.D.,Picus,J.,Sharfman,
+W. H., … Topalian, S. L. (2010). Phase I study of single‐agent anti‐
+programmeddeath‐1(MDX‐1106)inrefractorysolidtumors:Safety,
+AUTHOR CONTRIBUTIONS clinical activity, pharmacodynamics, and immunologic correlates.
+Journal of Clinical Oncology, 28(19), 3167–3175. 
+A.D.andZ.R.devisedthemainconceptualideas.A.D.,H.S.,M.S., 1200/jco.2009.26.7609
+andA.M.wrotetheinitialdraftofthemanuscript.A.A.,A.G.,M.A. Burstein,H.J.,Sun,Y.,Dirix,L.Y.,Jiang,Z.,Paridaens,R.,Tan,A.R.,…
+S.,andF.V.preparedfiguresandtables.B.BandZ.R.,K.H.reviewed Badwe, R. (2010). Neratinib, an irreversible ErbB receptor tyrosine
+kinase inhibitor, in patients with advanced ErbB2‐positive breast
+andeditedthemanuscript.B.B.supervisedthestudy.
+cancer.JournalofClinicalOncology,28(8),1301–1307.
+Canonici,A.,Ivers,L.,Conlon,N.T.,Pedersen,K.,Gaynor,N.,Browne,B.
+C., … Crown, J. (2018). HER‐targeted tyrosine kinase inhibitors
+DATA AVAILABILITY STATEMENT
+enhanceresponsetotrastuzumabandpertuzumabinHER2‐positive
+breastcancer.InvestigationalNewDrugs,37,441–451.
+Data sharing is not applicable to this article as no new data were
+10.1007/s10637‐018‐0649‐y
+Chandarlapaty,S.,Scaltriti,M.,Angelini,P.,Ye,Q.,Guzman,M.,Hudis,C.
+createdoranalyzedinthisstudy.
+A.,…Rosen,N.(2010).InhibitorsofHSP90blockp95‐HER2signaling
+intrastuzumab‐resistanttumorsandsuppresstheirgrowth.Oncogene,
+29(3),325–334.
+ORCID
+Cho,H.S.,Mason,K.,Ramyar,K.X.,Stanley,A.M.,Gabelli,S.B.,Denney,
+D.W.,Jr.,&Leahy,D.J.(2003).Structureoftheextracellularregionof
+AfshinDerakhshani 
+HER2 alone and in complex with the herceptin Fab. Nature,
+BehzadBaradaran  421(6924),756–760.
+Christianson, T. A., Doherty, J. K., Lin, Y. J., Ramsey, E. E., Holmes, R.,
+Keenan,E.J.,&Clinton,G.M.(1998).NH2‐terminallytruncatedHER‐
+2/neuprotein:Relationshipwithsheddingoftheextracellulardomain
+REFERENCES andwithprognosticfactorsinbreastcancer.CancerResearch,58(22),
+5123–5129.
+Armaiz‐Pena, G. N., Allen, J. K., Cruz, A., Stone, R. L., Nick, A. M., Chung,Y.C.,Chang,C.M.,Wei,W.C.,Chang,T.W.,Chang,K.J.,&Chao,
+Lin,Y.G.,…Sood,A.K.(2013).Srcactivationbyβ‐adrenoreceptorsis W. T. (2018). Metformin‐induced caveolin‐1 expression promotes
+akeyswitchfortumourmetastasis.NatureCommunications,4,1403. T‐DM1 drug efficacy in breast cancer cells. Scientific Reports, 8(1),
+Arnould,L.,Gelly,M.,Penault‐Llorca,F.,Benoit,L.,Bonnetain,F.,Migeon, 3930.
+C., … Coudert, B. (2006). Trastuzumab‐based treatment of HER2‐ Vu,T.,&Claret,F.X.(2012).Trastuzumab:Updatedmechanismsofaction
+positive breast cancer: An antibody‐dependent cellular cytotoxicity andresistanceinbreastcancer.FrontiersinOncology,2,62.
+mechanism?BritishJournalofCancer,94(2),259–267.
+Clynes,R.A.,Towers,T.L.,Presta,L.G.,&Ravetch,J.V.(2000).Inhibitory
+10.1038/sj.bjc.6602930 Fcreceptorsmodulateinvivocytoxicityagainsttumortargets.Nature
+Arteaga,C.L.,Sliwkowski,M.X.,Osborne,C.K.,Perez,E.A.,Puglisi,F.,& Medicine,6(4),443–446.
+Gianni,L.(2012).TreatmentofHER2‐positivebreastcancer:Current Codony‐Servat,J.,Albanell,J.,Lopez‐Talavera,J.C.,Arribas,J.,&Baselga,
+statusandfutureperspectives.NatureReviewsClinicalOncology,9(1), J. (1999). Cleavage of the HER2 ectodomain is a pervanadate‐
+16–32.
+activable process that is inhibited by the tissue inhibitor of
+Baselga,J.,Albanell,J.,Molina,M.A.,&Arribas,J.(2001).Mechanismof metalloproteases‐1 in breast cancer cells. Cancer Research, 59(6),
+action of trastuzumab and scientific update. Paper presented at the 1196–1201.
+seminarsinoncology. Colomer,R.,Montero,S.,Lluch,A.,Ojeda,B.,Barnadas,A.,Casado,A.,…
+Basso, A.D., Solit,D.B., Munster, P. N., & Rosen, N.(2002). Ansamycin Lloveras, B. (2000). Circulating HER2 extracellular domain and
+antibiotics inhibit Akt activation and cyclin D expression in breast resistancetochemotherapyinadvancedbreastcancer.ClinicalCancer
+cancercellsthatoverexpressHER2.Oncogene,21(8),1159–1166. Research,6(6),2356–2362.
+Berns,K.,Horlings,H.M.,Hennessy,B.T.,Madiredjo,M.,Hijmans,E.M., Cortés,J.,Baselga,J.,Petrella,T.,Gelmon,K.,Fumoleau,P.,Verma,S.,…
+Beelen, K., … Bernards, R. (2007). A functional genetic approach Gianni, L. (2009). Pertuzumab monotherapy following trastuzumab‐
+identifiesthePI3Kpathwayasamajordeterminantoftrastuzumab basedtreatment:Activityandtolerabilityinpatientswithadvanced
+resistance in breast cancer.CancerCell, 12(4), 395–402.  HER2‐positive breast cancer. Journal of Clinical Oncology, 27(15S),
+org/10.1016/j.ccr.2007.08.030 1022–1022.
+Bertelsen, V., & Stang, E. (2014). The mysterious ways of ErbB2/HER2 de Groot, S., Charehbili, A., van Laarhoven, H. W. M., Mooyaart, A. L.,
+trafficking. Membranes, 4(3), 424–446.  Dekker‐Ensink,N.G.,vandeVen,S.,…Kroep,J.R.(2016).Insulin‐like
+membranes4030424 growth factor 1 receptor expression and IGF1R 3129G > T
+Blackwell, K. L., Burstein, H. J., Storniolo, A. M., Rugo, H., Sledge, G., polymorphism are associated with response to neoadjuvant che-
+Koehler, M., … O’Shaughnessy, J. (2010). Randomized study of motherapy in breast cancer patients: Results from the NEOZOTAC
+lapatinib alone or in combination with trastuzumab in women with trial (BOOG 2010‐01). Breast Cancer Research, 18(1), 3. 
+ErbB2‐positive, trastuzumab‐refractory metastatic breast cancer. org/10.1186/s13058‐015‐0663‐3
+JournalofClinicalOncology,28(7),1124–1130.
+Decker,J.T.,Hall,M.S.,Blaisdell,R.B.,Schwark,K.,Jeruss,J.S.,&Shea,L.
+Blackwell,K.L.,Burstein,H.J.,Storniolo,A.M.,Rugo,H.S.,Sledge,G.,Aktan, D.(2018).DynamicmicroRNAactivityidentifiestherapeutictargets
+G.,…O’Shaughnessy,J.(2012).Overallsurvivalbenefitwithlapatinibin in trastuzumab‐resistant HER2+breast cancer. Biotechnology and
+combinationwithtrastuzumabforpatientswithhumanepidermalgrowth Bioengineering,115(10),2613–2623.
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+DERAKHSHANIETAL. 3153
+Denkert,C.,Loibl,S.,Noske,A.,Roller,M.,Müller,B.M.,Komor,M.,…von factorinpatientswithmetastaticbreastcancer:CancerandLeukemia
+Minckwitz,G.(2010).Tumor‐associatedlymphocytesasanindepen- GroupBStudy8662.ClinicalCancerResearch,7(9),2703–2711.
+dent predictor of response to neoadjuvant chemotherapy in breast Hudziak,R.M.,Lewis,G.D.,Winget,M.,Fendly,B.M.,Shepard,H.M.,&
+cancer.JournalofClinicalOncology,28(1),105–113. Ullrich,A.(1989).p185HER2monoclonalantibodyhasantiprolifera-
+1200/JCO.2009.23.7370 tiveeffectsinvitroandsensitizeshumanbreasttumorcellstotumor
+Derakhshani,A.,Vahidian,F.,Alihasanzadeh,M.,Mokhtarzadeh,A.,Lotfi necrosisfactor.MolecularandCellularBiology,9(3),1165–1172.
+Nezhad,P.,&Baradaran,B.(2019).Mastcells:Adouble‐edgedsword Isola,J.J.,Holli,K.,Oksa,H.,Teramoto,Y.,&Kallioniemi,O.‐P.(1994).
+in cancer.Immunology Letters, 209, 28–35.  Elevated erbB‐2 oncoprotein levels in preoperative and follow‐up
+imlet.2019.03.011 serumsamplesdefineanaggressivediseasecourseinpatientswith
+Doi,T.,Iwata,H.,Tsurutani,J.,Takahashi,S.,Park,H.,Redfern,C.H.,… breastcancer.Cancer,73(3),652–658.
+Iwasa,T.(2017).SingleagentactivityofDS‐8201a,aHER2‐targeting 0142(19940201)73:3<652::AID‐CNCR2820730324>3.0.CO;2‐4
+antibody‐drugconjugate,inheavilypretreatedHER2expressingsolid Jeong,S.A.,Choi,J.M.,Park,J.M.,Lee,J.Y.,Lee,S.J.,Lee,S.Y.,…Chang,
+tumors.JournalofClinicalOncology,35(15),Suppl108. S.J.(2018).MechanismofactionofthetrastuzumabbiosimilarCT‐P6.
+Drebin, J. A., Link, V. C., Stern, D. F., Weinberg, R. A., & Greene, M. I. Expert Opinion on Biological Therapy, 1–11. 
+(1985). Down‐modulation of an oncogene protein product and 14712598.2019.1554052
+reversion of the transformed phenotype by monoclonal antibodies. Jerome,L.,Alami,N.,Belanger,S.,Page,V.,Yu,Q.,Paterson,J.,…Leyland‐
+Cell,41(3),695–706. Jones, B. (2006). Recombinant human insulin‐like growth factor
+Ehrlich, E. S., Wang, T., Luo, K., Xiao, Z., Niewiadomska, A. M., bindingprotein3inhibitsgrowthofhumanepidermalgrowthfactor
+Martinez, T., … Yu, X. F. (2009). Regulation of Hsp90 client receptor‐2‐overexpressing breast tumors and potentiates herceptin
+proteinsbyaCullin5‐RINGE3ubiquitinligase.Proceedingsofthe activityinvivo.CancerResearch,66(14),7245–7252.
+NationalAcademyofSciences,106(48),20330–20335. 10.1158/0008‐5472.Can‐05‐3555
+org/10.1073/pnas.0810571106 Junttila, T. T., Akita, R. W., Parsons, K., Fields, C., Lewis Phillips, G. D.,
+Goetz,M.P.(2003).TheHsp90chaperonecomplexasanoveltargetfor Friedman, L. S., … Sliwkowski, M. X. (2009). Ligand‐Independent
+cancertherapy.AnnalsofOncology,14(8),1169–1176. HER2/HER3/PI3K complex is disrupted by trastuzumab and is
+10.1093/annonc/mdg316%JAnnalsofOncology effectively inhibited by the PI3K inhibitor GDC‐0941. Cancer Cell,
+Filipits, M., Dafni, U., Gnant, M., Polydoropoulou, V., Hills, M., 15(5),429–440.
+Kiermaier,A.,…Dowsett,M.(2018).Associationofp27andcyclin Kallergi,G.,Agelaki,S.,Papadaki,M.A.,Nasias,D.,Matikas,A.,Mavroudis,
+D1expressionandbenefitfromadjuvanttrastuzumabtreatmentin D., & Georgoulias, V. (2015). Expression of truncated human
+HER2‐positive early breast cancer: A transHERA study. Clinical epidermal growth factor receptor 2 on circulating tumor cells of
+Cancer Research, 24(13), 3079–3086.  breastcancerpatients.BreastCancerResearch,17(1),113.
+1078‐0432.Ccr‐17‐3473 org/10.1186/s13058‐015‐0624‐x
+Fornier,M.N.,Seidman,A.D.,Schwartz,M.K.,Ghani,F.,Thiel,R.,Norton, Khattar,M.,Traore,T.,Horton,K.,Gallery,M.,Brauer,P.,Riceberg,J.,…
+L.,&Hudis,C.(2005).SerumHER2extracellulardomaininmetastatic Lowinger,T.B.(2018).Synergyofananti‐HER2ADCTAK‐522(XMT‐
+breast cancer patients treated with weekly trastuzumab and 1522)incombinationwithanti‐PD1monoclonalantibody(mAb)ina
+paclitaxel: Association with HER2 status by immunohistochemistry syngeneicbreastcancermodelexpressinghumanHER2.TheJournalof
+andfluorescenceinsituhybridizationandwithresponserate.Annals Immunology,200(1),122–129.
+ofOncology,16(2),234–239. Kim,E.G.,&Kim,K.M.(2015).Strategiesandadvancementinantibody‐
+García‐Parra, J., Dalmases, A., Morancho, B., Arpí, O., Menendez, S., drug conjugate optimization for targeted cancer therapeutics.
+Sabbaghi, M., … Albanell, J. (2014). Poly (ADP‐ribose) polymerase Biomolecules & Therapeutics, 23(6), 493–509. 
+inhibition enhances trastuzumab antitumour activity in HER2 over- 4062/biomolther.2015.116
+expressing breast cancer. European Journal of Cancer, 50(15), Klapper,L.N.,Waterman,H.,Sela,M.,&Yarden,Y.(2000).Tumor‐inhibitory
+2725–2734. antibodiestoHER‐2/ErbB‐2mayactbyrecruitingc‐Cblandenhancing
+Giacchetti,S.,Bjarnason,G.,Garufi,C.,Genet,D.,Iacobelli,S.,Tampellini, ubiquitinationofHER‐2.CancerResearch,60(13),3384–3388.
+M.,…Lévi,F.(2006).PhaseIIItrialcomparing4‐daychronomodulated Klos,K.S.,Zhou,X.,Lee,S.,Zhang,L.,Yang,W.,Nagata,Y.,&Yu,D.(2003).
+therapyversus2‐dayconventionaldeliveryoffluorouracil,leucovorin, CombinedtrastuzumabandpaclitaxeltreatmentbetterinhibitsErbB‐
+and oxaliplatin as first‐line chemotherapy of metastatic colorectal 2‐mediated angiogenesis in breast carcinoma through a more
+cancer: The European Organisation for Research and Treatment of effective inhibition of Akt than either treatment alone. Cancer,
+Cancer Chronotherapy group. Journal of Clinical Oncology, 24(22), 98(7),1377–1385.
+3562–3569. Koga,T.,Kobayashi,Y.,Tomizawa,K.,Suda,K.,Kosaka,T.,Sesumi,Y.,…
+Girish,S.,Gupta,M.,Wang,B.,Lu,D.,Krop,I.E.,Vogel,C.L.,…Joshi,A. Mitsudomi,T.(2018).ActivityofanovelHER2inhibitor,poziotinib,
+(2012).Clinicalpharmacologyoftrastuzumabemtansine(T‐DM1):An for HER2 exon 20 mutations in lung cancer and mechanism of
+antibody–drugconjugateindevelopmentforthetreatmentofHER2‐ acquired resistance: An in vitro study. Lung Cancer, 126, 72–79.
+positive cancer. Cancer Chemotherapy and Pharmacology, 69(5), 
+1229–1240. Konecny,G.E.,Pegram,M.D.,Venkatesan,N.,Finn,R.,Yang,G.,Rahmeh,
+Gradishar, W. J. (2012). HER2 therapy–an abundance of riches. New M., … Slamon, D. J. (2006). Activity of the dual kinase inhibitor
+EnglandJournalofMedicine,366(2),176–178. lapatinib (GW572016) against HER‐2‐overexpressing and trastuzu-
+Han,J.Y.,Lee,K.H.,Kim,S.W.,Min,Y.J.,Cho,E.,Lee,Y.,…Lee,J.S.(2017). mab‐treatedbreastcancercells.CancerResearch,66(3),1630–1639.
+AphaseIIstudyofpoziotinibinpatientswithepidermalgrowthfactor Kontermann, R. E., & Brinkmann, U. (2015). Bispecific antibodies. Drug
+receptor (EGFR)‐mutant lung adenocarcinoma who have acquired Discovery Today, 20(7), 838–847. 
+resistance to EGFR‐tyrosine kinase inhibitors. Cancer Research and 2015.02.008
+Treatment,49(1),10–19. Korkaya,H.,Paulson,A.,Iovino,F.,&Wicha,M.S.(2008).HER2regulates
+Hayes,D.F.,Yamauchi,H.,Broadwater,G.,Cirrincione,C.T.,Rodrigue,S. themammarystem/progenitorcellpopulationdrivingtumorigenesis
+P.,Berry,D.A.,…CancerandLeukemiaGroup,B.(2001).Circulating andinvasion.Oncogene,27(47),6120–6130.
+HER‐2/erbB‐2/c‐neu (HER‐2) extracellular domain as a prognostic onc.2008.207
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+3154 DERAKHSHANIETAL.
+Kufe, D. W. (2013). MUC1‐C oncoprotein as a target in breast cancer: trastuzumab (T). Journal of Clinical Oncology, 25(18_suppl),
+Activation of signaling pathways and therapeutic approaches. 1115–1115.
+Oncogene,32(9),1073–1081. Moasser,M.M.(2007).TargetingthefunctionoftheHER2oncogenein
+Kümler,I.,Tuxen,M.K.,&Nielsen,D.L.(2014).Asystematicreviewof human cancer therapeutics. Oncogene, 26(46), 6577–6592. https://
+dual targeting in HER2‐positive breast cancer. Cancer Treatment doi.org/10.1038/sj.onc.1210478
+Reviews,40(2),259–270. Modi,S.,Sugarman,S.,Stopeck,A.,Linden,H.,Ma,W.,Kersey,K.,…Hudis,
+Lammers,P.E.,Dank,M.,Masetti,R.,Abbas,R.,Hilton,F.,Coppola,J.,& C.A.(2008).PhaseIItrialoftheHsp90inhibitortanespimycin(Tan)+
+Jacobs,I.(2018).NeoadjuvantPF‐05280014(apotentialtrastuzumab trastuzumab(T)inpatients(pts)withHER2‐positivemetastaticbreast
+biosimilar) versus trastuzumab for operable HER2+ breast cancer. cancer(MBC).JournalofClinicalOncology,26(15),1027–1027.https://
+British Journal of Cancer, 119(3), 266–273.  doi.org/10.1200/jco.2008.26.15_suppl.1027
+s41416‐018‐0147‐1 Molina, M. A., Codony‐Servat, J., Albanell, J., Rojo, F., Arribas, J., &
+Lane,H.,Motoyama,A.,Beuvink,I.,&Hynes,N.E.(2001).Modulationof Baselga, J. (2001). Trastuzumab (herceptin), a humanized anti‐Her2
+p27/Cdk2 complex formation through 4D5‐mediated inhibition of receptor monoclonal antibody, inhibits basal and activated Her2
+HER2receptorsignaling.AnnalsofOncolgy,12(Suppl_1),S21–S22. ectodomaincleavageinbreastcancercells.CancerResearch,61(12),
+Le,X.‐F.,Lammayot,A.,Gold,D.,Lu,Y.,Mao,W.,Chang,T.,…Bast,R.C. 4744–4749.
+(2005).Genesaffectingthecellcycle,growth,maintenance,anddrug Muenst,S.,Soysal,S.D.,Gao,F.,Obermann,E.C.,Oertli,D.,&Gillanders,
+sensitivity are preferentially regulated by Anti‐HER2 antibody W.E. (2013). Thepresence of programmed death 1(PD‐1)‐positive
+through phosphatidylinositol 3‐kinase‐AKT signaling. Journal of tumor‐infiltrating lymphocytes is associated with poor prognosis in
+BiologicalChemistry,280(3),2092–2104. human breast cancer. Breast Cancer Research and Treatment, 139(3),
+Leitzel,K.,Teramoto,Y.,Konrad,K.,Chinchilli,V.M.,Volas,G.,Grossberg, 667–676.
+H.,… Lipton,A.(1995).Elevatedserum c‐erbB‐2antigenlevelsand Nagata, Y., Lan, K. H., Zhou, X., Tan, M., Esteva, F. J., Sahin, A. A., …
+decreasedresponsetohormonetherapyofbreastcancer.Journalof Yu, D. (2004). PTEN activation contributes to tumor inhibition by
+ClinicalOncology,13(5),1129–1135. trastuzumab, and loss of PTEN predicts trastuzumab resistance in
+Lin,N.U.,Winer,E.P.,Wheatley,D.,Carey,L.A.,Houston,S.,Mendelson, patients. Cancer Cell, 6(2), 117–127. 
+D.,…Hickish,T.(2012).AphaseIIstudyofafatinib(BIBW2992),an 2004.06.022
+irreversible ErbB family blocker, in patients with HER2‐positive Nagy,P.,Friedländer,E.,Tanner,M.,Kapanen,A.I.,Carraway,K.L.,Isola,
+metastaticbreastcancerprogressingaftertrastuzumab.BreastCancer J.,&Jovin,T.M.(2005).Decreasedaccessibilityandlackofactivation
+ResearchandTreatment,133(3),1057–1065. of ErbB2 in JIMT‐1, a herceptin‐resistant, MUC4‐expressing breast
+s10549‐012‐2003‐y cancercellline.CancerResearch,65(2),473–482.
+Lin,Y.Z.,&Clinton,G.M.(1991).AsolubleproteinrelatedtotheHER‐2 Nahta,R.,Yu,D.,Hung,M.C.,Hortobagyi,G.N.,&Esteva,F.J.(2006).
+proto‐oncogene product is released from human breast carcinoma Mechanismsofdisease:UnderstandingresistancetoHER2‐targeted
+cells.Oncogene,6(4),639–643. therapyinhumanbreastcancer.NatureClinicalPracticeOncology,3(5),
+Liu,D.,Yang,Z.,Wang,T.,Yang,Z.,Chen,H.,Hu,Y.,…Guo,N.(2016).β2‐ 269–280.
+AR signaling controls trastuzumab resistance‐dependent pathway. Nami,B.,Maadi,H.,&Wang,Z.(2018).Mechanismsunderlyingtheaction
+Oncogene,35(1),47–58. and synergism of trastuzumab and pertuzumab in targeting HER2‐
+Louie, M. C., & Sevigny, M. B. (2017). Steroid hormone receptors as positivebreastcancer.Cancers,10(10),342.
+prognostic markers in breast cancer. American Journal of Cancer cancers10100342
+Research,7(8),1617–1636. Oh,D.Y.,Im,S.A.,Bang,Y.J.,Giaccone,G.,Burris,H.A.,Bauer,T.M.,…
+Lu,C.‐H.,Wyszomierski,S.L.,Tseng,L.‐M.,Sun,M.‐H.,Lan,K.‐H.,Neal, Stewart,S.J.(2017).First‐in‐humanphase1studyofmargetuximab
+C. L., … Yu, D. (2007). Preclinical testing of clinically applicable (MGAH22),anFc‐modifiedchimericmonoclonalantibody,inpatients
+strategies for overcoming trastuzumab resistance caused by PTEN withHER2‐positiveadvancedsolidtumors.AnnalsofOncology,28(4),
+deficiency.ClinicalCancerResearch,13(19),5883–5888. 855–861.doi:10.1093/annonc/mdx002%JAnnalsofOncology.
+Lu,X.,Xiao,L.,Wang,L.,&Ruden,D.M.(2012).Hsp90inhibitorsanddrug Pai, P., Rachagani, S., Lakshmanan, I., Macha, M. A., Sheinin, Y.,
+resistanceincancer:Thepotentialbenefitsofcombinationtherapies Smith, L. M., … Batra, S. K. (2016). The canonical Wnt pathway
+of Hsp90 inhibitors and other anti‐cancer drugs. Biochemical regulates the metastasis‐promoting mucin MUC4 in pancreatic
+Pharmacology, 83(8), 995–1004.  ductal adenocarcinoma. Molecular Oncology, 10(2), 224–239.
+11.011 
+Ma,J.,Meng,Y.,Kwiatkowski,D.J.,Chen,X.,Peng,H.,Sun,Q.,…Zhang,H. Paik,J.(2018).PF‐05280014:Atrastuzumabbiosimilar.BioDrugs,32(5),
+(2010).Mammaliantargetofrapamycinregulatesmurineandhuman 515–518.
+cell differentiation through STAT3/p63/Jagged/Notch cascade. Jour- Paik, S., Kim, C., & Wolmark, N. (2008). HER2 status and benefit from
+nalofClinicalInvestigation,120(1),103–114. adjuvanttrastuzumabinbreastcancer.NewEnglandJournalofMedicine,
+Martin‐Castillo, B., Oliveras‐Ferraros, C., Vazquez‐Martin, A., Cufí, S., 358(13),1409–1411.
+Moreno,J.M.,Corominas‐Faja,B.,…Menendez,J.A.(2013).Basal/ Pandolfi,P.P.(2004).Breastcancer—lossofPTENpredictsresistanceto
+HER2breastcarcinomas:Integratingmoleculartaxonomywithcancer treatment.NewEnglandJournalofMedicine,351(22),2337–2338.
+stem cell dynamics to predict primary resistance to trastuzumab Pegram, M., Hamilton, E., Tan, A. R., Storniolo, A. M., Elgeioushi, N.,
+(Herceptin). Cell Cycle, 12(2), 225–245.  Marshall,S.,…Patel,M.(2018).47OPhase1studyofbispecificHER2
+23274 antibody‐drugconjugateMEDI4276inpatientswithadvancedHER2‐
+Menderes, G., Bonazzoli, E., Bellone, S., Black, J., Altwerger, G., positive breast or gastric cancer. Annals of Oncology, 29(suppl_3),
+Masserdotti,A.,…Santin,A.D.(2017).SYD985,anovelduocarmy- 
+cin‐basedHER2‐targetingantibody‐drugconjugate,showspromising Pegram,M.D.,Bondarenko,I.,Zorzetto,M.M.C.,Hingmire,S.,Iwase,H.,
+antitumor activity in epithelial ovarian carcinoma with HER2/Neu Krivorotko,P.V.,…Tan‐Chiu,E.(2019).PF‐05280014(atrastuzumab
+expression.GynecologicOncology,146(1),179–186. biosimilar)pluspaclitaxelcomparedwithreferencetrastuzumabplus
+1016/j.ygyno.2017.04.023 paclitaxelforHER2‐positivemetastaticbreastcancer:Arandomised,
+Miller,K.,Rosen,L.,Modi,S.,Schneider,B.,Roy,J.,Chap,L.,…Hudis,C. double‐blindstudy.BritishJournalofCancer,120(2),172–182.https://
+(2007). Phase I trial of alvespimycin (KOS‐1022; 17‐DMAG) and doi.org/10.1038/s41416‐018‐0340‐2
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+DERAKHSHANIETAL. 3155
+Pereira,P.M.R., Sharma, S.K.,Carter, L.M.,Edwards, K.J.,Pourat,J., cells via Src‐focal adhesion kinase and forkhead box protein M1.
+Ragupathi, A., … Lewis, J. S. (2018). Caveolin‐1 mediates cellular MolecularPharmacology,87(2),150–161.
+distributionofHER2andaffectstrastuzumabbindingandtherapeutic 114.095380
+efficacy.NatureCommunications,9(1),5137. Scaltriti,M.,Eichhorn,P.J.,Cortés,J.,Prudkin,L.,Aura,C.,Jiménez,J.,…
+s41467‐018‐07608‐w Baselga, J. (2011). Cyclin E amplification/overexpression is a
+Pietras, R. J., Poen, J. C., Gallardo, D., Wongvipat, P. N., Lee, H. J., & mechanism of trastuzumab resistance in HER2+breast cancer
+Slamon, D. J. (1999). Monoclonal antibody to HER‐2/neureceptor patients. Proceedings of the National Academy of Sciences, 108(9),
+modulates repair of radiation‐induced DNA damage and enhances 3761–3766.
+radiosensitivity of human breast cancer cells overexpressing this Scaltriti, M., Rojo, F., Ocana, A., Anido, J., Guzman, M., Cortes, J., …
+oncogene.CancerResearch,59(6),1347–1355. Baselga,J.(2007).Expressionofp95HER2,atruncatedformofthe
+Pondé, N., Brandão, M., El‐Hachem, G., Werbrouck, E., & Piccart, M. HER2receptor,andresponsetoanti‐HER2therapiesinbreastcancer.
+(2018). Treatment of advanced HER2‐positive breast cancer: 2018 JNCIJournaloftheNationalCancerInstitute,99(8),628–638.https://
+andbeyond.CancerTreatmentReviews,67,10–20. doi.org/10.1093/jnci/djk134
+1016/j.ctrv.2018.04.016 Scheuer,W.,Friess,T.,Burtscher,H.,Bossenmaier,B.,Endl,J.,&Hasmann,
+Press,M.F.,Bernstein,L.,Thomas,P.A.,Meisner,L.F.,Zhou,J.Y.,Ma,Y.,… M.(2009).Stronglyenhancedantitumoractivityoftrastuzumaband
+Flom, K. J. (1997). HER‐2/neu gene amplification characterized by pertuzumab combination treatment on HER2‐positive human xeno-
+fluorescence in situ hybridization: Poor prognosis in node‐negative grafttumormodels.CancerResearch,69(24),9330–9336.
+breast carcinomas. Journal of Clinical Oncology, 15(8), 2894–2904. Seidman, A. D., Berry, D., Cirrincione, C., Harris, L., Muss, H., Marcom,
+ P. K., … Hudis, C. (2008). Randomized phase III trial of weekly
+Pujol, A., Mosca, R., Farrés, J., & Aloy, P. (2010). Unveiling the role of comparedwithevery‐3‐weekspaclitaxelformetastaticbreastcancer,
+networkandsystemsbiologyindrugdiscovery.TrendsInPharmaco- withtrastuzumab forall HER‐2overexpressors andrandom assign-
+logical Sciences, 31(3), 115–123.  ment to trastuzumab or not in HER‐2 nonoverexpressors: Final
+11.006 results of Cancer and Leukemia Group B protocol 9840. Journal of
+Pupa,S.M.,Ménard,S.,Morelli,D.,Pozzi,B.,DePalo,G.,&Colnaghi,M.I. Clinical Oncology, 26(10), 1642–1649. 
+(1993). The extracellular domain of the c‐erbB‐2 oncoprotein is 2007.11.6699
+released from tumor cells by proteolytic cleavage. Oncogene, 8(11), Seo,A.N.,Lee,H.J.,Kim,E.J.,Jang,M.H.,Kim,Y.J.,Kim,J.H.,…Park,
+2917–2923. S. Y. (2016). Expression of breast cancer stem cell markers as
+Rabindran,S.K.,Discafani,C.M.,Rosfjord,E.C.,Baxter,M.,Floyd,M.B., predictors of prognosis and response to trastuzumab in HER2‐
+Golas, J., … Wissner, A. (2004). Antitumor activity of HKI‐272, an positivebreastcancer.BritishJournalofCancer,114(10),1109–1116.
+orally active, irreversible inhibitor of the HER‐2 tyrosine kinase. Sequist,L.V.,Yang,J.C.H.,Yamamoto,N.,O’Byrne,K.,Hirsh,V.,Mok,T.,
+CancerResearch,64(11),3958–3965. … Schuler, M. (2013). Phase III study of afatinib or cisplatin plus
+Raina,D.,Uchida,Y.,Kharbanda,A.,Rajabi,H.,Panchamoorthy,G.,Jin,C.,… pemetrexed in patients with metastatic lung adenocarcinoma with
+Kufe, D. (2014). Targeting the MUC1‐C oncoprotein downregulates EGFR mutations. Journal of Clinical Oncology, 31(27), 3327–3334.
+HER2activationandabrogatestrastuzumabresistanceinbreastcancer 
+cells.Oncogene,33(26),3422–3431. Sharma,A.,&Jayanth,A.(2010).Neratinib,anirreversibleerbBreceptor
+308 tyrosine kinase inhibitor, in patients with advanced erbB2‐positive
+Razis, E., Bobos, M., Kotoula, V., Eleftheraki, A. G., Kalofonos, H. P., breastcancer.AdvancesinOncology,5(2),21–22.
+Pavlakis,K.,…Fountzilas,G.(2011).Evaluationoftheassociationof Siegel,R.,Ma,J.,Zou,Z.,&Jemal,A.(2014).Cancerstatistics,2014.CA:A
+PIK3CA mutations and PTEN loss with efficacy of trastuzumab CancerJournalforClinicians,64(1),9–29.
+therapy in metastatic breast cancer. Breast Cancer Research and 21208
+Treatment, 128(2), 447–456.  Slamon, D., Clark, G., Wong, S., Levin, W., Ullrich, A., & McGuire, W.
+1572‐5 (1987).Humanbreastcancer:Correlationofrelapseandsurvivalwith
+Rezaei,Z.,&Derakhshani,A.(2018).EvaluationofmiR‐340expressionin amplification of the HER‐2/neu oncogene. Science, 235(4785),
+Bt474trastuzumabresistantcell.PaperpresentedattheALLERGY. 177–182.
+Rezaei,Z.,Kordi‐Tamandani,D.,&Dastjerdi,K.(2018).Bonemorphogenic Sliwkowski,M.X.,Lofgren,J.A.,Lewis,G.D.,Hotaling,T.E.,Fendly,B.M.,
+protein receptor type 1a (BMPR1A) and Caveolin‐1 contribute to & Fox, J. A. (1999). Nonclinical studies addressing the mechanism of
+trastuzumab resistance of breast cancer cells. Paper presented at the actionoftrastuzumab(Herceptin).PaperpresentedattheSeminarsin
+FEBSOPENBIO. oncology.
+Rezaei, Z., Sebzari, A., Kordi‐Tamandani, D. M., & Dastjerdi, K. (2019). Solit,D.(2008).DevelopmentandapplicationofHsp90inhibitors.Drug
+Involvement of the dysregulation of miR‐23b‐3p, miR‐195‐5p, miR‐ DiscoveryToday,13(1),38–43.
+656‐5p,andmiR‐340‐5pintrastuzumabresistanceofHER2‐positive Sperinde,J.,Bachmeier,B.,Weidler,J.,Lie,Y.,Chenna,A.,Winslow,J.,…
+breast cancer cells and system biology approach to predict their Petropoulos, C. (2016). Abstract P3‐07‐09: Quantitative p95HER2
+targetsinvolvedinresistance.DNAandCellBiology,38(2),184–192. protein expression is predictive of trastuzumab response in HER2‐
+ positivemetastaticbreastcancer.CancerResearch,76(4),Suppl.
+RiusRuiz,I.,Vicario,R.,Morancho,B.,Morales,C.B.,Arenas,E.J.,Herter, Sperinde,J.,Huang,W.,Vehtari,A.,Chenna,A.,Kellokumpu‐Lehtinen,P.
+S.,…Arribas,J.(2018).p95HER2–Tcellbispecificantibodyforbreast L., Winslow, J., … Joensuu, H. (2018). p95HER2 methionine 611
+cancertreatment.ScienceTranslationalMedicine,10(461),eaat1445. carboxy‐terminal fragment is predictive of trastuzumab adjuvant
+Saisana,M.,Griffin,S.M.,&May,F.E.B.(2016).ImportanceofthetypeI treatmentbenefitintheFinHertrial.ClinicalCancerResearch,24(13),
+insulin‐likegrowthfactorreceptorinHER2,FGFR2andMET‐unamplified 3046–3052.
+gastriccancerwithandwithoutRaspathwayactivation.Oncotarget,7(34), Stagg,J.,Divisekera,U.,McLaughlin,N.,Sharkey,J.,Pommey,S.,Denoyer,
+54445–54462. D.,…Smyth,M.J.(2010).Anti‐CD73antibodytherapyinhibitsbreast
+Sanabria‐Figueroa,E.,Donnelly,S.M.,Foy,K.C.,Buss,M.C.,Castellino,R. tumorgrowthandmetastasis.ProceedingsoftheNationalAcademyof
+C., Paplomata, E., … Nahta, R. (2015). Insulin‐like growth factor‐1 Sciences,107(4),1547–1552.
+receptor signaling increases the invasive potential of human Stagg,J.,Loi,S.,Divisekera,U.,Ngiow,S.F.,Duret,H.,Yagita,H.,…Smyth,
+epidermal growth factor receptor 2‐overexpressing breast cancer M. J. (2011). Anti‐ErbB‐2 mAb therapy requires type I and II
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License
+|
+3156 DERAKHSHANIETAL.
+interferons and synergizes with anti‐PD‐1 or anti‐CD137 mAb Wen,X.F.,Yang,G.,Mao,W.,Thornton,A.,Liu,J.,Bast,R.C.,&Le,X.F.
+therapy. Proceedings of the National Academy of Sciences, 108(17), (2006).HER2signalingmodulatestheequilibriumbetweenpro‐and
+7142–7147. antiangiogenicfactorsviadistinctpathways:ImplicationsforHER2‐
+Sung,M.,Tan,X.,Lu,B.,Golas,J.,Hosselet,C.,Wang,F.,…Loganzo,F.(2018). targetedantibodytherapy.Oncogene,25(52),6986–6996.
+Caveolae‐mediatedendocytosisasanovelmechanismofresistanceto org/10.1038/sj.onc.1209685
+trastuzumab emtansine (T‐DM1). Molecular Cancer Therapeutics, 17(1), Xin,C.,Jing,D.,Jie,T.,Wu‐Xia,L.,Meng,Q.,&Ji‐Yan,L.(2015).Theexpression
+243–253. differenceofinsulin‐likegrowthfactor1receptorinbreastcancerswith
+Todeschini,P.,Cocco,E.,Bellone,S.,Varughese,J.,Lin,K.,Carrara,L.,… or without diabetes. Journal of CancerResearch and Therapeutics, 11(2),
+Santin, A. D. (2011). Her2/neu extracellular domain shedding in 295–299.
+uterine serous carcinoma: Implications for immunotherapy with Yamauchi,H.,O’Neill,A.,Gelman,R.,Carney,W.,Tenney,D.Y.,Hösch,S.,
+trastuzumab. British Journal of Cancer, 105(8), 1176–1182. https:// &Hayes,D.F.(1997).Predictionofresponsetoantiestrogentherapy
+doi.org/10.1038/bjc.2011.369 inadvancedbreastcancerpatientsbypretreatmentcirculatinglevels
+Topalian, S. L., Hodi, F. S., Brahmer, J. R., Gettinger, S. N., Smith, D. C., ofextracellulardomainoftheHER‐2/c‐neuprotein.JournalofClinical
+McDermott, D. F., … Sznol, M. (2012). Safety, activity, and immune Oncology,15(7),2518–2525.
+correlates of anti–PD‐1 antibody in cancer. New England Journal of Yarden, Y., & Sliwkowski, M. X. (2001). Untangling the ErbB signalling
+Medicine,366(366),2443–2454. network.NatureReviewsMolecularCellBiology,2(2),127–137.https://
+Tóth,G.,Szöőr,Á.,Simon,L.,Yarden,Y.,Szöllősi,J.,&Vereb,G.(2016).The doi.org/10.1038/35052073
+combination of trastuzumab and pertuzumab administered at approved Yu, S., Liu, Q., Han, X., Qin, S., Zhao, W., Li, A., & Wu, K. (2017).
+doses may delay development of trastuzumab resistance by additively Development and clinical application of anti‐HER2 monoclonal and
+enhancing antibody‐dependent cell‐mediated cytotoxicity. Paper pre- bispecificantibodiesforcancertreatment.ExperimentalHematology&
+sentedattheMAbs. Oncology,6,31.
+Tsang,R.Y.,&Finn,R.S.(2012).Beyondtrastuzumab:Noveltherapeutic Zabrecky, J. R., Lam, T., McKenzie, S. J., & Carney, W. (1991). The
+strategiesinHER2‐positivemetastaticbreastcancer.BritishJournalof extracellular domain of p185/neu is released from the surface of
+Cancer,106(1),6–13. human breast carcinoma cells, SK‐BR‐3. The Journal of Biological
+Vahidian,F.,Duijf,P.H.G.,Safarzadeh,E.,Derakhshani,A.,Baghban- Chemistry,266(3),1716–1720.
+zadeh, A., & Baradaran, B. (2019). Interactions between cancer Zhang,S.,Huang,W.C.,Li,P.,Guo,H.,Poh,S.B.,Brady,S.W.,…Yu,D.(2011).
+stem cells, immune system and some environmental components: Combating trastuzumab resistance by targeting SRC, a common node
+Friendsorfoes?ImmunologyLetters,208,19–29. downstreamofmultipleresistancepathways.NatureMedicine(NewYork,
+1016/j.imlet.2019.03.004 NY,UnitedStates),17(4),461–469.
+Valabrega,G.,Montemurro,F.,Sarotto,I.,Petrelli,A.,Rubini,P.,Tacchetti, Zhu,Y.,Li,L.,Zhang,G.,Wan,H.,Yang,C.,Diao,X.,…Zhong,D.(2016).
+C., … Giordano, S. (2005). TGFα expression impairs Trastuzumab‐ Metabolic characterization of pyrotinib in humans by ultra‐perfor-
+inducedHER2downregulation.Oncogene,24(18),3002–3010. mance liquid chromatography/quadrupole time‐of‐flight mass spec-
+Verma,S.,Miles,D.,Gianni,L.,Krop,I.E.,Welslau,M.,Baselga,J.,…Blackwell, trometry.JournalofChromatographyB,1033‐1034,117–127.https://
+K.(2012). TrastuzumabemtansineforHER2‐positiveadvanced breast doi.org/10.1016/j.jchromb.2016.08.009
+cancer.NewEnglandJournalofMedicine,367(19),1783–1791.
+Vogel, C. L., Cobleigh, M. A., Tripathy, D., Gutheil, J. C., Harris, L. N.,
+Fehrenbacher, L., … Press, M. (2002). Efficacy and safety of
+trastuzumab as a single agent in first‐line treatment of HER2‐ Howtocitethisarticle:DerakhshaniA,RezaeiZ,Safarpour
+overexpressingmetastaticbreastcancer.JournalofClinicalOncology, H,etal.OvercomingtrastuzumabresistanceinHER2‐positive
+20(3),719–726.
+breastcancerusingcombinationtherapy.JCellPhysiol.
+Wang, Z., Ruan, B., Jin, Y., Zhang, Y., Li, J., Zhu, L., … Wang, X. (2016).
+2020;235:3142–3156.
+IdentificationofKLK10asatherapeutictargettoreversetrastuzu-
+mabresistanceinbreastcancer.Oncotarget,7(48),79494.
+10974652,
+2020,
+4,
+Downloaded
+from
+by
+Constructor
+University,
+Wiley
+Online
+Library
+on
+[16/05/2025].
+See
+the
+Terms
+and
+Conditions
+(
+on
+Wiley
+Online
+Library
+for
+rules
+of
+use;
+OA
+articles
+are
+governed
+by
+the
+applicable
+Creative
+Commons
+License

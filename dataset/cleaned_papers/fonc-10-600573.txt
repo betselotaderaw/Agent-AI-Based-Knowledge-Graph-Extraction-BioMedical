@@ -1,0 +1,655 @@
+REVIEW
+published:25February2021
+doi:10.3389/fonc.2020.600573
+Immune Checkpoint Inhibitors in
+Triple Negative Breast Cancer
+Treatment: Promising Future
+Prospects
+RemyThomas1,GhaneyaAl-Khadairi1,2andJulieDecock1,2*
+1CancerResearchCenter,QatarBiomedicalResearchInstitute(QBRI),HamadBinKhalifaUniversity(HBKU),Qatar
+Foundation(QF),Doha,Qatar,2CollegeofHealthandLifeSciences(CHLS),HamadBinKhalifaUniversity(HBKU),Qatar
+Foundation(QF),Doha,Qatar
+Immunotherapy has emerged as the fifth pillar of cancer treatment alongside surgery,
+radiotherapy,chemotherapy,andtargetedtherapy.Immunecheckpointinhibitorsarethe
+current superheroes of immunotherapy, unleashing a patient’s own immune cells to kill
+Editedby:
+BaselKAl-Ramadi, tumors and revolutionizing cancer treatment in a variety of cancers. Although breast
+UnitedArabEmiratesUniversity, cancer was historically believed to be immunologically silent, treatment with immune
+UnitedArabEmirates
+checkpoint inhibitors has been shown to induce modest responses in metastatic breast
+Reviewedby:
+cancer. Given the inherent heterogeneity of breast tumors, this raised the question
+RakshaBhat,
+UniversityofHouston,UnitedStates whether certain breast tumors might benefit more from immune-based interventions
+RifatHamoudi, andwhichcancercell-intrinsicand/ormicroenvironmentalfactorsdefinethelikelihoodof
+UniversityofSharjah,
+UnitedArabEmirates inducingapotentanddurableanti-tumorimmuneresponse.Inthisreview,wewillfocus
+*Correspondence: ontriplenegativebreastcancerasimmunogenicbreastcancersubtype,andspecifically
+JulieDecock discuss the relevance of tumor mutational burden, the plethora and diversity of tumor
+jdecock@hbku.edu.qa;
+infiltrating immune cells in addition to the immunoscore, the presence of immune
+juliedecock80@gmail.com
+checkpoint expression, and the microbiome in defining immune checkpoint blockade
+Specialtysection: response. We will highlight the current immune checkpoint inhibitor treatment options,
+Thisarticlewassubmittedto
+eitherasmonotherapyorincombinationwithstandard-of-caretreatmentmodalitiessuch
+Women’sCancer,
+asectionofthejournal as chemotherapy and targeted therapy. In addition, we will look into the potential of
+FrontiersinOncology immunotherapy-based combination strategies using immune checkpoint inhibitors to
+Received:30August2020
+enhance both innate and adaptive immune responses, or to establish a more immune
+Accepted:30December2020
+Published:25February2021 favorable environment for cancer vaccines. Finally, the review will address the need for
+Citation: unambiguouspredictivebiomarkersasoneofthemainchallengesofimmunecheckpoint
+ThomasR,Al-KhadairiGand blockade. To conclude, the potential of immune checkpoint blockade for triple negative
+DecockJ(2021)ImmuneCheckpoint
+breastcancertreatmentcouldbeenhancedbyexplorationofaforementionedfactorsand
+InhibitorsinTripleNegative
+BreastCancerTreatment: treatment strategies thereby providing promising future prospects.
+PromisingFutureProspects.
+Front.Oncol.10:600573. Keywords:triplenegativebreastcancer,immunecheckpointblockade,predictivebiomarkers,tumormutationalburden,
+doi:10.3389/fonc.2020.600573 tumorinfiltratinglymphocytes,combinationtherapy,programmeddeath-1(PD-1),programmeddeathligand-1(PD-L1)
+FrontiersinOncology | www.frontiersin.org 1 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+INTRODUCTION approaches have proven effective in generating durable clinical
+responses,withthegreatestsuccessstoriestodatecomingfrom
+Breast cancer constitutes a major health problem worldwide, treatmentwithimmunecheckpointinhibitors(10–13).Itiswell
+accountingfor30%ofallfemalecancercasesand15%offemale known that tumors adopt various mechanisms to evade
+cancer-related deaths (1). Clinically, breast tumors are detectionand eradicationbytheimmunesystem,including the
+categorized into hormone receptor positive (HR+) tumors activation of inhibitory pathways governed by immune
+expressing the estrogen (ER) and/or progesterone (PR) checkpoints. Treatment with ICIs releases the immune system
+receptors, Human Epidermal Receptor 2 (Her2)-enriched from these inhibitory signals and reinvigorates the anti-tumor
+tumors with overexpression of Her2 in the absence of HR immune response as demonstrated by numerous studies and
+expression, and triple negative tumors lacking expression of all clinical trials using monoclonal antibodies against cytotoxic T-
+three receptors. Standard treatment of these clinical subtypes lymphocyteassociatedantigen-4(CTLA-4),programmeddeath-
+consists of surgery, radiotherapy, chemotherapy, hormonal 1(PD-1),andprogrammeddeathligand-1(PD-L1)(14–18).In
+therapy, anti-Her2 targeted therapy or a combination thereof. breastcancer,especiallytriple negativebreastcancer,treatment
+In recent years, with -omics based profiling becoming more with ICIs has been found to improve clinical outcome (18).
+accessible and affordable, molecular profiling of tumors has Overall, immune checkpoint inhibition is well tolerated and is
+started to enter clinical routine such as the multigene associated with a relatively mild toxicity profile. However,
+OncotypeDX, Mammaprint and ProSigna tests (2–4). Each of immune-related adverse events may develop and need to be
+these assays uses distinct gene signatures to predict the risk of closelymonitored,includingthedevelopmentofcolitis,thyroid
+recurrence of early stage, hormone receptor positive (and dysfunction, hypophysitis, skin rash, pneumonitis, and
+negative)breastcancer.Inaddition,theOncotypeDXtesthelps inflammatoryarthritis(19).
+to predict the likely benefit of adjuvant chemotherapy in early The success of immunotherapy largely depends on the
+stage HR+ cancer. The more recent Prosigna test not only immunogenic nature of the tumor, exemplified by the higher
+provides a 10-year risk of recurrence score but also classifies response rates in malignant melanoma and non-small cell lung
+breasttumorsintodistinctprognosticmolecularsubtypesbased carcinoma (20, 21). Traditionally, breast cancer has been
+on the Prediction Analysis of Microarray 50 (PAM50) gene considered an immune silent cancer type that is less likely to
+signature. This signature forms the basis of the PAM50 benefit from immunotherapy. Increasing evidence, however,
+classifier that has provided major insights into the molecular indicates that breast cancer constitutes a varied spectrum of
+heterogeneity of breast tumors (5, 6). More specifically, the tumorswithdifferentdegreesofimmunogenicitywherebytriple
+classifier categorizes breast tumors into four distinct molecular negative breast cancer is believed to be a more immunogenic
+subtypes with different response to treatment and clinical subtype (7–9, 22, 23). Moreover, multiple factors derived from
+outcome: luminal A (LA), luminal B (LB), Her2-enriched tumor cells or from within the tumor micro- or macro-
+(Her2+), and basal-like (BL). Furthermore, stratification of environment dictate the immune contexture of a tumor and
+breast tumors based on the presence of tumor infiltrating hence responsiveness to immunotherapy, including the tumor
+lymphocytes (TILs) and differential expression of immune- mutationalburden(TMB)andneoantigenload,diversityofthe
+related genes revealed further heterogeneity with prognostic immuneinfiltrateandthemicrobiome.
+significance (6–9). Using a gene signature composed of
+immune-regulatory genes, chemokine ligands and genes
+Tumor Mutational Burden and
+involved in T helper 1 (Th1) signaling and effector immune
+Neoantigen Load
+functions, approximately 30% of basal-like and Her2-enriched
+breast tumors can be classified as tumors with an immune
+Thetumormutationalburdenisdefinedasthetotalnumberof
+favorable phenotype as compared to 5–10% of luminal type somatic nonsynonymous mutations in the coding region of
+genes that may result in the generation of abnormal proteins
+tumors(9).Inthisreview,wewilllookintocancercell-intrinsic
+or neoantigens (24, 25). A high TMB and number of predicted
+and/or microenvironmental factors that have a likely effect on
+neoantigens has been associated with a better response to
+shaping the tumor immune phenotype, and will discuss the
+immune checkpoint inhibitor therapy in various cancer types
+emerging potential of immune checkpoint inhibitors (ICIs) in
+(26–30). In breast cancer, most tumors harbor a low TMB
+triplenegativebreastcancertreatmentinparticular.
+(1mut/Mb) and only 5% of all tumors are characterized by a
+hightumormutationalburden(≥10mut/Mb)ofwhichmostare
+metastatic(31,32).Morespecifically,TNBCshaveahigherTMB
+POTENTIAL OF IMMUNOTHERAPY IN
+comparedtoHer2-enrichedandHR+tumors(33,34).Analysis
+(TRIPLE NEGATIVE) BREAST CANCER: of the TCGA and METABRIC breast cancer datasets
+PARAMETERS TO BE CONSIDERED demonstrate an improved overall survival (OS) for patients
+with tumors featuring a high TMB and favorable immune-
+Cancer immunotherapy is considered the new pillar of cancer infiltrate disposition (FID), irrespective of the type of
+treatment, shifting the focus from the tumor to the tumor treatment.LuminalAtumorswithahighTMB/FIDphenotype
+microenvironment and was awarded the Nobel Prize for wereassociatedwiththebestsurvivalrates,whereasTNBCswith
+physiology or medicine in 2018. Numerous immunotherapy a high TMB and poor immune-infiltrate disposition were
+FrontiersinOncology | www.frontiersin.org 2 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+associated with the worst prognosis (25). Conversely, immune- TMB and number of neoantigens, and have a high likelihood of
+rich TNBC tumors with lower mutation and neoantigen counts provoking an anti-tumor immune response. They are also called
+havebeenassociatedwithbetterprognosis,likelyduetoareduced “inflamed tumors” as they are characterized by a considerable
+clonalheterogeneityasaresultofimmunosurveillance(35). infiltration of T cells although these are not fully functional.
+Furthermore, tumors with somatic or germline BRCA1/2 Overall, hot tumors are associated with a better response to ICIs
+mutations are believed to be more immunogenic due to the through the activation of the present immune infiltrate (50) and
+dysregulation of homologous recombination-based DNA repair, examplesincludemelanoma,non-smallcelllungcancer,headand
+leading to increased genomic instability and higher mutational neck cancer, kidney, liver, and bladder cancer. Immunological
+burden (36). However, BRCA1/2 mutation-associated breast “cold”tumorseitherexhibitalackorpaucityofaTcellinfiltrate,
+tumors display a great variability in immunogenicity with the so-called “immune desert” tumors, or feature a phenotype
+approximately50%oftumorsdisplayinganabsentormildtumor whereby T cells have been excluded from the tumor core and
+lymphocyteinfiltrateandmoderateneoantigenload,suggestingthat aggregate at the tumor boundaries, the so-called “immune
+onlyasubsetofBRCA1/2breasttumorsmaybenefitfromimmune- excluded” tumors. Tumors with an “immune excluded”
+basedtherapy(37).Inlinewiththis,atbest1outof5patientswith phenotypereflecttheabilitytoinduceaTcell-mediatedimmune
+triple negative breast cancer, the most common form of BRCA1 response, however, the response is impaired by the inability to
+mutation-associatedbreastcancer,hasbeenshowntobenefitfrom penetrate the tumor tissue. The presence of immunosuppressive
+singleagentPD-1blockade(38–40).Interestingly,genomicanalysis immunecellsubsetswithinthetumorortumormicroenvironment
+of 115 BRCA1/2 breast tumors revealed an inverse association can alter both the infiltration and functional status of the T cell
+between homologous recombination deficiency (HRD) and infiltrate and hence reduce the potential benefit from ICI therapy
+immunogenicity despite a higher mutational burden and (48).Manystudiesarelookingintowaystoturn“cold”tumorsinto
+neoantigen load (41). Moreover, hormone receptor status further “hot” tumors to achieve higher responsiveness to immune
+stratified BRCA1/2 breast tumors with low-HRD TNBC tumors checkpoint blockade. Here, we will discuss some of the factors to
+beingmoreimmunogenicthanhigh-HRDHR+tumors(41).This be considered in addition to the density and localization of the
+unexpected inverse correlation of high TMB, resulting from immune infiltrate such as the cellular composition and functional
+homologous recombination deficiency, and immunogenicity is orientation of the immune cell infiltrate and of tertiary lymphoid
+supported by a pan-cancer analysis that demonstrated that large structures (TLS), the expression of immune checkpoints, and the
+somatic copy number alterations are associated with reduced enrichmentofprognosticimmunegenesignatures.
+immunogenicity, possibly due to disruption of genes involved in Tumor infiltrating lymphocytes or TILs represent the major
+the regulation of immune cell recruitment (42). In accordance, infiltrating immune cell subpopulation defining a favorable
+PTEN, another important regulator of DNA damage repair and immune microenvironment in tumors. The density of TILs is
+hencemutationalburden,isfrequentlyimpairedintumorsandloss indicative of the magnitude of anti-tumor immunity and is
+ofPTENhasbeenassociatedwithpoorresponsetoPD-1blockade emerging as a prognostic and predictive biomarker for
+(43, 44). For instance, patients with metastatic TNBC (mTNBC) immunotherapy response in a wide range of cancers (51–53).
+whocarryPTENmutationshadasignificantlowerresponserateto The seminal work by Galon et al. introduced the immunoscore
+PD-1/PD-L1 inhibitors (45). Moreover, in the absence of PTEN- concept in colorectal cancer, an immunohistochemically-based
+mediated inhibition of the PI3K-Akt pathway, the use of an Akt scoringsystemofCD8+TILsinthecenterandinvasivemarginof
+inhibitor combined with chemotherapy and PD-L1 blockade a tumor with independent prognostic connotation (47).
+significantly improved the overall response rate of metastatic Subsequent work consolidated the prognostic value of the
+TNBC patients compared to combination treatments of immunoscore in colorectal cancer and multiple other cancers
+chemotherapy with PD-L1 blockade or Akt inhibition (46). (53–56). A recent study on the predictive value of the
+Together, these findings suggest that in a proportion of breast immunoscore in colorectal cancer patients suggests that patients
+tumors ICI response is not dictated by TMB per se but rather by withalowimmunoscoredonotbenefitfromalongertreatment
+specificgenomiceventsthatdisruptafunctionalimmuneresponse. withoxaliplatin-basedchemotherapyasopposedtopatientswith
+intermediateorhighimmunoscorevalues(55).Thisobservation
+Diversity of Immune Infiltrate
+seemscounterintuitiveasonecouldarguethatpatientswithlow
+In addition to cancer cell-intrinsic features, the tumor immunoscore and higher risk of recurrence would more likely
+microenvironment plays a prominent role in determining anti- benefit from longer treatment. However, it is important to
+tumorimmunityandresponsetoimmunotherapy.Understanding consider the interactions of the chemotherapeutic agents with
+the complexity of the interplay between tumor cells and the immune response. Oxaliplatin is known to elicit bona fide
+componentsoftheimmunesystemoffersauniqueopportunityto immunogeniccelldeathand5-fluorouracildecreasesthenumber
+explorecombinationtreatmentsthatcanhelptoreshapethetumor ofmyeloidderivedsuppressorcells(MDSCs)whileenhancingthe
+microenvironment into an immune favorable phenotype. cytotoxic T cell function, however, these effects depend on the
+Immunohistochemical analyses of tumor immune infiltrates has presence of an active tumor immune microenvironment.
+resulted in the classification of tumors into distinct immune Therefore, tumors with a low immunoscore and weak cytotoxic
+phenotypes: “hot”, “cold-immune desert”, and “cold-excluded” T cell activity may not experience additional benefit from
+tumors (47–49). Immunological “hot” tumors often have a high increasing the treatment duration. More studies are needed to
+FrontiersinOncology | www.frontiersin.org 3 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+validatethesefindingsasthefollow-uptimeofthecurrentstudy PD-L1 (73–75), corroborating the therapeutic potential of
+wasrathershortwith4.3years.Inbreastcancer,theimmunoscore immune checkpoint blockade in tumors with a high T cell
+has not yet been established as a prognostic and/or predictive immune infiltrate density. In accordance, high TIL scores in
+biomarker,however,aplethoraofstudiessupportstheimportance patientswithTNBCandHer2-enrichedtumorspredictabetter
+ofthetumorimmunemicroenvironmentindefiningbreastcancer responsetoPD-1inhibitors,counteractingtheincreasedPD-L1
+clinical outcome. Numerous studies have demonstrated an expression (51, 76, 77). In a study involving more than 3,000
+association of breast tumor infiltration by cytotoxic T breast cancer patients, the relevance of TILs for chemotherapy
+lymphocytes with better survival (57–60). In particular, TNBC response and prognosis in patients of different breast cancer
+and Her2-enriched tumors feature high TIL counts, which are subtypeswasassessed(78).IncreasedTILcountswereassociated
+associated with better clinical outcome, and suggest greater with a survival benefit and better response to neoadjuvant
+immunogenicity and likely benefit from immune-based chemotherapy in Her2-enriched breast cancer and TNBC. In
+interventions (61, 62). Higher densities of TILs have also been contrast,adifferentroleforTILswasobservedinluminalbreast
+associatedwithgreaterresponseratestochemotherapy(62–65). cancer where an increase in TILs was associated with adverse
+Inlinewiththeimmunoscoreconcept,spatialdistributionof prognostic effects. Furthermore, combined analysis of TIL
+lymphocytes beyond intratumoral lymphocytes could provide density and PD-L1 tumor expression indicated that the DFS of
+added value for predicting survival and treatment response in TNBC patients with low-TIL tumors (< 30% stromal) was
+breastcancer.HighdensitiesofstromalTlymphocyteshavebeen significantlyworsecomparedtopatientswithhigh-TILtumors,
+associated with improved breast cancer specific survival of withthemostunfavorableDFSandOSforpatientswithlow-TIL
+patients with TNBC and Her2-enriched tumors (66). and high PD-L1 (> 50%) (75). Furthermore, the presence of
+Moreover, one study expanded the immunoscore concept by specificallytissueresidentmemoryTcellsintheTILinfiltrateof
+quantifying the density of immunosuppressive FoxP3 T TNBCtumorshasbeenassociatedwithbetterresponseratesand
+regulatory cells (Treg) in addition to CD3+ and CD8+ T cells overallsurvivalinpatientswhoreceivedchemotherapyorPD-1
+(67).Interestingly,theywereabletodevelopaprognosticscoring inhibition (51, 79, 80). Interestingly, characterization of TILs
+systemthatcoulddistinguish molecularbreastcancer subtypes. aftertreatmentwithPD-1/PD-L1inhibitorsrevealedanincrease
+Joint analysisof immunosuppressive CD163+ tumorassociated in expression of various immune checkpoints including PD-1,
+macrophages (TAMs) with cytotoxic CD8+ T lymphocytes CTLA-4,Tcellimmunoglobulinandmucindomain-containing
+resulted in a novel immune infiltrate scoring model with protein 3 (Tim3) and Lymphocyte-activation gene 3 (Lag3) in
+favorable prognosis, as defined by high CD8+ and low CD163+ CD4+Tcellsubsetssuggestingthepresenceofacompensatory
+cellcountsinthetumorcenterandlowCD8+andhighCD163+in inhibitorymechanismmediatedbyCD4+Tregulatorycells(81).
+the invasive tumor margin (68, 69). These findingshighlight the These findings underscore the need to identify, quantify, and
+importanceofcapturingacompletepictureofthetumorimmune phenotype all components of the immune microenvironment
+microenvironment, accounting for both cytotoxic T cells and including immunosuppressive regulators. Great efforts are
+immunosuppressive immune cell populations. This notion is expended to develop strategies to deplete immunosuppressive
+further supported by the ongoing discussion on the prognostic cells from the tumor microenvironment, to impede their
+value oftertiary lymphoidstructureswithinthe tumorortumor infiltration and to impair their functionality, or to induce
+microenvironment.Severalstudiesinarangeofcancertypeshave cytotoxic T cell expansion, survival and function by
+reportedafavorableoutcomeforpatientswithahighnumberof modulating cytokine levels (82–84). Importantly, any of these
+TLS, irrespective or in addition to a high TIL count (70, 71). In strategies could be combined with immune checkpoint
+TNBC,highTILcountsincombinationwithmoderatetohighTLS inhibitors. In this context, it is important to note that PD-1
+counts have been associated with improved disease free survival andCTLA-4arenotonlyexpressedonactivatedTcells,butalso
+(DFS)(70).Ontheotherhand,anumberofstudieshavereported on T regulatory cells. Hence, treatment with anti-PD-1 and/or
+conflictingdatathatdonotsupportafavorableprognosticvaluefor anti-CTLA4 antibodies may result in the additional release of
+TLS (69). Notably, TLS can exert a dual effect on anti-tumor Treg-mediatedsuppressionofTcellactivation,strengtheningthe
+immunity,servingasaninsitu nicheofcytotoxicTcells aswell anti-tumorimmunity(85–88).Ofnote,additionalfactorsbesides
+asofimmunosuppressivecellssuchasTregulatorycellsandhence immunecheckpointexpressionprobablyaffectICIresponseand
+highTLScountscanbeassociatedwithbetterorworseprognosis clinical outcome as for instance, only a small proportion of
+(72). High TLS counts have been associated with better DFS in metastatic PD-L1 positive TNBC patients (8–20%) respond to
+patientswithHer2-enrichedtumorswhereasnoprognosticvalue PD1/PD-L1therapy(76).
+wasobservedinHer2-negativebreastcancerpatients.Therefore,it In an attempt to comprehensively capture the immune
+is clear that the current definition of the tumor immune contexture of a tumor, numerous immune gene signatures
+microenvironment needs to be revisited in order to account for have been developed. The first prognostic immune signature
+TLScellularcompositionandfunctionalorientation. describing the functional orientation of the tumor immune
+Thisbringsustothepivotalroleoftheactivationstatusofthe microenvironment was established in colorectal cancer and
+tumor immune infiltrate which is partly controlled by the was composed of genes involved in Th1 and cytotoxic T cell
+expression of immune checkpoints. The presence of infiltrating function, including interferon- g (IFN-g), granulysin (GNLY),
+T lymphocytes has been associated with elevated expression of perforin (PRF1), and granzymes (GZMs) (47). This signature
+FrontiersinOncology | www.frontiersin.org 4 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+wassubsequentlyvalidatedinothercancertypesincludingbreast distinctmicrobialsignaturesinbreastcancerpatients,however,
+cancer(89,90).Inaddition,Hendrickxetal.demonstratedthat further studies are needed to define their diagnostic and
+theImmunologicConstantofRejection(ICR)20-genesignature therapeutic implications (108–110). Furthermore, few studies
+can differentiate immune favorable and immune unfavorable demonstratedthatthecompositionofthegutmicrobiotacould
+breast cancer subtypes, and recently refined and validated its influence the response to immunotherapy, including immune
+prognosticvalueinapan-cancerstudy(9,91)Furthermore,they checkpoint. For instance, comparing the gut and oral
+showed that MAPK pathway regulation could modulate the microbiome of melanoma patients treated with anti-PD-1
+intratumoral response in breast cancer (9). A meta-analysis of immunotherapy revealed significant differences in the diversity
+approximately 18,000 human tumors identified complex andcompositionofgutmicrobiotainpatientsthatrespondedto
+associations between 22 distinct leukocyte subsets and cancer treatment versus non-responders (103, 105). Furthermore,
+survival (92). Using the CIBERSORT algorithm for relative exposure to broad-spectrum combination antibiotics
+immune cellabundance, theauthors demonstrated that tumor- (fluoroquinolones, ß-lactam+/- ormacrolides) duringanti-PD1/
+associated neutrophil and plasma cell signatures are significant PD-L1 treatment has been shown to significantly decrease
+butoppositepredictorsofsurvivalinbreastcancer.Further,aT progression-free survival (PFS) and OS of patients with
+cell-inflamedgeneexpressionprofileexhibitedpredictivevalue advanced non-small cell lung, renal cell carcinoma, and
+toidentifypan-cancerpatientsthatwillmorelikelybenefitfrom urothelial carcinoma, suggesting that the overall diversity of
+PD-1 inhibition (93). Paradoxically, subsets of breast cancer the microbiota and the presence of specific clades determines
+patients with high expression of immune-associated signatures theresponsivenesstoimmunotherapy(104).
+havebeenidentifiedtoexperiencepooroutcome(94),suggesting Historically,breasttumortissuehasbeenconsideredasterile
+the presence of additional complexity beyond the current environment, however, recent studiessuggest theexistence of a
+information provided by bulk tumor immune signatures. local, breast microbiome. Indeed, the composition of breast
+Moreover, some studies have demonstrated differences in tissue withabundance offatty tissue, extensivevasculature, and
+spatial distribution of immune gene signatures (95). For lymphatic drainage makes it a favorable environment for the
+instance, integration of CD8+ T cell localization and matched growth of bacteria (111). Comparison of microbial signatures
+stromalandepithelialtumorgeneexpressionsignaturesrevealed across multiple cancer types revealed cancer type specific
+distinct, spatial, tumor immune microenvironment-subtypes of microbial signatures that differ between the respective tumors
+treatment-naive TNBCtumors,each characterized byaspecific and adjacent normal tissues whereby breast cancer was
+metagenesignature(96). associated with a particularly rich and diverse microbiome.
+Furthermore, the breast microbiome has been shown to differ
+Gut and Breast Microbiome
+fromnormal tobenigntomalignant tissues, aswell asbetween
+The gut microbiome is a recognized master modulator of the breast cancer subtypes, and in relation to response to
+developmentandmaintenanceofahealthyimmunesystem(97, immunotherapy(112,113).
+98).Perturbationofthenormalmicrobiota—dysbiosis—isoften
+observedindiseaseandchangestheinteractionsbetweenthegut
+microbiota,intestinalepithelium,andhostimmunesystem(99). IMMUNE CHECKPOINT INHIBITION IN
+Manystudieshaveshownthatgutmicrobiotashapetheimmune TRIPLE NEGATIVE BREAST CANCER
+systemandthehostmetabolism.Inadditiontoregulatinglocal,
+intestinalimmuneresponses,changesingutmicrobiotacanhave ICI therapy has become the most successful immune-based
+systemiceffectsontheinnateandadaptiveimmunity.Whilethe intervention to generate durable responses in a variety of
+encounterofmicrobialmoleculesbyToll-likereceptorsprovoke tumors. Monoclonal antibodies against PD-1/PD-L1 and
+a local immune response in the gut, the escape of microbial CTLA-4 have emerged as powerful tools to release the
+factors from the gut can modulate immune function, causing inhibitory regulation of T cell activation (114, 115). To date,
+systemic infection or inflammation which favors the multipleblockingmonoclonalantibodieshavebeenapprovedby
+development of immune-mediated and metabolic diseases theUSFoodandDrugAdministration(FDA)includingtheanti
+(100). Thus, understanding how the gut microbiota impact CTLA-4 antibody ipilimumab, anti-PD1 antibodies
+anti-tumor immunity could provide insight into how it might pembrolizumab, nivolumab and cemiplimab and anti-PD-L1
+influence tumor development, progression and treatment antibodies atezolizumab, avelumab and durvalumab (116, 117).
+response. In breast cancer, a collection of microbial genes Treatment response to immune checkpoint inhibitors varies
+known as the estrobolome has been shown to affect estrogen greatly with only a small proportion of patients experiencing
+metabolism,resultinginhighercirculatinglevelsofestrogenand better survival rates (118, 119). Hence, there is a growing need
+hence an increased risk of hormone-dependent breast cancer for predictive biomarkers of ICI response. Furthermore, few
+(101). Furthermore, the gut microbiome has been found to be preclinical studies are investigating the benefit of targeting
+involvedintheregulationoftumorprogressionandtheresponse multiple immune checkpoints including PD-1, CTLA-4, Tim3,
+toanticancertherapies(102–106).Forinstance,gutmicrobiome andLag3(120).Currently,themajorityofbreastcancerstudies
+dysbiosis hasbeen shown topromote cancer celldissemination focus on inhibition of the PD1/PD-L1 pathway. A single-arm
+inaHR+breastcancermousemodelthroughincreasedfibrosis pilot study investigating the combination of PD1/PD-L1
+and collagen deposition (107). Several studies have identified blockade with CTLA-4 inhibition reported an objective
+FrontiersinOncology | www.frontiersin.org 5 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+response rate (ORR) of 43% in patients with metastatic TNBC, pretreated, PD-L1 positive mTNBC patients experienced an
+whereasnoresponseswereobservedinpatientswithHR+breast ORR of 5.7% with median PFS and OS of 2.0 and 9.0 months,
+cancer (121). We will focus our discussion on anti-PD1/PD-L1 respectively (122). Both studies demonstrated a manageable
+mono-andcombinationtherapyinTNBC(Figure1)giventhat safety profile and durable clinical activity of single agent
+itisthemostimmunogenicbreastcancersubtypeandhencewill pembrolizumab treatment in PD-L1 positive mTNBC, in
+morelikelybenefitfromtreatmentwithICIs. particular in the first-line setting. Next, the randomized phase
+3KEYNOTE-119trial(NCT02555657)investigatedtheefficacy
+PD1/PD-L1 Antibody Monotherapy
+of pembrolizumab monotherapy versus chemotherapy
+PD1/PD-L1 monotherapy has demonstrated promising durable (capecitabine, gemcitabine, eribulin, vinorelbine) in pretreated,
+responsesinpatientswithadvanced,metastaticTNBC(Table1). PD-L1 positive mTNBC. Initial results revealed no significant
+Thesafetyprofileandclinicalactivityoftheanti-PD1inhibitor improvement in PFS (HR = 1.35) nor in OS (HR = 0.86) for
+pembrolizumab was first studied in heavily pretreated patients patientsreceivingpembrolizumab,althoughtherewasatrendfor
+withadvanced,PD-L1positivetriplenegativebreastcancer,head bettersurvivalwithhigherPD-L1score(123).Atthedateofdata
+and neck cancer, urothelial cancer or gastric cancer in the cut-off (11th April 2019), the median follow-up time was 9.9
+KEYNOTE-012 (NCT01848834) clinical trial. Interim analysis monthsforthepembrolizumabcohortand10.9monthsforthe
+revealed an overall response rate of 18.5% in mTNBC patients chemotherapycohort,hence,differentialsurvivaloutcomesmay
+withthemediandurationofresponserangingfrom15.0to47.3 become more apparent as the study matures. However, these
+weeks (38). In a subsequent phase II clinical trial, KEYNOTE- findings may also suggest that pembrolizumab monotherapy is
+086 (NCT02447003), PD-L1 positive mTNBC patients who moreeffectiveasfirstlinetreatmentinmTNBC.
+received no prior systemic treatment for metastatic disease InadditiontoblockingPD-1,antibodieshavebeendeveloped
+showed the highest ORR of 21.4% with a median duration of that target PD-L1, thereby disrupting PD-L1/CD80 binding in
+responseof10.4monthsatdatacut-off,andPFSandOSof2.1 addition to PD-L1/PD1 and resulting in an augmented anti-
+and 18.0 months, respectively (80). In comparison, heavily tumorimmuneresponsebybothTcellsandantigenpresenting
+FIGURE1| CurrentApproachesforPD-1andPD-L1immunecheckpointinhibitioninTNBC.TheefficacyofPD-1andPD-L1therapymaybehampereddueto
+cancercell-intrinsicinteractionsand/ormicroenvironmentalfactorsalongwiththeexpressionofimmunecheckpointmoleculessuchasPD-L1thatdefineapotent
+anddurableanti-tumorimmuneresponse.Immunecheckpointblockadecouldbeusedasmonotherapyorincombinationwithdifferenttherapeuticapproaches,
+includingchemotherapy,PARPinhibitorswithorwithoutVEGFR/CDK/MEKinhibitors,cancervaccines,andNKcelltherapy.
+FrontiersinOncology | www.frontiersin.org 6 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+TABLE1| PD1/PD-L1antibodymonotherapyinmetastaticTNBC.
+NCTNumber OtherIDs Intervention Trialstatus/interimresults Ref
+NCT01848834 KEYNOTE-012/MK-3475-012,2012-005771-14,142453,3475-012 pembrolizumab completed (38)
+ORR18.5%
+NCT02447003 KEYNOTE-086/MK-3475-012,3475-086,2015-000294-13,152987 pembrolizumab completed (80,122)
+ORR5.7%
+PFS2.0mths,OS9.0mths
+firstlinesetting:
+ORR21.4%
+PFS2.1mths,OS18.0mths
+NCT02555657 KEYNOTE-119/MK-3475-119,3475-119,2015-001020-27,153082 pembrolizumabvschemotherapy active (123)
+nodifferenceinPFSandOS
+NCT01375842 PCD4989g,2011-001422-23,GO27831 atezolizumab completed (124)
+ORR6%(12vs0%*)
+OS(10.1vs6.0mths*)
+firstlinesetting:
+ORR24%
+OS17.6mths
+NCT01772004 JAVELIN/EMR100070-001,2013-002834-19 avelumab completed (40)
+ORR5.2%(22.2vs2.6%**)
+NCT02926196 A-Brave,2016-000189-45 avelumab recruiting
+ORR,overallresponserate;OS,overallsurvival;PFSprogressionfreesurvival.
+*PD-L1cutoff1%;**PD-L1cutoff10%.
+cells(125).Inbreastcancer,studieshaveinvestigatedthesafety The majority of studies on PD1 inhibition in TNBC has
+profilesandefficacyoftwoantiPD-L1antibodies,atezolizumab investigated the safety profile and clinical activity of
+andavelumab.Theclinicalactivityofsingleagentatezolizumab pembrolizumab. Interim analysis of the phase 3 KEYNOTE-
+treatment was evaluated in a multi-cohort phase I study 355(NCT02819518)studyrevealsasignificantimprovementof
+(NCT01375842) involving patients with locally advanced or PFS (5.6 vs 9.7 months) in strong PD-L1 positive, untreated
+metastatic solid malignancies or hematologic malignancies. In mTNBC patients who received pembrolizumab in addition to
+mTNBC, the ORR in first line atezolizumab treatment reached chemotherapy (nab-paclitaxel, paclitaxel, gemcitabine/
+24% with a median OS of 17.6 months compared to 6% in carboplatin) (129). Results from the phase 2 BR-076
+pretreated patients (124). PD-L1 expression in at least 1% of (NCT02755272) clinical trial on pembrolizumab in
+tumorinfiltratingimmunecellswasassociatedwithhigherORR combination with gemcitabine/carboplatin in mTNBC are
+(12versus0%)andbetterOS(10.1versus6.0months).Further, pending. The KEYNOTE-150/ENHANCE 1 (NCT02513472)
+higher levels of PD-L1 positivity (> 10%) were associated with trial of pembrolizumab plus the microtubule inhibitor eribulin
+better ORR and OS, albeit not significantly. The phase 1b mesylatedemonstratedanORRof25.6%withamedianPFSof
+JAVELIN trial (NCT01772004) on avelumab reported an ORR 4.1 months (130). The phase 2 TONIC trial (NCT02499367)
+of 3.0% in metastatic breast cancer, and an ORR of 5.2% in evaluated the efficacy of PD1 blockade with nivolumab in pre-
+mTNBC(40).Inlinewithpreviousreports,higherresponserates treatedmTNBC(cyclophosphamide,cisplatin,doxorubicin).Of
+wereobservedinPD-L1positiveversusnegativepatients(16.7vs note,nivolumabtherapyprecededbydoxorubicinresultedinan
+1.6%) using a PD-L1 cutoff of 10%, in particular in TNBC ORRof35compared to23%forcisplatinand 17%forpatients
+patients (22.2 vs 2.6%). To conclude, although the response without preceding chemotherapy, suggesting that pretreatment
+rates of single agent ICIs in mTNBC may be modest, the with chemotherapy can induce an inflamed tumor
+durable responses of a subset of PD-L1 positive patients microenvironment (117). In comparison with metastatic
+suggest that combination treatment of immune checkpoint TNBC, significant more studies have been conducted in locally
+blockade with other treatment modalities may provide a advanced or early stage TNBC. In the phase 2 I-SPY 2
+favorableoutcome. (NCT01042379) study the addition of pembrolizumab to
+taxane- and anthracycline-based neoadjuvant chemotherapy
+PD1/PD-L1 Antibody-Chemotherapy
+doubled the estimated pathological complete response (pCR)
+Combination Treatment rates of early stage patients with Her2-negative breast cancer
+Chemotherapy has been shown to increase tumor cell antigen including triple negative breast cancer (131). These promising
+release, induce the expression of MHC Class I molecules, results provided the rationale for the phase 1 KEYNOTE-173
+neoantigens and PD-L1, and promote dendritic cell activation (NCT02622074) trial to investigate the toxicity and anti-tumor
+thus potentially augmenting the released immune response activity of adding pembrolizumab to six commonly used
+following or during ICI treatment (126–128). In line with this neoadjuvant chemotherapy regimens in untreated, locally
+rationale, combination regimens of PD1/PD-L1 inhibitors with advanced TNBC. The toxicity profile of the combination
+chemotherapy have shown promising results in metastatic, treatments were similar to what has been observed for the
+locallyadvancedandearlystageTNBC(Table2). individual treatments, suggesting a manageable safety profile.
+FrontiersinOncology | www.frontiersin.org 7 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+TABLE2| PD1/PD-L1antibodychemotherapycombinationtreatmentinTNBC.
+NCTNumber OtherIDs Intervention Diseasesetting Trialstatus/interimresults Ref
+NCT02819518 KEYNOTE-355/MK-3475-355, pembrolizumab+nab-paclitaxelor metastatic active (129)
+3475-355,2016-001432-35, paclitaxelorgemcitabine/carboplatin firstlinesetting:
+163422 PFS9.7mths
+NCT02755272 BR-076 pembrolizumab+gemcitabine/ metastatic recruiting
+carboplatin
+NCT02513472 KEYNOTE-150,ENHANCE1, pembrolizumab+eribulinmesylate metastatic active (130)
+E7389-M001-218 ORR25.6%
+PFS4.1mths
+NCT02499367 TONIC,N15TON cyclophosphamide,cisplatinor metastatic active (117)
+doxorubicinfollowedbynivolumab ORR35%(doxorubicin)
+firstlinesetting:
+ORR17%
+NCT01042379 I-SPY2,097517 neoadjuvantpembrolizumab+ locallyadvanced recruiting (131)
+paclitaxel,followedbyAC
+NCT02622074 KEYNOTE-173/MK-3475-173, neoadjuvantpembrolizumab+ locallyadvanced completed (132)
+3475-173,2015-002405-11 chemotherapycombination(nab- firstlinesetting:
+paclitaxel,paclitaxel,doxorubicin, pCR60%
+cyclophosphamide,carboplatin)
+NCT03036488 KEYNOTE-522/MK-3475-522, neoadjuvantpembrolizumab+ locallyadvanced active (133)
+3475-522,2016-004740-11, paclitaxel-carboplatinfollowedby firstlinesetting:
+173567 adjuvantpembrolizumab pCR64.8%
+NCT01633970 GP28328,2012-001422-10 atezolizumab+nab-paclitaxel locallyadvanced,metastatic active (134)
+ORR39.4%
+PFS5.5mths
+NCT02425891 IMpassion130,WO29522,2014- atezolizumab+nab-paclitaxel metastatic active (135)
+005490-37 firstlinesetting:
+ORR53%
+OS25mths
+NCT03125902 IMpassion131,MO39196,2016- atezolizumab+paclitaxel locallyadvanced,metastatic active
+004024-29 firstlinesetting
+NCT03371017 Impassion132,MO039193,2016- atezolizumab+gemcitabine/carboplatin locallyadvanced,metastatic recruiting
+005119-42 orcapecitabine
+NCT02685059 GeparNuevo,GBG89 neoadjuvantdurvalumab+nab- earlystage unknown (136)
+paclitaxel+EC pCR53%
+NCT02620280 NeoTRIPaPDL1,FM-14-B02,2014- neoadjuvantatezolizumab+nab- earlyhighrisk,locallyadvanced active (137)
+005017-23 paclitaxel+carboplatin,followedbyAC
+orECorFEC
+NCT03197935 Impassion031,WO39392,2016- neoadjuvantatezolizumab+nab- earlystage active (138)
+004734-22 paclitaxel,followedbyAC pCR57.6%
+NCT03281954 NSABPB-59/GBG96-GeparDouze, neoadjuvantatezolizumab+paclitaxel+ earlystage recruiting
+2017-002771-25,MO39875 carboplatin,followedbyadjuvant
+atezolizumab+ACorEC
+NCT03498716 Impassion030,WO39391,2016- atezolizumab+paclitaxel,followedby locallyadvanced recruiting
+003695-47,BIG16-05,AFT-27, atezolizumab+ACorEC
+ALEXANDRA
+AC,doxorubin+cyclophosphamide;EC,epirubicin+cyclophosphamide;FEC,fluorouracil+epirubicin+cyclophosphamide;ORR,overallresponserate;OS,overallsurvival;pCR,
+pathologicalcompleteresponse;PFS,progressionfreesurvival.
+Furthermore,combinationtreatmentshowedpromisingclinical with chemotherapy, in particular in metastatic TNBC patients.
+activitywithpCRratesof60%acrossalltreatmentcohorts(132). The phase 1b clinical study NCT01633970 reported an ORR of
+In accordance with other studies, higher pre-treatment PD-L1 39.4%withamedianPFSof5.5monthsforlocallyadvancedor
+expressionwasassociatedwithbetteroutcome.Similarly,interim metastatic TNBC patients treated with atezolizumab plus nab-
+analysis of the phase 3 KEYNOTE-522 trial (NCT03036488) paclitaxel(134).PD-L1positivemTNBCpatientsshowedanon-
+demonstrated that addition of pembrolizumab to paclitaxel- significanthigherORR(41.4vs33.3%),PFS(6.9vs5.4months)
+carboplatin chemotherapy in the neoadjuvant setting, followed andOS(21.9vs11.4months),irrespectiveoftreatmenthistory.
+byadjuvantpembrolizumabincreasedthepCRratesfrom51.2to Furthermore, althoughnotstatistically significant,patientswho
+64.8% in untreated, locally advanced TNBC patients (133). Of receivedthetreatmentregimeninfirstlinesettingexperienceda
+note,thetrialdesigndoesnotallowthecomparisonofadjuvant higherORR(53.8vs30.0%),longerPFS(8.6vs5.1months)and
+pembrolizumabversusplacebotreatmentfollowingneoadjuvant OS (24.2 vs 12.4 months), providing evidence for a more
+chemotherapyalone. favorable outcome compared to atezolizumab monotherapy
+In addition to PD1 blockade, several clinical trials aim to where an ORR of 24% and median PFS of 1.6 months was
+studythesafetyandefficacyofPD-L1inhibitionincombination observed(124,134).Thephase3randomizedIMpassion130trial
+FrontiersinOncology | www.frontiersin.org 8 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+(NCT02425891) supports these findings, demonstrating a TNBC. Patients who received atezolizumab plus chemotherapy
+clinically meaningful improvement in OS of 7 months (25.0 vs showedapathologiccompleteresponserateof57.6versus41.1%
+18.0months)forPD-L1positivemTNBCpatientswhoreceived in patients who received chemotherapy plus placebo (138). In
+first line atezolizumab plus nab-paclitaxel treatment (135). PD-L1 positive patients, the pathologic complete response
+Interim results showthat addition of pembrolizumab increased reached 69% for patients who received atezolizumab plus
+theORRfrom33to53%(128).In2019,theFDAandEuropean chemotherapy and 49%for patients treated withchemotherapy
+Medicines Agency (EMA) granted accelerated approval for the plus placebo. Of note, there are two ongoing studies in locally
+useofatezolizumabplusnab-paclitaxelasfirstlinetreatmentof advanced TNBC that evaluate the effect of chemotherapy with
+PD-L1-positive, unresectable, locally advanced or metastatic PD-L1 blockade in adjuvant setting. The Impassion30
+TNBC. The subsequent phase 3 IMpassion131 trial (NCT03498716) trial will study the efficacy of atezolizumab in
+(NCT03125902) will evaluate the safety and efficacy of combination with adjuvant chemotherapy, while the A-Brave
+atezolizumab plus paclitaxel as a first-line therapy in patients (NCT02926196)studyfocusesonavelumab.
+with either locally advanced or metastatic TNBC. The
+PD1/PD-L1 Antibody-Targeted Therapy
+IMpassion132 trial (NCT03371017) will investigate whether
+atezolizumab plus chemotherapy (gemcitabine/carboplatin, Combination Treatment
+capecitabine) may benefit pretreated, inoperable locally Triple negative tumors feature a higher tumor mutational
+advanced or metastatic TNBC patients who were not eligible burden and extensive genomic instability with defects in the
+for the IMpassion130 trial. So far, limited information is DNA damage response (139). As such, combination therapy
+available on the effect of PD-L1 blockade in combination with strategies targeting distinct oncogenic pathways in conjunction
+chemotherapy for early stage TNBC. Results from the with immunotherapy could offer a promising approach for
+randomized phase 3 GeparNuevo study (NCT02685059) TNBC treatment. The current clinical trials exploring such
+suggest that combining durvalumab with taxane-anthracycline combination therapies are summarized in Table 3. For
+based neoadjuvant chemotherapy provides clinical benefit in instance, Poly (ADP-Ribose) Polymerase inhibitors (PARPi)
+earlyTNBCwithan increaseinpCRfrom 44to53%(136). As that target the homologous recombination repair pathway and
+of July 2020, no interim results are available for the phase 3 induce synthetic lethality in BRCA1/2 mutation carriers have
+NeoTRIPaPDL1 (NCT02620280) clinical trial that aims to beenapprovedforthetreatmentofTNBCpatientswithgermline
+evaluate the anti-tumor activity of neoadjuvant atezolizumab mutationsinBRCA1/2(143).TheuseofPARPiincombination
+plus carboplatin and nab-paclitaxel, followed by adjuvant with immune checkpoint blockade in this subset of TNBC
+chemotherapy in early stage high risk or locally advanced patients has the potential to trigger a stronger anti-tumor
+TNBC. Preliminary results were presented at the San Antonio immune response as a result of the activation of infiltrating
+BreastCancerSymposium2019andrevealedslightlyhigherpCR T cells following the release of tumor antigens by PARPi-
+rates with pembrolizumab addition (137). The phase 3 NSABP induced cell death. Furthermore, PARPi have been shown to
+B-59 (NCT03281954) trial of neoadjuvant chemotherapy upregulate PD-L1 expression in cell line and animal models
+(paclitaxel plus carboplatin) with atezolizumab, followed by providing further rationale for combining treatment with PD1/
+adjuvant atezolizumab and chemotherapy is currently in the PD-L1 inhibitors (144). The KEYNOTE-162/TOPACIO
+recruitingstage.Arecentstudyreleasedinterimresultsfromthe (NCT02657889) study reported an ORR of 29% in mTNBC
+Impassion031 (NCT03197935) trial on the combination patients treated with a combination of pembrolizumab and the
+treatment of neoadjuvant atezolizumab with sequential nab- PARPi niraparib. The presence of BRCA mutations was
+paclitaxel and anthracycline-based chemotherapy in early stage associated with a higher ORR of 67% (140). Of note, the ORR
+TABLE3| PD1/PD-L1antibody-targetedtherapycombinationsinlocallyadvancedormetastaticTNBC.
+NCTNumber OtherIDs Intervention Trialstatus/interim Ref
+results
+NCT02657889 TOPACIO/KEYNOTE-162 pembrolizumab+niraparib active
+ORR29%(67%*) (140)
+NCT03167619 DORA,3000-PN162-01-001 durvalumab+olaparib recruiting
+NCT03801369 STUDY00018504,NCI-2019-00388,STUDY00018504 durvalumab+olaparib recruiting
+NCT02849496 NCI-2016-01130,1608018258,10020,UM1CA186644/86/88/89/91, atezolizumab+olaparib recruiting
+UM1CA186709
+NCT02484404 150145,15-C-0145 durvalumab+olaparib+ recruiting
+VEGFRi
+NCT02734004 MEDIOLA,D081KC00001,2015-004005016 durvalumab+olaparib+/- active
+VEGFRi (141)
+NCT02322814 COLET,WO29479,2014-002230-32 atezolizumab+taxanes+ active
+MEKi ORR29–34% (142)
+NCT03106415 MC1632,NCI-2017-00496,P30CA015083 pembrolizumab+MEKi recruiting
+NCT03971409 187519,NCI-2019-01531,TBCRC047,BRE16-279, avelumab+MEKi recruiting
+MEKi,MEKinhibitors;ORR,overallresponse;VEGFRi,VEGFRinhibitors;*BRCAmutant.
+FrontiersinOncology | www.frontiersin.org 9 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+was higher than what has been reported for anti-PD1 (NCT03106415) or avelumab (InCITe/NCT03971409) in
+monotherapy in similar patient populations (122, 124). locallyadvancedormetastaticTNBCarecurrentlyongoing.
+Additionally, several clinical trials have been designed to
+PD1/PD-L1 Antibody-Vaccine
+evaluate the combination of PD-L1 inhibition with PARPi in
+mTNBC,including twophase 2studiescombiningdurvalumab Combination Treatment
+with the PARPi olaparib (DORA/NCT03167619 and The use of peptide vaccines for the treatment of metastatic
+NCT03801369), and a phase 2 study on atezolizumab plus cancer patients has been challenged by low response rates,
+olaparib (NCT02849496). Furthermore, triplet combination however, using a multi-peptide vaccine approach the response
+treatments of PD-L1 inhibition with PARPi and VEGF rateshaveincreasedto9.9%indifferentcancertypes(149,150).
+inhibitors are currently on the way. For instance, the doublet Moreover,combiningcancervaccineswithimmunecheckpoint
+or triplet combination of durvalumab with olaparib and the inhibitorsmayenhancetheanti-tumorimmuneresponseelicited
+VEGFR inhibitor cediranib is the focus of a phase 1/2 study by the vaccine. The current clinical trials using PD/PD-L1
+(NCT02484404) in advanced or recurrent solid cancer. antibody-vaccine combination treatments are summarized in
+Preliminary results show that the recommended dose was Table 4. Few ongoing trials are investigating the efficacy of
+tolerable and yielded a67%clinical benefit rate innine women combining cancer vaccines with pembrolizumab, using either
+withpretreatedrecurrentsolidtumorsofwhich1TNBC(141). themulti-peptidevaccinePVX-410(NCT03362060),orspecific
+Results from the MEDIOLA (NCT02734004) clinical trial are vaccinetargetingp53(NCT02432963)orWT1(NCT03761914)
+pending.Thisopenbasketstudyaimstocomparethesafetyand in advanced TNBC. Additionally, there are few clinical trials
+efficacyofdurvalumabincombinationwiththePARPiolaparib exploringtheefficacyofcombiningdurvalumabwiththemulti-
+or in combination with olaparib plus the VEGF inhibitor peptidevaccinePVX-410(NCT02826434)orwithaneoantigen
+bevacizumab in patients with advanced solid tumors including vaccine (NCT03199040, NCT03606967), and of atezolizumab
+BRCA1/2-deficient breast cancer. Furthermore, it would be of withaneoantigenvaccine(NCT03289962).
+interest tostudy the clinicalbenefitof combining PARPi, PD1/
+PD-L1blockadeandcyclindependentkinase(CDK)inhibitors. PD1/PD-L1 Antibody-Natural Killer
+Cyclin dependent kinases are well known master regulators of Cell Combination Treatment
+cell cycle progression and DNA repair pathways, and CDK Natural killer (NK) cells form the first line natural defense
+inhibitors have been shown to sensitize breast cancer cells to against abnormal cells and infection with a wide range of
+PARPi which may further augment the treatment response to pathogens. However, tumor cells have found ways to escape
+immune checkpoint blockade (145). Furthermore, CDK4/6 NK cell-mediated immunosurveillance such as the shedding of
+inhibitors have been found to promote anti-tumor immunity stress-inducible ligands MHC class I polypeptide–related
+through the stimulation of effector T cell activity, inhibition of sequence A (MICA) and MICB, which are exclusively
+proliferationofimmunosuppressiveregulatoryTcells,induction expressed in stressed or transformed cells (151, 152). This
+of fibroblast-derived pro-inflammatory cytokines and increased results in downregulation of the activating Natural killer group
+cellsurfaceantigenpresentation(146,147).Anotherstrategyto 2 member D (NKG2D) receptor and reduced susceptibility to
+combine immune checkpoint blockade with targeted therapy NKcytotoxicityduetoreducedcellsurfacedensityoftheligands.
+involves the inhibition of the MAPK pathway, which is often NK-based immunotherapy studies are investigating the use of
+dysregulated in TNBC and is associated with increased cell vastnumbersofexvivoexpandedautologousNKcells,strategies
+proliferation and resistance to apoptosis (148). The phase 2 toboost NKcellactivity ortarget inhibitory NKreceptors, and
+COLET (NCT02322814) study evaluated the added benefit of thedevelopmentofgeneticallyengineeredNKcellstoovercome
+combiningtheMEK1/2inhibitorcobimetinibwithatezolizumab the immunosuppressive environment (153–155). NK-based
+and paclitaxel/nab-paclitaxel as first line treatment in locally immunotherapy in combination with PD-1/PD-L1 immune
+advancedormetastaticTNBC.InterimanalysisrevealsanORR checkpoint blockade is relatively less studied, with only two
+of 34% in combination with paclitaxel and 29% with nab- clinicaltrialsinTNBCasshowninTable5.Thecombinationof
+paclitaxel (142). In addition, clinical trials using the MEK avelumab with iPSC-derived NK cells (FT-516) expressing a
+inhibitor binimetinib in combination with pembrolizumab high-affinity,non-cleavablevariantoftheNKactivatingreceptor
+TABLE4| PD1/PD-L1antibody-vaccinecombinationtreatmentinlocallyadvancedormetastaticTNBC.
+NCTNumber OtherIDs Intervention Trialstatus
+NCT03362060 17-328 pembrolizumab+PVX-410 recruiting
+NCT02432963 15002,NCI-2015-00653 pembrolizumab+p53-specificvaccine active
+NCT03761914 SLS17-201/MK3475-770 pembrolizumab+WT1-specificvaccine recruiting
+NCT02826434 16-132 durvalumab+PVX-410 active
+NCT03199040 201710109,1R01CA240983-01 durvalumab+neoantigenDNAvaccine recruiting
+NCT03606967 NCI-2018-01581,10146,UM1CA186704 durvalumab+Nab-paclitaxel+neoantigenvaccine unknown
+NCT03289962 GO39733,2017-001475-23 atezolizumab+neoantigenvaccine recruiting
+PVX-410,multi-peptidevaccine(XBP1US184-192;XBP1SP367-375;CD138260-268;andCS1239-247).
+FrontiersinOncology | www.frontiersin.org 10 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+TABLE5| PD1/PD-L1antibody-NKcellcombinationtreatmentinadvancedormetastaticTNBC.
+NCTNumber OtherIDs Intervention Trialstatus Ref
+NCT04551885 FT516-102 Avelumab+FT-516 Recruiting
+NCT03387085 QUILT-3.067 Avelumab+haNK+IL-15+ Active (156)
+vaccine+chemoradiation ORR67%
+PFS(13.7mths)
+FT-516,iPSC-derivedNKcellswithhnCD16;IL-15,interleukin15;NK,naturalkillercell;ORR,overallresponserate;PFS,progressionfreesurvival.
+CD16 (hnCD16) is currently under investigation in multiple sensitivity. Similarly, high concordance has been reported between
+advanced solid cancers, including TNBC (NCT04551885). clones 22C3, 28-8, and SP142 in primary and metastatic urothelial
+Furthermore, the ongoing landmark trial QUILT-3.067 carcinomas with the lowest sensitivity again being associated with
+(NCT03387085) evaluates the safety and efficacy of NK cell SP142 (159). PD-L1 scoring of head and neck squamous cell
+combination immunotherapy in patients with refractory, carcinoma, urothelial carcinoma and breast cancer revealed a
+metastatic or unresectable TNBC tumors. The study is unique higher inter-observer variability for clone SP142 as compared to
+indesignasitcombinestheuseofimmunecheckpointinhibition clonesSP263and22C3(160).InTNBC,fewstudiescomparedthe
+(avelumab) with high-affinity NK (haNK) cell therapy, IL-15 performance of the FDA-approved assays and corroborated the
+cytokine administration, cancer vaccines and metronomic previous findings in which SP142 detected significant less PD-L1
+chemoradiation to stimulate both the innate and adaptive positivity compared to SP263 and 22C3 (161–163). A recent study
+immune system. Interim results of nine patients demonstrate involved19pathologistsfrom14differentinstitutionstoevaluatethe
+an overallresponse rate of67%withadisease controlresponse sensitivity and reproducibility of SP142 and SP263 staining in
+rate of 78% and complete response rate of 22% (156). Notably, advanced TNBC (164). This study reported PD-L1 positivity in
+the duration of the treatment responses with a median PFS of 58% of cases using SP142 and in 78% with SP263, with decreased
+13.7 months is very promising in comparison to the historical observeragreementof41%ateightobserversforSP142and46%at
+PFSof3months. 10observersforSP263.DespitethelowerperformanceofSP142,the
+SP142-based Ventana test currently remains the companion
+diagnostictestforthefirstFDA-approvedimmunotherapyregimen
+of atezolizumab plus nab-paclitaxel treatment of patients with
+PREDICTIVE BIOMARKERS IN IMMUNE metastatic, locally advanced or unresectable tumors, based on the
+CHECKPOINT INHIBITION resultsfromtheImpassion130trial(128,135).Ofnote,solublePD-L1
+(sPD-L1)hasbeendetectedintheperipheralbloodofpatientswith
+Immunecheckpointblockadehasenteredclinicalpracticeasfirst-or advancednon-smallcelllungcancer,multiplemyeloma,diffuselarge
+second-linetreatmentforanumberofcancers,however,itremainsa B-celllymphoma,andrenalcellcarcinomawherebyhighlevelsare
+challenge to select patients that will benefit the most. PD-L1 associatedwithpoorprognosis(165–168).Highpre-treatmentsPD-
+expression is widely used as predictive biomarker due to its L1levelswereassociatedwithworseoutcomeinmelanomapatients
+association with better response rates to PD1/PD-L1 blockade for treated with ipilimumab or pembrolizumab, which could possibly
+patientswithmTNBC.Asdescribedabove,strongerPD-L1positivity reflectalargertumorburdenand/oranexhaustedimmuneresponse
+has been associated with better overall response rates, progression- thatcannotbereinvigoratedbyimmunecheckpointblockade(168).
+free,andoverallsurvivalinmetastaticTNBCpatientstreatedwithICI Incontrast,anincreaseinpost-treatmentsPD-L1wasassociatedwith
+monotherapy or in some cases with a chemotherapy combination partialresponse.Thesefindingshighlighttheneedforlessambiguous,
+(40, 124, 129, 134). Routine clinical testing of PD-L1 expression is more reproducible predictive biomarkers for immune
+currently conducted using five distinct FDA-approved companion checkpointinhibition.
+diagnosticimmunohistochemistrytests(157).Nevertheless,theuseof Two emerging predictive biomarkers are the number of
+different antibody clones (22C3 for pembrolizumab, 28-8 for tumor infiltrating lymphocytes and the tumor mutational
+nivolumab, SP263 for durvalumab, SP142 for atezolizumab, and burden. Increased number of TILs have been associated with
+73-10foravelumab),biomarkerstainingplatforms,scoringsystems better overall survival in TNBC patients treated with ICI
+and cut-off values for PD-L1 positivity makes it very difficult to monotherapy or in combination with chemotherapy (117,
+consolidate the predictive value of PD-L1 expression across tumor 136). The relative importance of intratumoral TILs (iTILs)
+types and across studies. Moreover, some assays define PD-L1 versus stromal TILs (sTILs) has not clearly been defined yet
+positivitysolelybasedontumorcellsurfaceexpressionwhileothers and might differ between tumor types. In breast cancer, both
+quantify cytoplasmic plus cell surface PD-L1 expression of tumors iTILsandsTILshavebeencorrelatedwithclinicaloutcomeand
+andimmunecells.Theprospectivemulti-institutionalBlueprintstudy chemotherapy response (59, 60, 63, 78, 169). Moreover, in
+comparedtheperformanceofallfivePD-L1antibodyclonesinnon- metastatic TNBC sTILs have been correlated with treatment
+small cell lung cancer specimens (158). They reported good responsetopembrolizumab,atezolizumab,andnivolumab(117,
+concordance among three antibodies (22C3, 28-8, and SP263), 124). Thus, the International Immuno-Oncology Biomarker
+while the fourth antibody clone (73-10) demonstrated superior Working Group published guidelines for the assessment of
+sensitivity and the fifth clone (SP142) underperformed with lower stromal and intra-tumoral TILs in a wide range of solid tumor
+FrontiersinOncology | www.frontiersin.org 11 February2021 | Volume10 | Article600573
+Thomasetal. ImmuneCheckpointBlockadeinBC
+types (170). However, robust scoring of sTILs is hindered by inhibition with chemotherapy, PARP inhibitors, cancer
+differences in relative iTIL and sTIL distribution, inaccurate vaccines or NK cell therapy holds great potential to increase
+delineation of tumor boundaries, small areas of intratumoral theclinicalbenefitinTNBC.Nevertheless,wehighlightherethat
+stroma, presence of necrosis and extracellular mucin (171). the selection of patients with the highest likelihood of benefit
+Furthermore, tumor mutational burden has been correlated fromthesetreatmentsrequiresreliablepredictivebiomarkersas
+with higher objective response rates toanti-PD1 or anti-PD-L1 well as a better understanding of cancer cell-intrinsic and/or
+monotherapy across 27solid tumortypes (29). Interestingly, in microenvironmental factors that define a potent and durable
+breastcancerlowerresponserateswereobservedthanexpected anti-tumorimmuneresponse.
+based on TMB suggesting that TMB might not be a good
+predictive biomarker in these tumors. We believe that a
+combination of predictive biomarkers such as PD-L1
+AUTHOR CONTRIBUTIONS
+expression, iTIL and sTIL density together with TMB, TCR
+diversity and immune gene signatures will more likely yield
+RTdraftedthemanuscript.GA-Kdesignedthefigureandtables
+improved performance over each of these biomarkers alone,
+andcriticallyrevisedthemanuscript.JDconceivedandcritically
+thereforewarrantingfurtherinvestigation.
+revisedthemanuscriptandtables.Allauthorscontributedtothe
+articleandapprovedthesubmittedversion.
+CONCLUSION
+Toconclude,theresultsofimmunecheckpointblockadeclinical FUNDING
+trialsinTNBCarepromising,inparticularinmetastaticsetting.
+The FDA-approval of atezolizumab plus nab-paclitaxel for This work was supported by grants from the Qatar Biomedical
+metastatic TNBC marks the first licensed immunotherapy ResearchInstitute(#VR94),awardedtoJD,andtheQatarNational
+regimen for breast cancer. Combining immune checkpoint ResearchFund(QRLP10-G-1803024),awardedtoGA-K.

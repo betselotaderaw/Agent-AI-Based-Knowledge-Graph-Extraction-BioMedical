@@ -1,0 +1,243 @@
+BOSNIAN JOURNAL OF
+BASIC MEDICAL SCIENCES REVIEW ARTICLE WWW.BJBMS.ORG
+Targeted immunotherapy with a checkpoint inhibitor
+in combination with chemotherapy: A new clinical
+paradigm in the treatment of triple-negative breast cancer
+Farhan S. Cyprian1, Saghir Akhtar1, Zoran Gatalica2, Semir Vranic1*
+1College of Medicine, Qatar University, Doha, Qatar, 2Caris Life Sciences, Phoenix, Arizona, United States of America
+ABSTRACT
+The treatment of several solid and hematologic malignancies with immune checkpoint inhibitors (against programmed death receptor-1/
+ligand-1 [PD-1/PD-L1]) has dramatically changed the cancer treatment paradigm. However, no checkpoint inhibitors were previously
+approved for the treatment of triple-negative breast cancer (TNBC), a difficult-to-treat disease with a high unmet therapeutic need. Based on
+IMpassion130 clinical trial (NCT02425891), the Food and Drug Administration (FDA) has recently granted an accelerated approval for atezoli-
+zumab (TECENTRIQ), a monoclonal antibody drug targeting PD-L1, plus chemotherapy (Abraxane; nab-Paclitaxel) for the treatment of
+adults with PD-L1-positive, unresectable, locally advanced or metastatic TNBC. The FDA has also approved the Ventana diagnostic antibody
+SP142 as a companion test for selecting TNBC patients for treatment with atezolizumab. In the present review, we briefly discuss the impor-
+tance of this breakthrough as the first cancer immunotherapy regimen to be approved for the management of breast cancer.
+KEY WORDS: Breast cancer; triple-negative breast cancer; immune checkpoint inhibitors; predictive biomarkers; PD-L1
+DOI:  Bosn J Basic Med Sci. 2019;19(3):227-233. © 2019 ABMSFBIH
+REVIEW microsatellite instable (MSI-H) colorectal, cervical, hepato-
+cellular and Merkel cell carcinoma, as well as in malignant
+Recent advances in the development of cancer immuno- melanoma (both pediatric and adult) and classical Hodgkin’s
+therapy using immune checkpoint inhibitors against either lymphoma [6,7]. In addition, an anti-PD-1 agent pembroli-
+programmed death receptor-1 (PD-1) or its ligand PD-L1 have rev- zumab has been approved for all solid MSI-H cancers regard-
+olutionized treatment of several solid tumors [1-4]. The interaction less the histotype (“tumor agnostic approach”) [7-10].
+between PD-1 on T-cells and its ligands PD-L1 and PD-L2 on can- Triple-negative breast cancer (TNBC) is a complex and highly
+cer cells promotes T-cell exhaustion and conversion of T effector aggressive subtype of breast cancer lacking estrogen (ER), progester-
+cells to immunosuppressive T regulatory (Treg) cells (Figure 1) . one (PR), and human epidermal growth factor receptor 2 (HER2)
+Immune checkpoint inhibitors (against either PD-1 or PD-L1) receptors, thereby making it difficult to treat . It carries the
+block the suppressor PD-1/PD-L1 axis contributing to the reacti- highest metastatic potential and has the poorest clinical outcome
+vation of cytotoxic T effector cells and consequently enhancing among all the subtypes of breast cancer . Due to the advances
+the anticancer activity of the immune system (Figure 1) . in molecular characterization of TNBC, various novel therapeutic
+Stunning successes of monoclonal antibody-based immune targets including poly ADP-ribose polymerase-1 (PARP-1) inhibi-
+checkpoint inhibitors against PD-1/PD-L1 (e.g., nivolumab, tors, tyrosine kinase inhibitors, immune checkpoints, anti-andro-
+pembrolizumab, atezolizumab, avelumab, durvalumab, and gens, and epigenetic targets have come into focus .
+ipilimumab) have been achieved in various cancers . These Although breast cancer has been initially considered a
+include non-small cell lung carcinoma (NSCLC), renal, blad- “non-immunogenic” cancer, numerous studies have now
+der, head and neck, gastric/gastroesophageal junction (GEJ), shown PD-L1 expression in both cancer and inflammatory
+cells (tumor infiltrating lymphocytes [TILs]). PD-L1 positivity
+*Corresponding author:
+in cancer or inflammatory cells has been reported across the
+Semir Vranic, College of Medicine, Qatar University, PO Box 2713, Doha,
+Qatar. Phone: +974 4403 7873. breast cancer histotypes [12-26]. In particular, ER-negative
+E-mail: semir.vranic@gmail.com/svranic@qu.edu.qa
+breast cancers (TNBC and HER2 positive) have been shown
+Submitted: 25 March 2019 / Accepted: 26 March 2019 to be “immunogenic” and potentially amenable for the trials
+227
+Farhan S. Cyprian, et al.: Atezolizumab in triple-negative breast cancer
+with anti-PD-1/PD-L1 agents [12,16,17,20,26-35]. TNBC is or TPS <50%) but rather focal or patchy and limited to a small
+thought to have relatively high PD-L1 expression, predom- proportion of cancer cells .
+inantly in inflammatory (immune) cells and occasionally There are numerous ongoing clinical trials with immune
+in cancer cells (Figure 2A and B) [14,16-18,20,29-31,36-39]. checkpoint inhibitors combined with other treatment modali-
+A recent systematic review of Zhang et al. , based on ties in breast cancer . Of note has been atezolizumab which
+analysis >2500 breast cancers, revealed PD-L1 positivity in selectively targets PD-L1 to prevent interaction with the recep-
+the range 21-56% (Table 1). In such studies, the tumor propor- tors PD-1 and B7-1 (a costimulatory cell-surface protein) to
+tion score (TPS) is defined as “the percentage of viable tumor reverse T-cell suppression. It had previously been approved as
+cells showing partial or complete membrane staining (≥1+) a single-agent for the treatment of metastatic urothelial/blad-
+relative to all viable tumor cells present in the sample (pos- der carcinoma and non–small-cell lung cancer [42,43]. This
+itive and negative)”, source:  monoclonal antibody drug is clinically effective and has a good
+cdrh_docs/pdf15/p150013b.pdf, accessed: March 10, 2019). safety profile in patients with other solid tumors , so it was a
+It is noteworthy that, in most PD-L1-positive breast cancers, good candidate for potential use in the management of patients
+PD-L1 expression is not diffuse (>50% of positive cancer cells with TNBC. The most remarkable results have been recently
+FIGURE 1. The possible mechanism of action of anti-programmed death receptor-1/ligand-1 (PD-1/PD-L1) drugs (e.g., atezolizumab)
+and nab-paclitaxel in metastatic triple-negative breast cancer (TNBC). (i) Metastatic breast cancers are dynamic environments undergo-
+ing proliferation and apoptosis along with immune cell infiltration. Breast cancers are heterogeneous populations which may or may
+not (e.g., TNBC) be influenced by ERBB2/human epidermal growth factor receptor 2 (HER2) and/or nuclear estrogen receptor (ER) and
+progesterone receptor (PR) signaling (a). Apoptotic tumor cells are phagocytosed, and tumor-specific antigens are expressed on the
+major histocompatibility complex (MHC) molecules by tumor-infiltrating antigen presenting cells (APC) that may activate antigen-spe-
+cific cytotoxic T cell (CTL) responses by engaging their T cell receptors. Costimulatory signals through B7 on APCs and CD28 on T cells
+are necessary for CTL differentiation and proliferation. T cells express PD-L1 and its receptor PD-1. The interaction of PD-L1 with B7.1
+suppresses T cell differentiation into CTL (b). Metastatic TNBC expresses PD-L1 in abundance. The engagement of PD-L1 with PD-1 blocks
+CTL effector function allowing unchecked tumor progression (c). (ii) Metastatic TNBC positive for PD-L1 respond to combination therapy
+with atezolizumab (monoclonal anti-PD-L1 antibody) and Abraxane (nab-paclitaxel) (a). Abraxane enhances expression of tumor-specific
+antigens and induction of apoptosis (G2/M phase arrest), thereby facilitating antigen presentation via APCs (b). APCs are activated via
+nab-paclitaxel and enhance toll-like receptor (TLR) expression contributing to efficient antigen presentation as well as costimulation by
+B7 family (c). Suppressive signal in activating T cells is inhibited as atezolizumab blocks the interaction of PD-L1 with B7.1. Thus augment-
+ing signal induction for activation, differentiation, and proliferation of tumor-specific CTL clones (d). Metastatic TNBC expresses PD-L1
+in abundance. Disrupting the engagement of PD-L1 with its receptor PD-1 by anti-PD-L1 antibody allows CTLs to secrete perforins that
+make holes in the target cell membrane allowing granzymes to enter and induce caspase-dependent apoptosis of these aggressive
+cancers (e).
+228
+Farhan S. Cyprian, et al.: Atezolizumab in triple-negative breast cancer
+A B
+FIGURE 2. Programmed death ligand-1 (PD-L1) as a biomarker for triple-negative breast cancer (TNBC). (A) Hematoxylin and Eosin (H&E)
+slide of the high-grade, TNBC not otherwise specified (NOS) with abundant tumor infiltrating lymphocytes (TILs) [×10]; (B) TILs were
+strongly positive for PD-L1 by immunohistochemistry (clone SP142, Ventana). Note the lack of PD-L1 expression in the cancer cells (×10).
+TABLE 1. A list of the available diagnostic anti-PD-L1 antibodies with taxane-based chemotherapy that inhibits mitosis was that
+and their status in regards to the FDA approval
+it may enhance tumor-antigen release and antitumor responses
+Antibody (Manufacturer)  FDA status Cancer subtype to immune checkpoint inhibition. Additionally, solvent-free
+22c3 (Dako Agilent) Companion NSCLC
+taxanes might also activate toll-like receptors and promote
+diagnostics* Bladder cancer
+Cervical cancer dendritic cell activity (Figure 1) [45,46].
+Gastric and GEJ
+In the IMpassion130 trial, prior to treating patients with
+cancer
+atezolizumab, tumor samples were centrally assessed by immu-
+SP142 (Ventana) Companion Bladder cancer
+diagnostics Breast cancer nohistochemistry for the presence of PD-L1 expression (SP142
+Complementary NSCLC
+clone, Ventana). PD-L1 expression was assessed in tumor-infil-
+diagnostics**
+SP263 (Ventana) Complementary Bladder cancer trating (immune) cells using two-tier system: “a percentage of
+diagnostics tumor area” <1% (=PD-L1 negative) or ≥1% (=PD-L1 positive). The
+28-8 (Dako Agilent) Complementary NSCLC
+study revealed that the patients whose cancers were positive for
+diagnostics Bladder cancer
+Melanoma PD-L1 (~41%) and received atezolizumab did significantly better
+HNSCC
+than those treated with nab-paclitaxel: Median progression-free
+Bladder cancer
+survival (PFS) was 7.2 months with atezolizumab compared
+73-10 (Dako Agilent/Merck) Not approved Merkel cell
+carcinoma with 5.5 months of the patients treated with placebo-nab-pacli-
+*Companion diagnostics: “A medical device, often an in vitro device, taxel only. In the PD-L1-positive subgroup, the response rate was
+which provides information that is essential for the safe and effective use
+~59% with atezolizumab–nab-paclitaxel in comparison with
+of a corresponding drug or biological product.” (Source: FDA, accessed
+January 25, 2019), **Complementary diagnostics: “A test that aids in the ~43% in the placebo–nab-paclitaxel subgroup. Notably, 10% of
+benefit–risk decision–making about the use of the therapeutic product,
+the patients in the atezolizumab–nab-paclitaxel group achieved
+where the difference in benefit–risk is clinically meaningful” (Sources:
+ASCO/American Society of Clinical Oncology/, 2016 and . a complete response as compared with only ~1% of those in the
+NSCLC: Non-small cell lung cancer; GEJ cancer: Gastroesophageal cancer;
+placebo–nab-paclitaxel group . Importantly, the atezoli-
+HNSCC: Head and neck squamous cell carcinoma; FDA: Food and Drug
+Administration zumab plus nab-paclitaxel combination group yielded no new
+safety concerns as the safety profile appeared consistent with
+the known profiles of each component drug. Indeed, the most
+achieved in the clinical trial IMpassion130 (NCT02425891) .
+common side effects with the combined treatment were hair
+This study led the Food and Drug Administration (FDA) to
+grant accelerated approval for atezolizumab (TECENTRIQ, loss, fatigue, tingling or numbness in the hands and feet, nausea
+and vomiting, diarrhea, anemia, constipation, cough, headache,
+anti-PD-L1 agent) in combination with chemotherapy using a
+neutropenia, and reduced appetite, which were present among
+solvent-free, nanoparticle albumin-bound (nab) formulation
+of paclitaxel (nab-Paclitaxel; Abraxane) for the treatment of 20% or more of patients.
+One of the important findings in the IMpassion130 trial is
+patients with TNBC (date of approval: March 8, 2019). The
+the efficiency of combined therapy (immunotherapy + conven-
+approval was based on the randomized trial involving 902
+tional chemotherapy). The combined treatment has its rationale
+TNBC patients with unresectable, locally advanced, and/or
+at the molecular level as illustrated in the case of breast cancer
+metastatic TNBC without prior treatment for the metastatic
+in Figure 1. This approach has also been clinically verified to
+disease. Patients were randomized (1:1) to receive atezolizumab
+be successful in other cancers like NSCLC. Thus, the FDA in
+plus chemotherapy with Abraxanevs. placebo plus Abraxane.
+September 2017 approved the first combination of chemotherapy
+The possible rationale for combining the checkpoint inhibitor
+229
+Farhan S. Cyprian, et al.: Atezolizumab in triple-negative breast cancer
+and immunotherapy for patients with metastatic, non-squamous the use of checkpoint inhibitors together with conventional che-
+NSCLC. The approval included pembrolizumab (KEYTRUDA) motherapy as a novel clinical paradigm for the treatment of oth-
+in combination with pemetrexed and carboplatin. The approval erwise difficult-to-treat cancers.
+was based on results obtained in the KEYNOTE-021 Phase 2 It is clinically important to identify patients who are likely
+clinical trial that demonstrated that non-squamous NSCLC to respond to checkpoint inhibitor-based immunotherapy.
+patients treated with the combination therapy exhibited a 55% Although a quite difficult task given the complex tumor micro-
+therapeutic response rate in comparison with 29% with chemo- environment and interactions between the cancer and various
+therapy alone . A recent update on this study (24 months fol- immune cells such as T-lymphocytes, B-lymphocytes, den-
+low-up) confirmed the initial data with significant improvements dritic, and antigen-presenting cells (Figure 1), several biomark-
+in PFS and objective response rate (~57% in combined group vs. ers have nonetheless been identified to reliably predict the
+30% in chemotherapy group) in the patients treated with com- effectiveness of the anti-PD-1/PD-L1 checkpoint inhibitors in
+bined immunotherapy (pembrolizumab)-chemotherapy (peme- cancer patients. These include PD-L1 status (the target protein/
+trexed-carboplatin) . More recently, the FDA on March 18, antigen for atezolizumab), tumor mutational burden (load)
+2019 has granted accelerated approval for the use of atezolizumab [TMB/TML], microsatellite instability status (MSI) and the
+in combination with carboplatin and etoposide chemotherapy number of TILs (Tables 1 and 2). PD-L1 expression in cancer or
+for the first-line treatment of adult patients with extensive-stage immune cells as detected by immunohistochemistry has been
+SCLC (ES-SCLC). Approval was based on the IMpower133 shown to be one of the most reliable predictive biomarkers
+(NCT02763579), a randomized (1:1), multicenter, double-blind, as confirmed in the IMpassion130 (NCT02425891) study. For
+placebo-controlled trial in 403 patients with ES-SCLC. Patients detection purposes, four out of five diagnostic antibodies have
+receiving atezolizumab with chemotherapy showed improved been validated as either companion or complementary diag-
+median overall survival of 12.3 months compared to 10.3 months nostics (Table 1). Indeed, the current FDA approval of atezoli-
+for those on placebo with chemotherapy (hazard ratio [HR] zumab in the treatment of TNBC applies only to patients
+0.70; 95% CI: 0.54, 0.91; p = 0.0069). Furthermore, patients on the whose breast cancers express PD-L1 in an FDA-approved test
+checkpoint inhibitor plus chemotherapy had a median PFS of (i.e., the Ventana diagnostic antibody SP142).
+5.2 months compared with 4.3 months in the placebo with che- This recent FDA approval of atezolizumab plus chemo-
+motherapy arm of the trial (HR 0.77; 0.62, 0.96; p = 0.0170) . therapy for the treatment of adults with PD-L1-positive, unre-
+This approval has changed the standard first-line therapy for the sectable, locally advanced, or metastatic TNBC represents
+first time in several decades for this cancer . Despite concerns the first cancer immunotherapy regimen to be approved for
+over the cost-effectiveness of checkpoint inhibitor-based immu- the management of breast cancer. It is truly a landmark thera-
+notherapy , these recent FDA approvals (e.g., for NSCLC, peutic development for patients with TNBC given the limited
+ES-SCLC, and TNBC as discussed herein) have firmly established treatment options available for this heterogeneous, but a highly
+TABLE 2. The status of predictive biomarkers to immune checkpoint inhibitors in cancers with approved anti-PD-1/PD-L1 agents and
+breast cancer
+Predictive biomarker to checkpoint inhibitor Cancer type Status in breast cancer
+PD-L1 expression (TC and/or IC)* NSCLC 21-56% in ER-negative breast cancers (TNBC and HER2-positive)
+Bladder cancer
+HNSCC
+Cervical cancer
+Gastric/GEJ cancer
+PD-L1 (CD274) gene amplification [56,57] Classical HL (36%) ~1-2%
+RCC (Sarcomatoid) (6%)
+HNSCC (~3%)
+NSCLC (~2%)
+High tumor mutational load (burden) [58,59] Melanoma Predominantly low
+NSCLC
+Bladder
+Merkel cell carcinoma
+Hepatocellular carcinoma
+MSI-H or MMR-D Tumor-agnostic** Low (~1%)
+Renal cell carcinoma
+Increased TILs Colorectal carcinoma Common in ER-negative breast cancers (TNBC and HER2-positive)
+Gastric/GEJ cancer
+*Assessed by immunohistochemistry, **Tumor-agnostic approach implies a treatment based on a specific genomic/molecular/abnormality in a cancer,
+rather than its anatomic or histologic origins ; good examples of such an approach include immune checkpoint inhibitors and tropomyosin kinase
+receptor (TRK) inhibitors (e.g., larotrectinib). TC: Tumor cells; IC: Inflammatory (immune) cells; ER: Estrogen receptor; GEJ: Gastroesophageal junction;
+NSCLC: Non-small cell lung carcinoma; HNSCC: Head and neck squamous cell carcinoma; TNBC: Triple-negative breast cancer; RCC: Renal cell carcinoma;
+HL: Hodgkin’s lymphoma; MSI-H: Microsatellite instability high; MMR-D: Mismatch repair deficient; TILs: Tumor infiltrating lymphocytes
+230
+Farhan S. Cyprian, et al.: Atezolizumab in triple-negative breast cancer
+aggressive subtype of breast cancer . Chemotherapy alone  Lee A, Djamgoz MB. Triple negative breast cancer: Emerging ther-
+apeutic modalities and novel combination therapies. Cancer Treat
+had been the mainstay of treatment for many years for TNBC
+Rev 2018;62:110-22.
+and so the approval of this checkpoint inhibitor combination 
+for people with PD-L1-positive TNBC disease fulfills an unmet  Solinas C, Gombos A, Latifyan S, Piccart-Gebhart M, Kok M,
+Buisseret L, et al. Targeting immune checkpoints in breast cancer:
+medical need. Hopefully, several additional ongoing trials with
+An update of early results. ESMO Open 2017;2(5):e000255.
+immune checkpoint inhibitors other than atezolizumab  
+will endorse the results from the IMpassion130 (NCT02425891)  Joneja U, Vranic S, Swensen J, Feldman R, Chen W, Kimbrough J,
+et al. Comprehensive profiling of metaplastic breast carcinomas
+study. Additional efforts are also required to optimize predic-
+reveals frequent overexpression of programmed death-ligand 1.
+tive biomarkers in TNBC (PD-L1 antibody selection, Table 1, J Clin Pathol 2017;70(3):255-9.
+threshold for positivity, cancer vs. immune cells expression,
+ Dill EA, Gru AA, Atkins KA, Friedman LA, Moore ME, Bullock TN,
+further dissection of the breast cancer immune microenviron- et al. PD-L1 expression and intratumoral heterogeneity across
+ment, Figure 1)  and to maximize the effectiveness of these breast cancer subtypes and stages: An assessment of 245 primary
+and 40 metastatic tumors. Am J Surg Pathol 2017;41(3):334-42.
+important class of immune-targeting therapeutic agents.
+ Ghebeh H, Mohammed S, Al-Omair A, Qattan A, Lehe C,
+DECLARATION OF INTERESTS Al-Qudaihi G, et al. The B7-H1 (PD-L1) T lymphocyte-inhibitory
+molecule is expressed in breast cancer patients with infiltrating
+ductal carcinoma: Correlation with important high-risk prognostic
+ZG is employed by Caris Life Sciences, which commer- factors. Neoplasia 2006;8(3):190-8.
+cially offers testing for PD-L1. Other authors declare no con-
+ Mittendorf EA, Philips AV, Meric-Bernstam F, Qiao N, Wu Y,
+flict of interests. Harrington S, et al. PD-L1 expression in triple-negative breast can-
+cer. Cancer Immunol Res 2014;2(4):361-70.
