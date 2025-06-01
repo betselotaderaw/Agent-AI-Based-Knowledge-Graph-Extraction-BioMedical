@@ -2,8 +2,9 @@ import os
 import json
 from neo4j import GraphDatabase
 from dotenv import load_dotenv
-from typing import List, Dict, Optional, Tuple, Set
+from typing import List, Dict, Optional
 from langchain_ollama import OllamaLLM
+from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 
 # Load environment variables
@@ -11,34 +12,15 @@ load_dotenv()
 NEO4J_URI = os.getenv("NEO4J_URI")
 NEO4J_USERNAME = os.getenv("NEO4J_USERNAME")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
-
-SAMPLE_RELATIONSHIPS = [
-    {"source": "pulmonary nocardiosis", "relation": "affects", "target": "respiratory"},
-    {"source": "nocardiosis", "relation": "causes", "target": "infection"},
-    {"source": "aerosol route", "relation": "associates_with", "target": "nocardia infection"},
-    {"source": "molecular techniques", "relation": "diagnoses", "target": "nocardia infection"},
-    {"source": "small nodule", "relation": "associates_with", "target": "nocardiosis"}
-]
+OPENAI_API_KEY = os.getenv("API_KEY")
 
 class EnhancedNeo4jGraph:
     def __init__(self, uri: str, user: str, password: str):
         self.driver = GraphDatabase.driver(uri, auth=(user, password))
-        self._ensure_constraints()
         print("✅ Successfully connected to Neo4j")
 
     def close(self):
         self.driver.close()
-
-    def _ensure_constraints(self):
-        with self.driver.session() as session:
-            session.run("""
-            CREATE CONSTRAINT unique_entity IF NOT EXISTS 
-            FOR (e:Entity) REQUIRE e.name IS UNIQUE
-            """)
-            session.run("""
-            CREATE CONSTRAINT unique_paper IF NOT EXISTS
-            FOR (p:Paper) REQUIRE p.name IS UNIQUE
-            """)
 
     def query(self, cypher: str, params: Optional[Dict] = None) -> List[Dict]:
         try:
@@ -46,170 +28,281 @@ class EnhancedNeo4jGraph:
                 result = session.run(cypher, params or {})
                 return [dict(record) for record in result]
         except Exception as e:
-            print(f"⚠️ Query error: {str(e)}")
+            print(f"⚠️ Query error: {e}")
             return []
 
-# Initialize services
-try:
-    graph = EnhancedNeo4jGraph(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
-    llm = OllamaLLM(model="mistral:latest", temperature=0.3)
-except Exception as e:
-    print(f"❌ Initialization error: {str(e)}")
-    exit(1)
+class QAModel:
+    def __init__(self, model_type: str = "ollama"):
+        self.model_type = model_type
+        self.llm = self._initialize_model()
+        
+    def _initialize_model(self):
+        if self.model_type == "openai":
+            return ChatOpenAI(
+                model_name="gpt-4o",
+                api_key=OPENAI_API_KEY
+            )
+        else:  # Default to Ollama
+            return OllamaLLM(
+                model="deepseek-r1:latest"
+            )
+    
+    def invoke(self, prompt):
+        return self.llm.invoke(prompt)
 
-def load_entity_labels() -> Dict[str, str]:
+def initialize_services(model_choice: str):
+    """Initialize both Neo4j and LLM services"""
     try:
-        with open("./output/cleaned_entities.json") as f:
-            return {e['text'].lower(): e['label'] for e in json.load(f)}
+        graph = EnhancedNeo4jGraph(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
+        qa_model = QAModel(model_choice)
+        return graph, qa_model
     except Exception as e:
-        print(f"⚠️ Error loading entity labels: {str(e)}")
-        return {}
+        print(f"❌ Initialization error: {e}")
+        exit(1)
 
-entity_labels = load_entity_labels()
+def get_model_choice() -> str:
+    """Prompt user to choose between Ollama and OpenAI"""
+    while True:
+        choice = input("Choose QA model backend ('ollama' or 'openai'): ").strip().lower()
+        if choice in ["ollama", "openai"]:
+            return choice
+        print("⚠️ Invalid choice. Please enter 'ollama' or 'openai'.")
 
-def initialize_graph(relationships: List[Dict], paper_name: str = "BCR"):
-    graph.query("""
-    MERGE (p:Paper {name: $name})
-    SET p.last_updated = datetime()
-    """, {"name": paper_name})
-
-    for rel in relationships:
-        source = rel['source'].lower()
-        target = rel['target'].lower()
-
-        graph.query("""
-        MERGE (a:Entity {name: $source})
-        SET a.label = $source_label
-        MERGE (a)-[:MENTIONED_IN]->(:Paper {name: $paper})
-
-        MERGE (b:Entity {name: $target})
-        SET b.label = $target_label
-        MERGE (b)-[:MENTIONED_IN]->(:Paper {name: $paper})
-
-        MERGE (a)-[r:RELATED_TO {type: $relation}]->(b)
-        SET r.added_on = datetime()
-        """, {
-            "source": rel['source'],
-            "target": rel['target'],
-            "relation": rel['relation'],
-            "paper": paper_name,
-            "source_label": entity_labels.get(source, "unknown"),
-            "target_label": entity_labels.get(target, "unknown")
-        })
-
-def get_graph_data(limit: int = 100) -> Tuple[List[Dict], Set[str], Set[str]]:
-    query = """
-    MATCH (a:Entity)-[r:RELATED_TO]->(b:Entity)
-    OPTIONAL MATCH (a)-[:MENTIONED_IN]->(pa:Paper)
-    OPTIONAL MATCH (b)-[:MENTIONED_IN]->(pb:Paper)
-    RETURN DISTINCT a.name AS source, 
-           COALESCE(a.label, 'unknown') AS source_label,
-           type(r) AS relation, 
-           b.name AS target, 
-           COALESCE(b.label, 'unknown') AS target_label,
-           [x IN collect(DISTINCT pa.name) WHERE x IS NOT NULL] + 
-           [x IN collect(DISTINCT pb.name) WHERE x IS NOT NULL] AS papers
-    LIMIT $limit
+def get_graph_data(question: str = None) -> List[Dict]:
+    """Get relevant graph data based on question"""
+    base_query = """
+    MATCH (source:Entity)-[r:RELATED_TO]->(target:Entity)
+    WHERE source.name IS NOT NULL AND target.name IS NOT NULL
     """
-    records = graph.query(query, {"limit": limit})
+    
+    if question:
+        question_lower = question.lower()
+        if "treat" in question_lower:
+            base_query += " AND r.type = 'treats'"
+        elif "cause" in question_lower:
+            base_query += " AND r.type = 'causes'"
+        elif "diagnos" in question_lower:
+            base_query += " AND r.type = 'diagnoses'"
+        elif "associated" in question_lower:
+            base_query += " AND r.type = 'associated_with'"
+    
+    query = base_query + """
+    RETURN 
+        source.name AS source,
+        source.label AS source_label,
+        source.source_ids AS source_ids,
+        source.source_paper AS source_papers,
+        r.type AS relation,
+        target.name AS target,
+        target.label AS target_label,
+        target.source_ids AS target_ids,
+        target.source_paper AS target_papers,
+        r.source_paper AS relation_papers
+    ORDER BY r.type
+    LIMIT 50
+    """
+    
+    return graph.query(query)
 
-    entity_types = set()
+def format_entity_info(entity: Dict) -> str:
+    """Format entity information with IDs and papers"""
+    info = entity['name']
+    if entity.get('label') and entity['label'] != 'unknown':
+        info += f" ({entity['label']})"
+    
+    if entity.get('source_ids'):
+        info += f" [NCIT IDs: {', '.join(entity['source_ids'])}]"
+    
     papers = set()
-
-    for r in records:
-        if r.get("source_label"):
-            entity_types.add(r["source_label"])
-        if r.get("target_label"):
-            entity_types.add(r["target_label"])
-        if r.get("papers"):
-            papers.update(r["papers"])
-
-    return records, papers, entity_types
-
-def generate_context(relationships: List[Dict]) -> str:
-    return "\n".join(
-        f"{r['source']} ({r.get('source_label', '?')}) "
-        f"--{r['relation']}--> "
-        f"{r['target']} ({r.get('target_label', '?')}) "
-        f"[source: {', '.join(sorted(set(r.get('papers', []))))}]"
-        for r in relationships
-    )
+    if entity.get('source_papers'):
+        papers.update(p.strip() for p in entity['source_papers'].split(",") if p.strip())
+    
+    if papers:
+        info += f" [source: {', '.join(sorted(papers))}]"
+    
+    return info
 
 qa_prompt = PromptTemplate.from_template("""
-You are a biomedical knowledge graph assistant with these capabilities:
+You are a precise biomedical knowledge graph assistant. Only use the provided relationships.
 
-Available Entity Types: {entity_types}
-
-Knowledge Graph Relationships:
+Available Relationships:
 {graph_data}
 
 Guidelines:
-1. Be precise and cite sources when available
-2. Use entity types when relevant
-3. If unsure, say "I don't have information about this"
+1. Only answer using the relationships shown above
+2. If information isn't available, say: "This information is not in the knowledge graph."
+3. For entities:
+   - Always include NCIT IDs if available
+   - List all source papers
+4. For relationships:
+   - State the exact relationship type
+   - Cite supporting papers
+5. Never invent information
 
 Question: {question}
 
-Answer format:
-<answer> [source: {papers}]
+Answer in this format:
+<answer> [NCIT IDs if available] [source: papers if available]
 """)
 
-def answer_question(question: str) -> str:
+def answer_question(question: str, qa_model: QAModel) -> str:
     try:
-        relationships, papers, entity_types = get_graph_data()
+        # Handle specific queries directly
+        if "source id" in question.lower() or "ncit id" in question.lower():
+            entity_name = question.split("for")[-1].split("about")[-1].strip()
+            result = graph.query("""
+                MATCH (e:Entity {name: $name})
+                RETURN e.name AS name, e.source_ids AS ids, e.source_paper AS papers
+                """, {"name": entity_name})
+            
+            if not result:
+                return "This entity is not in the knowledge graph."
+            
+            entity = result[0]
+            response = f"<{entity['name']}>"
+            if entity.get('ids'):
+                response += f" [NCIT IDs: {', '.join(entity['ids'])}]"
+            if entity.get('papers'):
+                papers = [p.strip() for p in entity['papers'].split(",") if p.strip()]
+                response += f" [source: {', '.join(sorted(set(papers)))}]"
+            return response
+        
+        # Handle source paper queries
+        if "source paper" in question.lower():
+            entity_name = question.split("for")[-1].split("about")[-1].strip()
+            result = graph.query("""
+                MATCH (e:Entity {name: $name})
+                RETURN e.name AS name, e.source_paper AS papers
+                """, {"name": entity_name})
+            
+            if not result or not result[0].get('papers'):
+                return f"No source papers found for {entity_name} in the knowledge graph."
+            
+            papers = [p.strip() for p in result[0]['papers'].split(",") if p.strip()]
+            return f"<{result[0]['name']}> [source: {', '.join(sorted(set(papers)))}]"
+        
+        # General question handling
+        relationships = get_graph_data(question)
         if not relationships:
-            return "No graph data available"
-
-        response = (qa_prompt | llm).invoke({
-            "graph_data": generate_context(relationships),
-            "papers": ", ".join(sorted(papers)) if papers else "multiple sources",
-            "entity_types": ", ".join(sorted(entity_types)),
-            "question": question
-        })
-
-        return response.strip()
+            return "No relevant information found in the knowledge graph."
+        
+        # Format the graph data for the prompt
+        formatted_relationships = []
+        for rel in relationships:
+            source_info = format_entity_info({
+                'name': rel['source'],
+                'label': rel.get('source_label'),
+                'source_ids': rel.get('source_ids'),
+                'source_papers': rel.get('source_papers')
+            })
+            
+            target_info = format_entity_info({
+                'name': rel['target'],
+                'label': rel.get('target_label'),
+                'source_ids': rel.get('target_ids'),
+                'source_papers': rel.get('target_papers')
+            })
+            
+            # Collect all relevant papers
+            papers = set()
+            for paper_field in ['source_papers', 'target_papers', 'relation_papers']:
+                if rel.get(paper_field):
+                    papers.update(p.strip() for p in rel[paper_field].split(",") if p.strip())
+            
+            rel_info = f"{source_info} --{rel['relation']}--> {target_info}"
+            if papers:
+                rel_info += f" [supported by: {', '.join(sorted(papers))}]"
+            
+            formatted_relationships.append(rel_info)
+        
+        # Get answer from selected model
+        response = qa_model.invoke(qa_prompt.format(
+            graph_data="\n".join(formatted_relationships),
+            question=question
+        ))
+        
+        # Handle different response types
+        if hasattr(response, 'content'):
+            return response.content
+        elif hasattr(response, 'text'):
+            return response.text
+        return str(response)
+    
     except Exception as e:
-        return f"Error: {str(e)}"
+        return f"Error processing question: {e}"
 
-def main_loop():
-    print("\n🔬 Biomedical Knowledge Graph QA System")
-    print("Commands: 'exit', 'graph', 'types'")
+def show_graph_summary():
+    """Show summary of the knowledge graph"""
+    result = graph.query("""
+    MATCH (n)
+    RETURN labels(n)[0] AS type, count(*) AS count
+    UNION
+    MATCH ()-[r]->()
+    RETURN type(r) AS type, count(*) AS count
+    """)
+    
+    print("\n📊 Knowledge Graph Summary:")
+    for row in result:
+        print(f"- {row['type']}: {row['count']}")
 
-    initialize_graph(SAMPLE_RELATIONSHIPS)
+def show_entity_types():
+    """Show all entity types in the graph"""
+    result = graph.query("""
+    MATCH (e:Entity)
+    WHERE e.label IS NOT NULL
+    RETURN DISTINCT e.label AS type
+    """)
+    
+    print("\n🏷️ Entity Types:")
+    for row in sorted(result, key=lambda x: x['type']):
+        print(f"- {row['type']}")
 
+def main_loop(model_choice: str = None):
+    """Main QA loop with model selection"""
+    if model_choice is None:
+        model_choice = get_model_choice()
+    
+    global graph, qa_model
+    graph, qa_model = initialize_services(model_choice)
+    
+    print(f"\n🔍 Starting QA Session with {model_choice.upper()} (type 'exit' to end)")
+    print("Available commands: 'summary', 'types'")
+    
     while True:
         try:
-            user_input = input("\nYour question/command: ").strip()
-
+            user_input = input("\nQuestion: ").strip()
+            
             if not user_input:
                 continue
-
+                
             if user_input.lower() == 'exit':
                 break
-
-            if user_input.lower() == 'graph':
-                data, _, _ = get_graph_data(limit=10)
-                print("\nCurrent Relationships:")
-                for rel in data:
-                    print(f"{rel['source']} --{rel['relation']}--> {rel['target']} [source: {', '.join(rel.get('papers', []))}]")
+                
+            if user_input.lower() == 'summary':
+                show_graph_summary()
                 continue
-
+                
             if user_input.lower() == 'types':
-                _, _, types = get_graph_data()
-                print("\nEntity Types:")
-                for t in sorted(types):
-                    print(f"- {t}")
+                show_entity_types()
                 continue
-
-            answer = answer_question(user_input)
+                
+            answer = answer_question(user_input, qa_model)
             print(f"\n💡 {answer}")
-
+            
         except KeyboardInterrupt:
-            print("\nExiting...")
+            print("\nEnding QA session...")
             break
+        except Exception as e:
+            print(f"⚠️ Error: {e}")
+        finally:
+            graph.close()
 
 if __name__ == "__main__":
+    graph = None
+    qa_model = None
     try:
         main_loop()
-    finally:
-        graph.close()
+    except Exception as e:
+        print(f"❌ Fatal error: {e}")
+        if graph:
+            graph.close()
